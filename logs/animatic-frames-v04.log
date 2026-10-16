@@ -1,0 +1,147 @@
+00:00.797  blend            | Read blend: "D:\CodeSpace\track-mesh-blender-product-video\scenes\versions\trackmesh-v04.blend"
+00:00.922  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:05.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0001.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 1, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0001.png", "seconds": 4.82, "device": "GPU"}
+00:09.579  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0002.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 2, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0002.png", "seconds": 3.83, "device": "GPU"}
+00:13.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0003.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 3, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0003.png", "seconds": 4.16, "device": "GPU"}
+00:18.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0004.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 4, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0004.png", "seconds": 4.26, "device": "GPU"}
+00:22.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0005.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 5, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0005.png", "seconds": 4.0, "device": "GPU"}
+00:25.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0006.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 6, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0006.png", "seconds": 3.95, "device": "GPU"}
+00:29.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0007.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 7, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0007.png", "seconds": 3.95, "device": "GPU"}
+01:12.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0008.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 8, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0008.png", "seconds": 42.71, "device": "GPU"}
+01:54.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0009.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 9, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0009.png", "seconds": 41.57, "device": "GPU"}
+02:06.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0010.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 10, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0010.png", "seconds": 12.63, "device": "GPU"}
+02:11.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0011.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 11, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0011.png", "seconds": 4.58, "device": "GPU"}
+02:15.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0012.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 12, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0012.png", "seconds": 4.45, "device": "GPU"}
+TRACKMESH_PRESERVED 13 D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0013.png
+02:20.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0014.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 14, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0014.png", "seconds": 4.44, "device": "GPU"}
+02:24.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0015.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 15, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0015.png", "seconds": 4.37, "device": "GPU"}
+02:28.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0016.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 16, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0016.png", "seconds": 4.27, "device": "GPU"}
+02:33.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0017.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 17, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0017.png", "seconds": 4.31, "device": "GPU"}
+02:37.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0018.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 18, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0018.png", "seconds": 4.23, "device": "GPU"}
+02:41.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0019.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 19, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0019.png", "seconds": 4.17, "device": "GPU"}
+02:45.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0020.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 20, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0020.png", "seconds": 4.25, "device": "GPU"}
+02:50.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0021.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 21, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0021.png", "seconds": 4.55, "device": "GPU"}
+02:55.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0022.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 22, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0022.png", "seconds": 4.57, "device": "GPU"}
+02:59.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0023.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 23, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0023.png", "seconds": 4.38, "device": "GPU"}
+03:03.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0024.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 24, "camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0024.png", "seconds": 4.43, "device": "GPU"}
+03:08.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0025.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 25, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0025.png", "seconds": 4.63, "device": "GPU"}
+03:12.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0026.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 26, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0026.png", "seconds": 4.32, "device": "GPU"}
+03:17.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0027.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 27, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0027.png", "seconds": 4.23, "device": "GPU"}
+03:21.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0028.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 28, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0028.png", "seconds": 4.33, "device": "GPU"}
+03:25.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0029.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 29, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0029.png", "seconds": 4.22, "device": "GPU"}
+03:29.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0030.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 30, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0030.png", "seconds": 4.24, "device": "GPU"}
+03:34.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0031.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 31, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0031.png", "seconds": 4.24, "device": "GPU"}
+03:38.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0032.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 32, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0032.png", "seconds": 4.19, "device": "GPU"}
+03:42.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0033.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 33, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0033.png", "seconds": 4.18, "device": "GPU"}
+03:46.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0034.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 34, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0034.png", "seconds": 3.97, "device": "GPU"}
+03:50.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0035.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 35, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0035.png", "seconds": 3.91, "device": "GPU"}
+03:54.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0036.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 36, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0036.png", "seconds": 3.97, "device": "GPU"}
+03:58.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0037.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 37, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0037.png", "seconds": 3.93, "device": "GPU"}
+04:02.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0038.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 38, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0038.png", "seconds": 3.95, "device": "GPU"}
+04:06.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0039.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 39, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0039.png", "seconds": 3.96, "device": "GPU"}
+04:10.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0040.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 40, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0040.png", "seconds": 3.93, "device": "GPU"}
+04:14.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0041.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 41, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0041.png", "seconds": 3.91, "device": "GPU"}
+04:18.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0042.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 42, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0042.png", "seconds": 4.15, "device": "GPU"}
+04:22.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0043.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 43, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0043.png", "seconds": 3.92, "device": "GPU"}
+04:26.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0044.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 44, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0044.png", "seconds": 3.95, "device": "GPU"}
+04:30.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0045.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 45, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0045.png", "seconds": 3.95, "device": "GPU"}
+04:34.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0046.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 46, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0046.png", "seconds": 4.16, "device": "GPU"}
+04:38.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0047.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 47, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0047.png", "seconds": 3.99, "device": "GPU"}
+04:42.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0048.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 48, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0048.png", "seconds": 3.92, "device": "GPU"}
+04:46.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0049.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 49, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0049.png", "seconds": 3.91, "device": "GPU"}
+04:49.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0050.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 50, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0050.png", "seconds": 3.87, "device": "GPU"}
+04:53.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0051.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 51, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0051.png", "seconds": 3.9, "device": "GPU"}
+04:57.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0052.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 52, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0052.png", "seconds": 3.91, "device": "GPU"}
+05:01.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0053.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 53, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0053.png", "seconds": 3.92, "device": "GPU"}
+05:05.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0054.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 54, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0054.png", "seconds": 3.89, "device": "GPU"}
+05:09.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0055.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 55, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0055.png", "seconds": 3.86, "device": "GPU"}
+05:13.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0056.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 56, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0056.png", "seconds": 3.86, "device": "GPU"}
+05:17.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0057.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 57, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0057.png", "seconds": 3.9, "device": "GPU"}
+05:21.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0058.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 58, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0058.png", "seconds": 3.91, "device": "GPU"}
+05:25.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0059.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 59, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0059.png", "seconds": 4.08, "device": "GPU"}
+05:29.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0060.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 60, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0060.png", "seconds": 3.95, "device": "GPU"}
+05:33.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0061.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 61, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0061.png", "seconds": 3.91, "device": "GPU"}
+05:36.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0062.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 62, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0062.png", "seconds": 3.82, "device": "GPU"}
+05:40.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0063.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 63, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0063.png", "seconds": 3.95, "device": "GPU"}
+TRACKMESH_PRESERVED 64 D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0064.png
+05:44.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0065.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 65, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0065.png", "seconds": 3.9, "device": "GPU"}
+05:48.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0066.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 66, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0066.png", "seconds": 3.85, "device": "GPU"}
+05:52.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0067.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 67, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0067.png", "seconds": 3.88, "device": "GPU"}
+05:56.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0068.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 68, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0068.png", "seconds": 3.86, "device": "GPU"}
+06:00.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0069.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 69, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0069.png", "seconds": 3.86, "device": "GPU"}
+06:04.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0070.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 70, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0070.png", "seconds": 3.83, "device": "GPU"}
+06:07.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0071.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 71, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0071.png", "seconds": 3.84, "device": "GPU"}
+06:11.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\animatic-v04\frame_0072.png'
+TRACKMESH_ANIMATIC_RENDER {"frame": 72, "camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\animatic-v04\\frame_0072.png", "seconds": 3.9, "device": "GPU"}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

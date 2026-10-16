@@ -1,0 +1,5 @@
+00:00.672  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+TRACKMESH_PROBE {"version": "5.2.2 LTS", "binary": "D:\\CodeSpace\\track-mesh-blender-product-video\\tools\\blender\\blender-5.2.2-windows-x64\\blender.exe", "platform": "Windows-11-10.0.26200-SP0", "initial_engine": "BLENDER_EEVEE", "initial_cycles_device": "CPU", "initial_compute_type": "NONE", "accelerators": {"OPTIX": {"available": true, "devices": [{"name": "NVIDIA GeForce RTX 2060", "type": "OPTIX", "id": "CUDA_NVIDIA GeForce RTX 2060_0000:01:00_OptiX"}]}, "CUDA": {"available": true, "devices": [{"name": "NVIDIA GeForce RTX 2060", "type": "CUDA", "id": "CUDA_NVIDIA GeForce RTX 2060_0000:01:00"}]}, "HIP": {"available": false, "devices": []}, "ONEAPI": {"available": false, "devices": []}, "METAL": {"unavailable": "bpy_struct: item.attr = val: enum \"METAL\" not found in ('NONE', 'CUDA', 'OPTIX', 'HIP', 'ONEAPI')"}}, "selection": "OPTIX"}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

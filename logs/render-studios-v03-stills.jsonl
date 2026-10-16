@@ -1,0 +1,17 @@
+{"frame": 60, "camera": "A wide", "file": "frame_0060.png", "seconds": 2.45, "percent": 50}
+{"frame": 160, "camera": "A close", "file": "frame_0160.png", "seconds": 2.42, "percent": 50}
+{"frame": 210, "camera": "A close", "file": "frame_0210.png", "seconds": 0.87, "percent": 50}
+{"frame": 300, "camera": "B wide", "file": "frame_0300.png", "seconds": 0.66, "percent": 50}
+{"frame": 430, "camera": "B close", "file": "frame_0430.png", "seconds": 0.66, "percent": 50}
+{"frame": 530, "camera": "A split", "file": "frame_0530_A.png", "seconds": 0.62, "percent": 50}
+{"frame": 530, "camera": "A split", "file": "frame_0530_B.png", "seconds": 0.6, "percent": 50}
+{"frame": 690, "camera": "A split", "file": "frame_0690_A.png", "seconds": 0.6, "percent": 50}
+{"frame": 690, "camera": "A split", "file": "frame_0690_B.png", "seconds": 0.57, "percent": 50}
+{"frame": 530, "camera": "B close", "file": "frame_0530_A.png", "seconds": 1.92, "percent": 50}
+{"frame": 530, "camera": "B close", "file": "frame_0530_B.png", "seconds": 0.72, "percent": 50}
+{"frame": 690, "camera": "B close", "file": "frame_0690_A.png", "seconds": 0.67, "percent": 50}
+{"frame": 690, "camera": "B close", "file": "frame_0690_B.png", "seconds": 0.63, "percent": 50}
+{"frame": 530, "camera": "A split", "file": "frame_0530_A.png", "seconds": 2.15, "percent": 50}
+{"frame": 530, "camera": "B split", "file": "frame_0530_B.png", "seconds": 0.63, "percent": 50}
+{"frame": 690, "camera": "A split", "file": "frame_0690_A.png", "seconds": 0.63, "percent": 50}
+{"frame": 690, "camera": "B split", "file": "frame_0690_B.png", "seconds": 0.55, "percent": 50}

@@ -1,0 +1,20 @@
+Input #0, image2pipe, from 'pipe:0':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 960x540 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 24 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (mjpeg (native) -> vp8 (libvpx))
+[swscaler @ 0000022799637140] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 000002279b5e05c0] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 1 times
+[swscaler @ 000002279b96efc0] deprecated pixel format used, make sure you did set range correctly
+[libvpx @ 000002279ad9f180] v1.14.1
+Output #0, webm, to 'D:\CodeSpace\track-mesh-blender-product-video\renders\previews\animatic-v05-3s.webm':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: vp8, yuv420p(progressive), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 1800 kb/s, 24 fps, 1k tbn
+      Metadata:
+        encoder         : Lavc61.3.100 libvpx
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=   23 fps=0.0 q=13.0 size=       0KiB time=00:00:00.95 bitrate=   3.9kbits/s speed=1.89x    frame=   44 fps= 44 q=24.0 size=     248KiB time=00:00:01.83 bitrate=1106.0kbits/s speed=1.82x    frame=   69 fps= 46 q=17.0 size=     248KiB time=N/A bitrate=N/A speed=N/A    [out#0/webm @ 000002279941cf40] video:669KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.152987%
+frame=   72 fps= 45 q=8.0 Lsize=     670KiB time=00:00:03.00 bitrate=1829.5kbits/s speed=1.89x    

@@ -1,0 +1,22 @@
+{
+  "plugin_binary": "D:\\CodeSpace\\track-mesh\\.build\\vst3\\VST3\\Release\\TrackMesh.vst3\\Contents\\x86_64-win\\TrackMesh.vst3",
+  "plugin_sha256": "e652aac60885cd6cbe22099dbe31d8c640ce874b3470624de0a200b691bbe8be",
+  "editor_host": "D:\\CodeSpace\\track-mesh-blender-product-video\\tools\\vst3-editorhost\\bin\\editorhost.exe",
+  "native_class": "TrackMeshVST3View-v1",
+  "capture": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\trackmesh-vst3-native.png",
+  "dimensions": [
+    580,
+    400
+  ],
+  "real_plugin_loaded": true,
+  "unmodified_plugin": true,
+  "status_source": "synthetic local Named Pipe fixture",
+  "no_actual_snapshot_or_transfer": true,
+  "events": [
+    "PLUGIN_CONNECTED",
+    "GET_STATUS",
+    "GET_STATUS",
+    "GET_STATUS"
+  ],
+  "errors": []
+}

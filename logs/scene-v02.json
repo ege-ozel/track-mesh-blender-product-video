@@ -1,0 +1,29 @@
+{
+  "blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v02.blend",
+  "version": "v02",
+  "backend": "OPTIX",
+  "cameras": [
+    "A_Establishing",
+    "B_DAW",
+    "C_TrackMesh"
+  ],
+  "mesh_count": 290,
+  "animated_objects": 0,
+  "image_assets": [
+    {
+      "name": "daw.png",
+      "packed": true
+    },
+    {
+      "name": "trackmesh.png",
+      "packed": true
+    }
+  ],
+  "settings": {
+    "engine": "CYCLES",
+    "width": 960,
+    "height": 540,
+    "samples": 24,
+    "denoising": true
+  }
+}

@@ -1,0 +1,10 @@
+00:00.875  blend            | Read blend: "D:\CodeSpace\track-mesh-blender-product-video\scenes\versions\trackmesh-v04.blend"
+Traceback (most recent call last):
+  File "D:\CodeSpace\track-mesh-blender-product-video\scripts\audit_animatic.py", line 4, in <module>
+    from blender_extras.object_utils import world_to_camera_view
+ModuleNotFoundError: No module named 'blender_extras'
+
+Error: script failed, file: '.\scripts\audit_animatic.py', exiting.
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

@@ -1,0 +1,44 @@
+{
+  "plugin_binary": "D:\\CodeSpace\\track-mesh\\.build\\vst3\\VST3\\Release\\TrackMesh.vst3\\Contents\\x86_64-win\\TrackMesh.vst3",
+  "plugin_sha256": "5d618945f4fc326d4af1f610ba5308540ec23759fd88dd46400560ca2b4bcb04",
+  "status_source": "synthetic local Named Pipe fixture",
+  "no_actual_snapshot_or_transfer": true,
+  "captures": {
+    "idle": {
+      "capture": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v3\\vst3-idle.png",
+      "dimensions": [
+        580,
+        440
+      ],
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "saving": {
+      "capture": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v3\\vst3-saving.png",
+      "dimensions": [
+        580,
+        440
+      ],
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "shared": {
+      "capture": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v3\\vst3-shared.png",
+      "dimensions": [
+        580,
+        440
+      ],
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  }
+}

@@ -1,0 +1,1444 @@
+00:01.266  blend            | Read blend: "D:\CodeSpace\track-mesh-blender-product-video\scenes\versions\trackmesh-film-v03.blend"
+00:06.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0001.png'
+TRACKMESH_FILM_RENDER {"frame": 1, "camera": "Film S1 wide", "seconds": 4.93, "percent": 100}
+00:09.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0002.png'
+TRACKMESH_FILM_RENDER {"frame": 2, "camera": "Film S1 wide", "seconds": 3.26, "percent": 100}
+00:12.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0003.png'
+TRACKMESH_FILM_RENDER {"frame": 3, "camera": "Film S1 wide", "seconds": 3.13, "percent": 100}
+00:15.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0004.png'
+TRACKMESH_FILM_RENDER {"frame": 4, "camera": "Film S1 wide", "seconds": 3.07, "percent": 100}
+00:18.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0005.png'
+TRACKMESH_FILM_RENDER {"frame": 5, "camera": "Film S1 wide", "seconds": 3.03, "percent": 100}
+00:21.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0006.png'
+TRACKMESH_FILM_RENDER {"frame": 6, "camera": "Film S1 wide", "seconds": 3.13, "percent": 100}
+00:24.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0007.png'
+TRACKMESH_FILM_RENDER {"frame": 7, "camera": "Film S1 wide", "seconds": 2.87, "percent": 100}
+00:27.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0008.png'
+TRACKMESH_FILM_RENDER {"frame": 8, "camera": "Film S1 wide", "seconds": 3.12, "percent": 100}
+00:30.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0009.png'
+TRACKMESH_FILM_RENDER {"frame": 9, "camera": "Film S1 wide", "seconds": 2.95, "percent": 100}
+00:34.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0010.png'
+TRACKMESH_FILM_RENDER {"frame": 10, "camera": "Film S1 wide", "seconds": 3.25, "percent": 100}
+00:37.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0011.png'
+TRACKMESH_FILM_RENDER {"frame": 11, "camera": "Film S1 wide", "seconds": 3.16, "percent": 100}
+00:40.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0012.png'
+TRACKMESH_FILM_RENDER {"frame": 12, "camera": "Film S1 wide", "seconds": 3.24, "percent": 100}
+00:43.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0013.png'
+TRACKMESH_FILM_RENDER {"frame": 13, "camera": "Film S1 wide", "seconds": 3.03, "percent": 100}
+00:46.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0014.png'
+TRACKMESH_FILM_RENDER {"frame": 14, "camera": "Film S1 wide", "seconds": 3.2, "percent": 100}
+00:49.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0015.png'
+TRACKMESH_FILM_RENDER {"frame": 15, "camera": "Film S1 wide", "seconds": 2.91, "percent": 100}
+00:52.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0016.png'
+TRACKMESH_FILM_RENDER {"frame": 16, "camera": "Film S1 wide", "seconds": 3.03, "percent": 100}
+00:55.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0017.png'
+TRACKMESH_FILM_RENDER {"frame": 17, "camera": "Film S1 wide", "seconds": 3.24, "percent": 100}
+00:59.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0018.png'
+TRACKMESH_FILM_RENDER {"frame": 18, "camera": "Film S1 wide", "seconds": 3.15, "percent": 100}
+01:02.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0019.png'
+TRACKMESH_FILM_RENDER {"frame": 19, "camera": "Film S1 wide", "seconds": 3.31, "percent": 100}
+01:05.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0020.png'
+TRACKMESH_FILM_RENDER {"frame": 20, "camera": "Film S1 wide", "seconds": 3.25, "percent": 100}
+01:08.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0021.png'
+TRACKMESH_FILM_RENDER {"frame": 21, "camera": "Film S1 wide", "seconds": 3.14, "percent": 100}
+01:12.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0022.png'
+TRACKMESH_FILM_RENDER {"frame": 22, "camera": "Film S1 wide", "seconds": 3.39, "percent": 100}
+01:15.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0023.png'
+TRACKMESH_FILM_RENDER {"frame": 23, "camera": "Film S1 wide", "seconds": 3.26, "percent": 100}
+01:18.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0024.png'
+TRACKMESH_FILM_RENDER {"frame": 24, "camera": "Film S1 wide", "seconds": 3.39, "percent": 100}
+01:22.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0025.png'
+TRACKMESH_FILM_RENDER {"frame": 25, "camera": "Film S1 wide", "seconds": 3.39, "percent": 100}
+01:25.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0026.png'
+TRACKMESH_FILM_RENDER {"frame": 26, "camera": "Film S1 wide", "seconds": 3.23, "percent": 100}
+01:28.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0027.png'
+TRACKMESH_FILM_RENDER {"frame": 27, "camera": "Film S1 wide", "seconds": 3.29, "percent": 100}
+01:31.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0028.png'
+TRACKMESH_FILM_RENDER {"frame": 28, "camera": "Film S1 wide", "seconds": 3.19, "percent": 100}
+01:35.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0029.png'
+TRACKMESH_FILM_RENDER {"frame": 29, "camera": "Film S1 wide", "seconds": 3.23, "percent": 100}
+01:38.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0030.png'
+TRACKMESH_FILM_RENDER {"frame": 30, "camera": "Film S1 wide", "seconds": 3.12, "percent": 100}
+01:41.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0031.png'
+TRACKMESH_FILM_RENDER {"frame": 31, "camera": "Film S1 wide", "seconds": 2.93, "percent": 100}
+01:44.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0032.png'
+TRACKMESH_FILM_RENDER {"frame": 32, "camera": "Film S1 wide", "seconds": 3.27, "percent": 100}
+01:47.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0033.png'
+TRACKMESH_FILM_RENDER {"frame": 33, "camera": "Film S1 wide", "seconds": 3.31, "percent": 100}
+01:50.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0034.png'
+TRACKMESH_FILM_RENDER {"frame": 34, "camera": "Film S1 wide", "seconds": 3.07, "percent": 100}
+01:54.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0035.png'
+TRACKMESH_FILM_RENDER {"frame": 35, "camera": "Film S1 wide", "seconds": 3.34, "percent": 100}
+01:57.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0036.png'
+TRACKMESH_FILM_RENDER {"frame": 36, "camera": "Film S1 wide", "seconds": 3.29, "percent": 100}
+02:00.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0037.png'
+TRACKMESH_FILM_RENDER {"frame": 37, "camera": "Film S1 wide", "seconds": 3.03, "percent": 100}
+02:03.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0038.png'
+TRACKMESH_FILM_RENDER {"frame": 38, "camera": "Film S1 wide", "seconds": 3.08, "percent": 100}
+02:06.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0039.png'
+TRACKMESH_FILM_RENDER {"frame": 39, "camera": "Film S1 wide", "seconds": 3.14, "percent": 100}
+02:10.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0040.png'
+TRACKMESH_FILM_RENDER {"frame": 40, "camera": "Film S1 wide", "seconds": 3.3, "percent": 100}
+02:13.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0041.png'
+TRACKMESH_FILM_RENDER {"frame": 41, "camera": "Film S1 wide", "seconds": 3.12, "percent": 100}
+02:16.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0042.png'
+TRACKMESH_FILM_RENDER {"frame": 42, "camera": "Film S1 wide", "seconds": 3.13, "percent": 100}
+02:19.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0043.png'
+TRACKMESH_FILM_RENDER {"frame": 43, "camera": "Film S1 wide", "seconds": 3.03, "percent": 100}
+02:22.579  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0044.png'
+TRACKMESH_FILM_RENDER {"frame": 44, "camera": "Film S1 wide", "seconds": 3.14, "percent": 100}
+02:25.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0045.png'
+TRACKMESH_FILM_RENDER {"frame": 45, "camera": "Film S1 wide", "seconds": 3.13, "percent": 100}
+02:28.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0046.png'
+TRACKMESH_FILM_RENDER {"frame": 46, "camera": "Film S1 wide", "seconds": 3.21, "percent": 100}
+02:31.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0047.png'
+TRACKMESH_FILM_RENDER {"frame": 47, "camera": "Film S1 wide", "seconds": 2.95, "percent": 100}
+02:34.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0048.png'
+TRACKMESH_FILM_RENDER {"frame": 48, "camera": "Film S1 wide", "seconds": 3.04, "percent": 100}
+02:38.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0049.png'
+TRACKMESH_FILM_RENDER {"frame": 49, "camera": "Film S1 wide", "seconds": 3.13, "percent": 100}
+02:41.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0050.png'
+TRACKMESH_FILM_RENDER {"frame": 50, "camera": "Film S1 wide", "seconds": 3.36, "percent": 100}
+02:44.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0051.png'
+TRACKMESH_FILM_RENDER {"frame": 51, "camera": "Film S1 wide", "seconds": 3.1, "percent": 100}
+02:47.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0052.png'
+TRACKMESH_FILM_RENDER {"frame": 52, "camera": "Film S1 wide", "seconds": 3.15, "percent": 100}
+02:51.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0053.png'
+TRACKMESH_FILM_RENDER {"frame": 53, "camera": "Film S1 wide", "seconds": 3.48, "percent": 100}
+02:54.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0054.png'
+TRACKMESH_FILM_RENDER {"frame": 54, "camera": "Film S1 wide", "seconds": 3.36, "percent": 100}
+02:57.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0055.png'
+TRACKMESH_FILM_RENDER {"frame": 55, "camera": "Film S1 wide", "seconds": 3.35, "percent": 100}
+03:01.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0056.png'
+TRACKMESH_FILM_RENDER {"frame": 56, "camera": "Film S1 wide", "seconds": 3.63, "percent": 100}
+03:05.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0057.png'
+TRACKMESH_FILM_RENDER {"frame": 57, "camera": "Film S1 wide", "seconds": 3.56, "percent": 100}
+03:08.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0058.png'
+TRACKMESH_FILM_RENDER {"frame": 58, "camera": "Film S1 wide", "seconds": 3.37, "percent": 100}
+03:11.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0059.png'
+TRACKMESH_FILM_RENDER {"frame": 59, "camera": "Film S1 wide", "seconds": 3.51, "percent": 100}
+03:15.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0060.png'
+TRACKMESH_FILM_RENDER {"frame": 60, "camera": "Film S1 wide", "seconds": 3.5, "percent": 100}
+03:18.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0061.png'
+TRACKMESH_FILM_RENDER {"frame": 61, "camera": "Film S1 wide", "seconds": 3.35, "percent": 100}
+03:22.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0062.png'
+TRACKMESH_FILM_RENDER {"frame": 62, "camera": "Film S1 wide", "seconds": 3.27, "percent": 100}
+03:25.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0063.png'
+TRACKMESH_FILM_RENDER {"frame": 63, "camera": "Film S1 wide", "seconds": 3.16, "percent": 100}
+03:28.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0064.png'
+TRACKMESH_FILM_RENDER {"frame": 64, "camera": "Film S1 wide", "seconds": 3.18, "percent": 100}
+03:31.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0065.png'
+TRACKMESH_FILM_RENDER {"frame": 65, "camera": "Film S1 wide", "seconds": 3.28, "percent": 100}
+03:35.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0066.png'
+TRACKMESH_FILM_RENDER {"frame": 66, "camera": "Film S1 wide", "seconds": 3.39, "percent": 100}
+03:38.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0067.png'
+TRACKMESH_FILM_RENDER {"frame": 67, "camera": "Film S1 wide", "seconds": 3.26, "percent": 100}
+03:41.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0068.png'
+TRACKMESH_FILM_RENDER {"frame": 68, "camera": "Film S1 wide", "seconds": 3.33, "percent": 100}
+03:44.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0069.png'
+TRACKMESH_FILM_RENDER {"frame": 69, "camera": "Film S1 wide", "seconds": 3.23, "percent": 100}
+03:48.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0070.png'
+TRACKMESH_FILM_RENDER {"frame": 70, "camera": "Film S1 wide", "seconds": 3.15, "percent": 100}
+03:51.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0071.png'
+TRACKMESH_FILM_RENDER {"frame": 71, "camera": "Film S1 wide", "seconds": 3.36, "percent": 100}
+03:54.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0072.png'
+TRACKMESH_FILM_RENDER {"frame": 72, "camera": "Film S1 wide", "seconds": 3.31, "percent": 100}
+03:57.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0073.png'
+TRACKMESH_FILM_RENDER {"frame": 73, "camera": "Film S1 wide", "seconds": 3.24, "percent": 100}
+04:01.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0074.png'
+TRACKMESH_FILM_RENDER {"frame": 74, "camera": "Film S1 wide", "seconds": 3.15, "percent": 100}
+04:04.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0075.png'
+TRACKMESH_FILM_RENDER {"frame": 75, "camera": "Film S1 wide", "seconds": 3.19, "percent": 100}
+04:07.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0076.png'
+TRACKMESH_FILM_RENDER {"frame": 76, "camera": "Film S1 wide", "seconds": 3.36, "percent": 100}
+04:10.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0077.png'
+TRACKMESH_FILM_RENDER {"frame": 77, "camera": "Film S1 wide", "seconds": 3.22, "percent": 100}
+04:14.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0078.png'
+TRACKMESH_FILM_RENDER {"frame": 78, "camera": "Film S1 wide", "seconds": 3.3, "percent": 100}
+04:17.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0079.png'
+TRACKMESH_FILM_RENDER {"frame": 79, "camera": "Film S1 wide", "seconds": 3.3, "percent": 100}
+04:20.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0080.png'
+TRACKMESH_FILM_RENDER {"frame": 80, "camera": "Film S1 wide", "seconds": 3.4, "percent": 100}
+04:23.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0081.png'
+TRACKMESH_FILM_RENDER {"frame": 81, "camera": "Film S1 wide", "seconds": 2.71, "percent": 100}
+04:26.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0082.png'
+TRACKMESH_FILM_RENDER {"frame": 82, "camera": "Film S1 wide", "seconds": 2.67, "percent": 100}
+04:29.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0083.png'
+TRACKMESH_FILM_RENDER {"frame": 83, "camera": "Film S1 wide", "seconds": 2.77, "percent": 100}
+04:31.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0084.png'
+TRACKMESH_FILM_RENDER {"frame": 84, "camera": "Film S1 wide", "seconds": 2.64, "percent": 100}
+04:34.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0085.png'
+TRACKMESH_FILM_RENDER {"frame": 85, "camera": "Film S1 wide", "seconds": 2.69, "percent": 100}
+04:37.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0086.png'
+TRACKMESH_FILM_RENDER {"frame": 86, "camera": "Film S1 wide", "seconds": 2.67, "percent": 100}
+04:39.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0087.png'
+TRACKMESH_FILM_RENDER {"frame": 87, "camera": "Film S1 wide", "seconds": 2.85, "percent": 100}
+04:43.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0088.png'
+TRACKMESH_FILM_RENDER {"frame": 88, "camera": "Film S1 wide", "seconds": 3.14, "percent": 100}
+04:46.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0089.png'
+TRACKMESH_FILM_RENDER {"frame": 89, "camera": "Film S1 wide", "seconds": 3.19, "percent": 100}
+04:49.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0090.png'
+TRACKMESH_FILM_RENDER {"frame": 90, "camera": "Film S1 wide", "seconds": 2.77, "percent": 100}
+04:52.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0091.png'
+TRACKMESH_FILM_RENDER {"frame": 91, "camera": "Film S1 wide", "seconds": 3.72, "percent": 100}
+04:56.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0092.png'
+TRACKMESH_FILM_RENDER {"frame": 92, "camera": "Film S1 wide", "seconds": 3.35, "percent": 100}
+04:59.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0093.png'
+TRACKMESH_FILM_RENDER {"frame": 93, "camera": "Film S1 wide", "seconds": 3.1, "percent": 100}
+05:02.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0094.png'
+TRACKMESH_FILM_RENDER {"frame": 94, "camera": "Film S1 wide", "seconds": 3.06, "percent": 100}
+05:05.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0095.png'
+TRACKMESH_FILM_RENDER {"frame": 95, "camera": "Film S1 wide", "seconds": 3.14, "percent": 100}
+05:08.391  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0096.png'
+TRACKMESH_FILM_RENDER {"frame": 96, "camera": "Film S1 wide", "seconds": 2.96, "percent": 100}
+05:10.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0097.png'
+TRACKMESH_FILM_RENDER {"frame": 97, "camera": "Film S2 DAW", "seconds": 2.14, "percent": 100}
+05:13.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0098.png'
+TRACKMESH_FILM_RENDER {"frame": 98, "camera": "Film S2 DAW", "seconds": 2.72, "percent": 100}
+05:16.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0099.png'
+TRACKMESH_FILM_RENDER {"frame": 99, "camera": "Film S2 DAW", "seconds": 2.87, "percent": 100}
+05:18.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0100.png'
+TRACKMESH_FILM_RENDER {"frame": 100, "camera": "Film S2 DAW", "seconds": 2.3, "percent": 100}
+05:20.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0101.png'
+TRACKMESH_FILM_RENDER {"frame": 101, "camera": "Film S2 DAW", "seconds": 1.76, "percent": 100}
+05:22.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0102.png'
+TRACKMESH_FILM_RENDER {"frame": 102, "camera": "Film S2 DAW", "seconds": 2.15, "percent": 100}
+05:24.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0103.png'
+TRACKMESH_FILM_RENDER {"frame": 103, "camera": "Film S2 DAW", "seconds": 1.74, "percent": 100}
+05:26.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0104.png'
+TRACKMESH_FILM_RENDER {"frame": 104, "camera": "Film S2 DAW", "seconds": 1.96, "percent": 100}
+05:27.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0105.png'
+TRACKMESH_FILM_RENDER {"frame": 105, "camera": "Film S2 DAW", "seconds": 1.69, "percent": 100}
+05:29.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0106.png'
+TRACKMESH_FILM_RENDER {"frame": 106, "camera": "Film S2 DAW", "seconds": 1.69, "percent": 100}
+05:31.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0107.png'
+TRACKMESH_FILM_RENDER {"frame": 107, "camera": "Film S2 DAW", "seconds": 1.63, "percent": 100}
+05:32.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0108.png'
+TRACKMESH_FILM_RENDER {"frame": 108, "camera": "Film S2 DAW", "seconds": 1.78, "percent": 100}
+05:34.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0109.png'
+TRACKMESH_FILM_RENDER {"frame": 109, "camera": "Film S2 DAW", "seconds": 1.76, "percent": 100}
+05:36.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0110.png'
+TRACKMESH_FILM_RENDER {"frame": 110, "camera": "Film S2 DAW", "seconds": 1.63, "percent": 100}
+05:37.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0111.png'
+TRACKMESH_FILM_RENDER {"frame": 111, "camera": "Film S2 DAW", "seconds": 1.52, "percent": 100}
+05:39.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0112.png'
+TRACKMESH_FILM_RENDER {"frame": 112, "camera": "Film S2 DAW", "seconds": 1.49, "percent": 100}
+05:40.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0113.png'
+TRACKMESH_FILM_RENDER {"frame": 113, "camera": "Film S2 DAW", "seconds": 1.51, "percent": 100}
+05:42.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0114.png'
+TRACKMESH_FILM_RENDER {"frame": 114, "camera": "Film S2 DAW", "seconds": 1.5, "percent": 100}
+05:43.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0115.png'
+TRACKMESH_FILM_RENDER {"frame": 115, "camera": "Film S2 DAW", "seconds": 1.56, "percent": 100}
+05:45.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0116.png'
+TRACKMESH_FILM_RENDER {"frame": 116, "camera": "Film S2 DAW", "seconds": 1.42, "percent": 100}
+05:47.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0117.png'
+TRACKMESH_FILM_RENDER {"frame": 117, "camera": "Film S2 DAW", "seconds": 1.72, "percent": 100}
+05:48.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0118.png'
+TRACKMESH_FILM_RENDER {"frame": 118, "camera": "Film S2 DAW", "seconds": 1.8, "percent": 100}
+05:50.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0119.png'
+TRACKMESH_FILM_RENDER {"frame": 119, "camera": "Film S2 DAW", "seconds": 1.8, "percent": 100}
+05:52.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0120.png'
+TRACKMESH_FILM_RENDER {"frame": 120, "camera": "Film S2 DAW", "seconds": 1.69, "percent": 100}
+05:54.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0121.png'
+TRACKMESH_FILM_RENDER {"frame": 121, "camera": "Film S2 DAW", "seconds": 1.72, "percent": 100}
+05:55.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0122.png'
+TRACKMESH_FILM_RENDER {"frame": 122, "camera": "Film S2 DAW", "seconds": 1.7, "percent": 100}
+05:57.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0123.png'
+TRACKMESH_FILM_RENDER {"frame": 123, "camera": "Film S2 DAW", "seconds": 1.86, "percent": 100}
+05:59.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0124.png'
+TRACKMESH_FILM_RENDER {"frame": 124, "camera": "Film S2 DAW", "seconds": 1.71, "percent": 100}
+06:01.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0125.png'
+TRACKMESH_FILM_RENDER {"frame": 125, "camera": "Film S2 DAW", "seconds": 1.78, "percent": 100}
+06:03.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0126.png'
+TRACKMESH_FILM_RENDER {"frame": 126, "camera": "Film S2 DAW", "seconds": 1.99, "percent": 100}
+06:04.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0127.png'
+TRACKMESH_FILM_RENDER {"frame": 127, "camera": "Film S2 DAW", "seconds": 1.66, "percent": 100}
+06:06.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0128.png'
+TRACKMESH_FILM_RENDER {"frame": 128, "camera": "Film S2 DAW", "seconds": 1.73, "percent": 100}
+06:08.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0129.png'
+TRACKMESH_FILM_RENDER {"frame": 129, "camera": "Film S2 DAW", "seconds": 1.68, "percent": 100}
+06:09.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0130.png'
+TRACKMESH_FILM_RENDER {"frame": 130, "camera": "Film S2 DAW", "seconds": 1.6, "percent": 100}
+06:11.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0131.png'
+TRACKMESH_FILM_RENDER {"frame": 131, "camera": "Film S2 DAW", "seconds": 1.71, "percent": 100}
+06:13.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0132.png'
+TRACKMESH_FILM_RENDER {"frame": 132, "camera": "Film S2 DAW", "seconds": 1.63, "percent": 100}
+06:14.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0133.png'
+TRACKMESH_FILM_RENDER {"frame": 133, "camera": "Film S2 DAW", "seconds": 1.69, "percent": 100}
+06:16.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0134.png'
+TRACKMESH_FILM_RENDER {"frame": 134, "camera": "Film S2 DAW", "seconds": 1.63, "percent": 100}
+06:18.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0135.png'
+TRACKMESH_FILM_RENDER {"frame": 135, "camera": "Film S2 DAW", "seconds": 1.61, "percent": 100}
+06:19.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0136.png'
+TRACKMESH_FILM_RENDER {"frame": 136, "camera": "Film S2 DAW", "seconds": 1.59, "percent": 100}
+06:21.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0137.png'
+TRACKMESH_FILM_RENDER {"frame": 137, "camera": "Film S2 DAW", "seconds": 1.71, "percent": 100}
+06:23.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0138.png'
+TRACKMESH_FILM_RENDER {"frame": 138, "camera": "Film S2 DAW", "seconds": 1.68, "percent": 100}
+06:24.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0139.png'
+TRACKMESH_FILM_RENDER {"frame": 139, "camera": "Film S2 DAW", "seconds": 1.6, "percent": 100}
+06:26.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0140.png'
+TRACKMESH_FILM_RENDER {"frame": 140, "camera": "Film S2 DAW", "seconds": 1.71, "percent": 100}
+06:28.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0141.png'
+TRACKMESH_FILM_RENDER {"frame": 141, "camera": "Film S2 DAW", "seconds": 1.67, "percent": 100}
+06:29.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0142.png'
+TRACKMESH_FILM_RENDER {"frame": 142, "camera": "Film S2 DAW", "seconds": 1.64, "percent": 100}
+06:31.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0143.png'
+TRACKMESH_FILM_RENDER {"frame": 143, "camera": "Film S2 DAW", "seconds": 1.76, "percent": 100}
+06:34.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0144.png'
+TRACKMESH_FILM_RENDER {"frame": 144, "camera": "Film S2 DAW", "seconds": 3.28, "percent": 100}
+06:36.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0145.png'
+TRACKMESH_FILM_RENDER {"frame": 145, "camera": "Film S2 DAW", "seconds": 2.17, "percent": 100}
+06:38.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0146.png'
+TRACKMESH_FILM_RENDER {"frame": 146, "camera": "Film S2 DAW", "seconds": 1.8, "percent": 100}
+06:40.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0147.png'
+TRACKMESH_FILM_RENDER {"frame": 147, "camera": "Film S2 DAW", "seconds": 1.7, "percent": 100}
+06:42.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0148.png'
+TRACKMESH_FILM_RENDER {"frame": 148, "camera": "Film S2 DAW", "seconds": 1.76, "percent": 100}
+06:43.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0149.png'
+TRACKMESH_FILM_RENDER {"frame": 149, "camera": "Film S2 DAW", "seconds": 1.68, "percent": 100}
+06:45.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0150.png'
+TRACKMESH_FILM_RENDER {"frame": 150, "camera": "Film S2 DAW", "seconds": 1.81, "percent": 100}
+06:47.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0151.png'
+TRACKMESH_FILM_RENDER {"frame": 151, "camera": "Film S2 DAW", "seconds": 1.7, "percent": 100}
+06:49.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0152.png'
+TRACKMESH_FILM_RENDER {"frame": 152, "camera": "Film S2 DAW", "seconds": 1.68, "percent": 100}
+06:50.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0153.png'
+TRACKMESH_FILM_RENDER {"frame": 153, "camera": "Film S2 DAW", "seconds": 1.68, "percent": 100}
+06:52.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0154.png'
+TRACKMESH_FILM_RENDER {"frame": 154, "camera": "Film S2 DAW", "seconds": 1.81, "percent": 100}
+06:54.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0155.png'
+TRACKMESH_FILM_RENDER {"frame": 155, "camera": "Film S2 DAW", "seconds": 1.76, "percent": 100}
+06:56.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0156.png'
+TRACKMESH_FILM_RENDER {"frame": 156, "camera": "Film S2 DAW", "seconds": 1.72, "percent": 100}
+06:57.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0157.png'
+TRACKMESH_FILM_RENDER {"frame": 157, "camera": "Film S2 DAW", "seconds": 1.74, "percent": 100}
+06:59.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0158.png'
+TRACKMESH_FILM_RENDER {"frame": 158, "camera": "Film S2 DAW", "seconds": 1.82, "percent": 100}
+07:01.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0159.png'
+TRACKMESH_FILM_RENDER {"frame": 159, "camera": "Film S2 DAW", "seconds": 1.66, "percent": 100}
+07:02.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0160.png'
+TRACKMESH_FILM_RENDER {"frame": 160, "camera": "Film S2 DAW", "seconds": 1.7, "percent": 100}
+07:04.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0161.png'
+TRACKMESH_FILM_RENDER {"frame": 161, "camera": "Film S2 DAW", "seconds": 1.69, "percent": 100}
+07:06.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0162.png'
+TRACKMESH_FILM_RENDER {"frame": 162, "camera": "Film S2 DAW", "seconds": 1.75, "percent": 100}
+07:08.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0163.png'
+TRACKMESH_FILM_RENDER {"frame": 163, "camera": "Film S2 DAW", "seconds": 1.72, "percent": 100}
+07:09.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0164.png'
+TRACKMESH_FILM_RENDER {"frame": 164, "camera": "Film S2 DAW", "seconds": 1.67, "percent": 100}
+07:11.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0165.png'
+TRACKMESH_FILM_RENDER {"frame": 165, "camera": "Film S2 DAW", "seconds": 1.6, "percent": 100}
+07:13.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0166.png'
+TRACKMESH_FILM_RENDER {"frame": 166, "camera": "Film S2 DAW", "seconds": 1.62, "percent": 100}
+07:14.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0167.png'
+TRACKMESH_FILM_RENDER {"frame": 167, "camera": "Film S2 DAW", "seconds": 1.6, "percent": 100}
+07:16.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0168.png'
+TRACKMESH_FILM_RENDER {"frame": 168, "camera": "Film S2 DAW", "seconds": 1.52, "percent": 100}
+07:17.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0169.png'
+TRACKMESH_FILM_RENDER {"frame": 169, "camera": "Film S2 DAW", "seconds": 1.48, "percent": 100}
+07:19.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0170.png'
+TRACKMESH_FILM_RENDER {"frame": 170, "camera": "Film S2 DAW", "seconds": 1.44, "percent": 100}
+07:20.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0171.png'
+TRACKMESH_FILM_RENDER {"frame": 171, "camera": "Film S2 DAW", "seconds": 1.4, "percent": 100}
+07:22.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0172.png'
+TRACKMESH_FILM_RENDER {"frame": 172, "camera": "Film S2 DAW", "seconds": 1.55, "percent": 100}
+07:23.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0173.png'
+TRACKMESH_FILM_RENDER {"frame": 173, "camera": "Film S2 DAW", "seconds": 1.5, "percent": 100}
+07:24.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0174.png'
+TRACKMESH_FILM_RENDER {"frame": 174, "camera": "Film S2 DAW", "seconds": 1.43, "percent": 100}
+07:26.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0175.png'
+TRACKMESH_FILM_RENDER {"frame": 175, "camera": "Film S2 DAW", "seconds": 1.5, "percent": 100}
+07:27.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0176.png'
+TRACKMESH_FILM_RENDER {"frame": 176, "camera": "Film S2 DAW", "seconds": 1.41, "percent": 100}
+07:29.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0177.png'
+TRACKMESH_FILM_RENDER {"frame": 177, "camera": "Film S2 DAW", "seconds": 1.48, "percent": 100}
+07:30.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0178.png'
+TRACKMESH_FILM_RENDER {"frame": 178, "camera": "Film S2 DAW", "seconds": 1.6, "percent": 100}
+07:32.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0179.png'
+TRACKMESH_FILM_RENDER {"frame": 179, "camera": "Film S2 DAW", "seconds": 1.75, "percent": 100}
+07:34.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0180.png'
+TRACKMESH_FILM_RENDER {"frame": 180, "camera": "Film S2 DAW", "seconds": 1.77, "percent": 100}
+07:36.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0181.png'
+TRACKMESH_FILM_RENDER {"frame": 181, "camera": "Film S2 DAW", "seconds": 1.53, "percent": 100}
+07:37.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0182.png'
+TRACKMESH_FILM_RENDER {"frame": 182, "camera": "Film S2 DAW", "seconds": 1.51, "percent": 100}
+07:39.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0183.png'
+TRACKMESH_FILM_RENDER {"frame": 183, "camera": "Film S2 DAW", "seconds": 1.73, "percent": 100}
+07:40.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0184.png'
+TRACKMESH_FILM_RENDER {"frame": 184, "camera": "Film S2 DAW", "seconds": 1.54, "percent": 100}
+07:42.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0185.png'
+TRACKMESH_FILM_RENDER {"frame": 185, "camera": "Film S2 DAW", "seconds": 1.44, "percent": 100}
+07:43.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0186.png'
+TRACKMESH_FILM_RENDER {"frame": 186, "camera": "Film S2 DAW", "seconds": 1.42, "percent": 100}
+07:45.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0187.png'
+TRACKMESH_FILM_RENDER {"frame": 187, "camera": "Film S2 DAW", "seconds": 1.45, "percent": 100}
+07:46.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0188.png'
+TRACKMESH_FILM_RENDER {"frame": 188, "camera": "Film S2 DAW", "seconds": 1.62, "percent": 100}
+07:48.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0189.png'
+TRACKMESH_FILM_RENDER {"frame": 189, "camera": "Film S2 DAW", "seconds": 1.7, "percent": 100}
+07:49.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0190.png'
+TRACKMESH_FILM_RENDER {"frame": 190, "camera": "Film S2 DAW", "seconds": 1.44, "percent": 100}
+07:51.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0191.png'
+TRACKMESH_FILM_RENDER {"frame": 191, "camera": "Film S2 DAW", "seconds": 1.58, "percent": 100}
+07:53.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0192.png'
+TRACKMESH_FILM_RENDER {"frame": 192, "camera": "Film S2 DAW", "seconds": 1.62, "percent": 100}
+07:54.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0193.png'
+TRACKMESH_FILM_RENDER {"frame": 193, "camera": "Film S2 DAW", "seconds": 1.49, "percent": 100}
+07:56.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0194.png'
+TRACKMESH_FILM_RENDER {"frame": 194, "camera": "Film S2 DAW", "seconds": 1.58, "percent": 100}
+07:57.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0195.png'
+TRACKMESH_FILM_RENDER {"frame": 195, "camera": "Film S2 DAW", "seconds": 1.53, "percent": 100}
+07:59.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0196.png'
+TRACKMESH_FILM_RENDER {"frame": 196, "camera": "Film S2 DAW", "seconds": 1.56, "percent": 100}
+08:00.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0197.png'
+TRACKMESH_FILM_RENDER {"frame": 197, "camera": "Film S2 DAW", "seconds": 1.44, "percent": 100}
+08:02.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0198.png'
+TRACKMESH_FILM_RENDER {"frame": 198, "camera": "Film S2 DAW", "seconds": 1.51, "percent": 100}
+08:04.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0199.png'
+TRACKMESH_FILM_RENDER {"frame": 199, "camera": "Film S2 DAW", "seconds": 1.75, "percent": 100}
+08:06.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0200.png'
+TRACKMESH_FILM_RENDER {"frame": 200, "camera": "Film S2 DAW", "seconds": 2.02, "percent": 100}
+08:07.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0201.png'
+TRACKMESH_FILM_RENDER {"frame": 201, "camera": "Film S2 DAW", "seconds": 1.62, "percent": 100}
+08:09.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0202.png'
+TRACKMESH_FILM_RENDER {"frame": 202, "camera": "Film S2 DAW", "seconds": 1.6, "percent": 100}
+08:10.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0203.png'
+TRACKMESH_FILM_RENDER {"frame": 203, "camera": "Film S2 DAW", "seconds": 1.44, "percent": 100}
+08:12.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0204.png'
+TRACKMESH_FILM_RENDER {"frame": 204, "camera": "Film S2 DAW", "seconds": 1.47, "percent": 100}
+08:13.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0205.png'
+TRACKMESH_FILM_RENDER {"frame": 205, "camera": "Film S2 DAW", "seconds": 1.64, "percent": 100}
+08:15.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0206.png'
+TRACKMESH_FILM_RENDER {"frame": 206, "camera": "Film S2 DAW", "seconds": 1.54, "percent": 100}
+08:16.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0207.png'
+TRACKMESH_FILM_RENDER {"frame": 207, "camera": "Film S2 DAW", "seconds": 1.36, "percent": 100}
+08:18.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0208.png'
+TRACKMESH_FILM_RENDER {"frame": 208, "camera": "Film S2 DAW", "seconds": 1.31, "percent": 100}
+08:19.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0209.png'
+TRACKMESH_FILM_RENDER {"frame": 209, "camera": "Film S2 DAW", "seconds": 1.39, "percent": 100}
+08:20.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0210.png'
+TRACKMESH_FILM_RENDER {"frame": 210, "camera": "Film S2 DAW", "seconds": 1.34, "percent": 100}
+08:22.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0211.png'
+TRACKMESH_FILM_RENDER {"frame": 211, "camera": "Film S2 DAW", "seconds": 1.41, "percent": 100}
+08:23.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0212.png'
+TRACKMESH_FILM_RENDER {"frame": 212, "camera": "Film S2 DAW", "seconds": 1.3, "percent": 100}
+08:24.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0213.png'
+TRACKMESH_FILM_RENDER {"frame": 213, "camera": "Film S2 DAW", "seconds": 1.41, "percent": 100}
+08:26.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0214.png'
+TRACKMESH_FILM_RENDER {"frame": 214, "camera": "Film S2 DAW", "seconds": 1.37, "percent": 100}
+08:27.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0215.png'
+TRACKMESH_FILM_RENDER {"frame": 215, "camera": "Film S2 DAW", "seconds": 1.34, "percent": 100}
+08:28.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0216.png'
+TRACKMESH_FILM_RENDER {"frame": 216, "camera": "Film S2 DAW", "seconds": 1.33, "percent": 100}
+08:30.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0217.png'
+TRACKMESH_FILM_RENDER {"frame": 217, "camera": "Film S2 DAW", "seconds": 1.34, "percent": 100}
+08:31.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0218.png'
+TRACKMESH_FILM_RENDER {"frame": 218, "camera": "Film S2 DAW", "seconds": 1.31, "percent": 100}
+08:32.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0219.png'
+TRACKMESH_FILM_RENDER {"frame": 219, "camera": "Film S2 DAW", "seconds": 1.31, "percent": 100}
+08:34.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0220.png'
+TRACKMESH_FILM_RENDER {"frame": 220, "camera": "Film S2 DAW", "seconds": 1.34, "percent": 100}
+08:35.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0221.png'
+TRACKMESH_FILM_RENDER {"frame": 221, "camera": "Film S2 DAW", "seconds": 1.32, "percent": 100}
+08:36.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0222.png'
+TRACKMESH_FILM_RENDER {"frame": 222, "camera": "Film S2 DAW", "seconds": 1.39, "percent": 100}
+08:38.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0223.png'
+TRACKMESH_FILM_RENDER {"frame": 223, "camera": "Film S2 DAW", "seconds": 1.47, "percent": 100}
+08:39.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0224.png'
+TRACKMESH_FILM_RENDER {"frame": 224, "camera": "Film S2 DAW", "seconds": 1.41, "percent": 100}
+08:41.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0225.png'
+TRACKMESH_FILM_RENDER {"frame": 225, "camera": "Film S2 DAW", "seconds": 1.3, "percent": 100}
+08:42.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0226.png'
+TRACKMESH_FILM_RENDER {"frame": 226, "camera": "Film S2 DAW", "seconds": 1.33, "percent": 100}
+08:43.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0227.png'
+TRACKMESH_FILM_RENDER {"frame": 227, "camera": "Film S2 DAW", "seconds": 1.3, "percent": 100}
+08:45.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0228.png'
+TRACKMESH_FILM_RENDER {"frame": 228, "camera": "Film S2 DAW", "seconds": 1.32, "percent": 100}
+08:47.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0229.png'
+TRACKMESH_FILM_RENDER {"frame": 229, "camera": "Film S3 link", "seconds": 1.92, "percent": 100}
+08:48.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0230.png'
+TRACKMESH_FILM_RENDER {"frame": 230, "camera": "Film S3 link", "seconds": 1.88, "percent": 100}
+08:50.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0231.png'
+TRACKMESH_FILM_RENDER {"frame": 231, "camera": "Film S3 link", "seconds": 1.83, "percent": 100}
+08:52.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0232.png'
+TRACKMESH_FILM_RENDER {"frame": 232, "camera": "Film S3 link", "seconds": 1.9, "percent": 100}
+08:54.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0233.png'
+TRACKMESH_FILM_RENDER {"frame": 233, "camera": "Film S3 link", "seconds": 2.13, "percent": 100}
+08:56.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0234.png'
+TRACKMESH_FILM_RENDER {"frame": 234, "camera": "Film S3 link", "seconds": 1.96, "percent": 100}
+08:58.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0235.png'
+TRACKMESH_FILM_RENDER {"frame": 235, "camera": "Film S3 link", "seconds": 1.9, "percent": 100}
+09:00.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0236.png'
+TRACKMESH_FILM_RENDER {"frame": 236, "camera": "Film S3 link", "seconds": 1.97, "percent": 100}
+09:02.532  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0237.png'
+TRACKMESH_FILM_RENDER {"frame": 237, "camera": "Film S3 link", "seconds": 1.89, "percent": 100}
+09:04.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0238.png'
+TRACKMESH_FILM_RENDER {"frame": 238, "camera": "Film S3 link", "seconds": 1.87, "percent": 100}
+09:06.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0239.png'
+TRACKMESH_FILM_RENDER {"frame": 239, "camera": "Film S3 link", "seconds": 1.89, "percent": 100}
+09:08.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0240.png'
+TRACKMESH_FILM_RENDER {"frame": 240, "camera": "Film S3 link", "seconds": 2.01, "percent": 100}
+09:10.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0241.png'
+TRACKMESH_FILM_RENDER {"frame": 241, "camera": "Film S3 link", "seconds": 1.97, "percent": 100}
+09:12.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0242.png'
+TRACKMESH_FILM_RENDER {"frame": 242, "camera": "Film S3 link", "seconds": 2.0, "percent": 100}
+09:14.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0243.png'
+TRACKMESH_FILM_RENDER {"frame": 243, "camera": "Film S3 link", "seconds": 2.08, "percent": 100}
+09:17.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0244.png'
+TRACKMESH_FILM_RENDER {"frame": 244, "camera": "Film S3 link", "seconds": 2.71, "percent": 100}
+09:19.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0245.png'
+TRACKMESH_FILM_RENDER {"frame": 245, "camera": "Film S3 link", "seconds": 2.63, "percent": 100}
+09:22.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0246.png'
+TRACKMESH_FILM_RENDER {"frame": 246, "camera": "Film S3 link", "seconds": 2.38, "percent": 100}
+09:23.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0247.png'
+TRACKMESH_FILM_RENDER {"frame": 247, "camera": "Film S3 link", "seconds": 1.88, "percent": 100}
+09:25.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0248.png'
+TRACKMESH_FILM_RENDER {"frame": 248, "camera": "Film S3 link", "seconds": 1.86, "percent": 100}
+09:27.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0249.png'
+TRACKMESH_FILM_RENDER {"frame": 249, "camera": "Film S3 link", "seconds": 1.91, "percent": 100}
+09:29.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0250.png'
+TRACKMESH_FILM_RENDER {"frame": 250, "camera": "Film S3 link", "seconds": 2.01, "percent": 100}
+09:31.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0251.png'
+TRACKMESH_FILM_RENDER {"frame": 251, "camera": "Film S3 link", "seconds": 1.96, "percent": 100}
+09:33.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0252.png'
+TRACKMESH_FILM_RENDER {"frame": 252, "camera": "Film S3 link", "seconds": 2.0, "percent": 100}
+09:35.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0253.png'
+TRACKMESH_FILM_RENDER {"frame": 253, "camera": "Film S3 link", "seconds": 1.92, "percent": 100}
+09:37.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0254.png'
+TRACKMESH_FILM_RENDER {"frame": 254, "camera": "Film S3 link", "seconds": 1.95, "percent": 100}
+09:39.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0255.png'
+TRACKMESH_FILM_RENDER {"frame": 255, "camera": "Film S3 link", "seconds": 1.94, "percent": 100}
+09:41.532  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0256.png'
+TRACKMESH_FILM_RENDER {"frame": 256, "camera": "Film S3 link", "seconds": 1.97, "percent": 100}
+09:43.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0257.png'
+TRACKMESH_FILM_RENDER {"frame": 257, "camera": "Film S3 link", "seconds": 1.93, "percent": 100}
+09:45.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0258.png'
+TRACKMESH_FILM_RENDER {"frame": 258, "camera": "Film S3 link", "seconds": 1.95, "percent": 100}
+09:47.532  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0259.png'
+TRACKMESH_FILM_RENDER {"frame": 259, "camera": "Film S3 link", "seconds": 2.11, "percent": 100}
+09:49.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0260.png'
+TRACKMESH_FILM_RENDER {"frame": 260, "camera": "Film S3 link", "seconds": 2.02, "percent": 100}
+09:51.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0261.png'
+TRACKMESH_FILM_RENDER {"frame": 261, "camera": "Film S3 link", "seconds": 1.92, "percent": 100}
+09:53.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0262.png'
+TRACKMESH_FILM_RENDER {"frame": 262, "camera": "Film S3 link", "seconds": 1.95, "percent": 100}
+09:55.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0263.png'
+TRACKMESH_FILM_RENDER {"frame": 263, "camera": "Film S3 link", "seconds": 1.98, "percent": 100}
+09:57.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0264.png'
+TRACKMESH_FILM_RENDER {"frame": 264, "camera": "Film S3 link", "seconds": 2.06, "percent": 100}
+09:59.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0265.png'
+TRACKMESH_FILM_RENDER {"frame": 265, "camera": "Film S3 link", "seconds": 1.94, "percent": 100}
+10:01.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0266.png'
+TRACKMESH_FILM_RENDER {"frame": 266, "camera": "Film S3 link", "seconds": 1.99, "percent": 100}
+10:03.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0267.png'
+TRACKMESH_FILM_RENDER {"frame": 267, "camera": "Film S3 link", "seconds": 2.08, "percent": 100}
+10:05.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0268.png'
+TRACKMESH_FILM_RENDER {"frame": 268, "camera": "Film S3 link", "seconds": 1.99, "percent": 100}
+10:07.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0269.png'
+TRACKMESH_FILM_RENDER {"frame": 269, "camera": "Film S3 link", "seconds": 1.99, "percent": 100}
+10:09.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0270.png'
+TRACKMESH_FILM_RENDER {"frame": 270, "camera": "Film S3 link", "seconds": 2.12, "percent": 100}
+10:11.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0271.png'
+TRACKMESH_FILM_RENDER {"frame": 271, "camera": "Film S3 link", "seconds": 2.03, "percent": 100}
+10:13.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0272.png'
+TRACKMESH_FILM_RENDER {"frame": 272, "camera": "Film S3 link", "seconds": 2.01, "percent": 100}
+10:15.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0273.png'
+TRACKMESH_FILM_RENDER {"frame": 273, "camera": "Film S3 link", "seconds": 1.98, "percent": 100}
+10:17.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0274.png'
+TRACKMESH_FILM_RENDER {"frame": 274, "camera": "Film S3 link", "seconds": 2.2, "percent": 100}
+10:19.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0275.png'
+TRACKMESH_FILM_RENDER {"frame": 275, "camera": "Film S3 link", "seconds": 1.98, "percent": 100}
+10:21.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0276.png'
+TRACKMESH_FILM_RENDER {"frame": 276, "camera": "Film S3 link", "seconds": 2.0, "percent": 100}
+10:23.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0277.png'
+TRACKMESH_FILM_RENDER {"frame": 277, "camera": "Film S3 link", "seconds": 2.05, "percent": 100}
+10:26.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0278.png'
+TRACKMESH_FILM_RENDER {"frame": 278, "camera": "Film S3 link", "seconds": 2.12, "percent": 100}
+10:28.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0279.png'
+TRACKMESH_FILM_RENDER {"frame": 279, "camera": "Film S3 link", "seconds": 2.12, "percent": 100}
+10:30.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0280.png'
+TRACKMESH_FILM_RENDER {"frame": 280, "camera": "Film S3 link", "seconds": 2.25, "percent": 100}
+10:32.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0281.png'
+TRACKMESH_FILM_RENDER {"frame": 281, "camera": "Film S3 link", "seconds": 2.24, "percent": 100}
+10:34.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0282.png'
+TRACKMESH_FILM_RENDER {"frame": 282, "camera": "Film S3 link", "seconds": 2.31, "percent": 100}
+10:37.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0283.png'
+TRACKMESH_FILM_RENDER {"frame": 283, "camera": "Film S3 link", "seconds": 2.32, "percent": 100}
+10:39.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0284.png'
+TRACKMESH_FILM_RENDER {"frame": 284, "camera": "Film S3 link", "seconds": 2.18, "percent": 100}
+10:41.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0285.png'
+TRACKMESH_FILM_RENDER {"frame": 285, "camera": "Film S3 link", "seconds": 2.25, "percent": 100}
+10:43.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0286.png'
+TRACKMESH_FILM_RENDER {"frame": 286, "camera": "Film S3 link", "seconds": 2.11, "percent": 100}
+10:46.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0287.png'
+TRACKMESH_FILM_RENDER {"frame": 287, "camera": "Film S3 link", "seconds": 2.17, "percent": 100}
+10:48.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0288.png'
+TRACKMESH_FILM_RENDER {"frame": 288, "camera": "Film S3 link", "seconds": 2.44, "percent": 100}
+10:50.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0289.png'
+TRACKMESH_FILM_RENDER {"frame": 289, "camera": "Film S3 link", "seconds": 2.3, "percent": 100}
+10:52.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0290.png'
+TRACKMESH_FILM_RENDER {"frame": 290, "camera": "Film S3 link", "seconds": 2.23, "percent": 100}
+10:55.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0291.png'
+TRACKMESH_FILM_RENDER {"frame": 291, "camera": "Film S3 link", "seconds": 2.7, "percent": 100}
+10:58.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0292.png'
+TRACKMESH_FILM_RENDER {"frame": 292, "camera": "Film S3 link", "seconds": 2.93, "percent": 100}
+11:01.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0293.png'
+TRACKMESH_FILM_RENDER {"frame": 293, "camera": "Film S3 link", "seconds": 2.79, "percent": 100}
+11:03.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0294.png'
+TRACKMESH_FILM_RENDER {"frame": 294, "camera": "Film S3 link", "seconds": 2.46, "percent": 100}
+11:06.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0295.png'
+TRACKMESH_FILM_RENDER {"frame": 295, "camera": "Film S3 link", "seconds": 2.18, "percent": 100}
+11:08.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0296.png'
+TRACKMESH_FILM_RENDER {"frame": 296, "camera": "Film S3 link", "seconds": 2.22, "percent": 100}
+11:10.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0297.png'
+TRACKMESH_FILM_RENDER {"frame": 297, "camera": "Film S3 link", "seconds": 2.07, "percent": 100}
+11:12.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0298.png'
+TRACKMESH_FILM_RENDER {"frame": 298, "camera": "Film S3 link", "seconds": 2.04, "percent": 100}
+11:14.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0299.png'
+TRACKMESH_FILM_RENDER {"frame": 299, "camera": "Film S3 link", "seconds": 2.06, "percent": 100}
+11:18.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0300.png'
+TRACKMESH_FILM_RENDER {"frame": 300, "camera": "Film S3 link", "seconds": 3.61, "percent": 100}
+11:20.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0301.png'
+TRACKMESH_FILM_RENDER {"frame": 301, "camera": "Film S3 link", "seconds": 2.16, "percent": 100}
+11:22.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0302.png'
+TRACKMESH_FILM_RENDER {"frame": 302, "camera": "Film S3 link", "seconds": 2.11, "percent": 100}
+11:24.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0303.png'
+TRACKMESH_FILM_RENDER {"frame": 303, "camera": "Film S3 link", "seconds": 2.26, "percent": 100}
+11:26.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0304.png'
+TRACKMESH_FILM_RENDER {"frame": 304, "camera": "Film S3 link", "seconds": 2.2, "percent": 100}
+11:28.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0305.png'
+TRACKMESH_FILM_RENDER {"frame": 305, "camera": "Film S3 link", "seconds": 2.11, "percent": 100}
+11:31.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0306.png'
+TRACKMESH_FILM_RENDER {"frame": 306, "camera": "Film S3 link", "seconds": 2.14, "percent": 100}
+11:33.297  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0307.png'
+TRACKMESH_FILM_RENDER {"frame": 307, "camera": "Film S3 link", "seconds": 2.22, "percent": 100}
+11:35.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0308.png'
+TRACKMESH_FILM_RENDER {"frame": 308, "camera": "Film S3 link", "seconds": 2.33, "percent": 100}
+11:37.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0309.png'
+TRACKMESH_FILM_RENDER {"frame": 309, "camera": "Film S3 link", "seconds": 2.24, "percent": 100}
+11:39.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0310.png'
+TRACKMESH_FILM_RENDER {"frame": 310, "camera": "Film S3 link", "seconds": 2.12, "percent": 100}
+11:42.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0311.png'
+TRACKMESH_FILM_RENDER {"frame": 311, "camera": "Film S3 link", "seconds": 2.2, "percent": 100}
+11:44.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0312.png'
+TRACKMESH_FILM_RENDER {"frame": 312, "camera": "Film S3 link", "seconds": 2.13, "percent": 100}
+11:46.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0313.png'
+TRACKMESH_FILM_RENDER {"frame": 313, "camera": "Film S3 link", "seconds": 2.07, "percent": 100}
+11:48.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0314.png'
+TRACKMESH_FILM_RENDER {"frame": 314, "camera": "Film S3 link", "seconds": 2.14, "percent": 100}
+11:50.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0315.png'
+TRACKMESH_FILM_RENDER {"frame": 315, "camera": "Film S3 link", "seconds": 2.27, "percent": 100}
+11:53.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0316.png'
+TRACKMESH_FILM_RENDER {"frame": 316, "camera": "Film S3 link", "seconds": 2.22, "percent": 100}
+11:55.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0317.png'
+TRACKMESH_FILM_RENDER {"frame": 317, "camera": "Film S3 link", "seconds": 2.16, "percent": 100}
+11:57.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0318.png'
+TRACKMESH_FILM_RENDER {"frame": 318, "camera": "Film S3 link", "seconds": 2.3, "percent": 100}
+11:59.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0319.png'
+TRACKMESH_FILM_RENDER {"frame": 319, "camera": "Film S3 link", "seconds": 2.37, "percent": 100}
+12:02.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0320.png'
+TRACKMESH_FILM_RENDER {"frame": 320, "camera": "Film S3 link", "seconds": 2.16, "percent": 100}
+12:04.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0321.png'
+TRACKMESH_FILM_RENDER {"frame": 321, "camera": "Film S3 link", "seconds": 2.19, "percent": 100}
+12:06.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0322.png'
+TRACKMESH_FILM_RENDER {"frame": 322, "camera": "Film S3 link", "seconds": 2.15, "percent": 100}
+12:08.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0323.png'
+TRACKMESH_FILM_RENDER {"frame": 323, "camera": "Film S3 link", "seconds": 2.15, "percent": 100}
+12:10.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0324.png'
+TRACKMESH_FILM_RENDER {"frame": 324, "camera": "Film S3 link", "seconds": 2.11, "percent": 100}
+12:12.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0325.png'
+TRACKMESH_FILM_RENDER {"frame": 325, "camera": "Film S3 link", "seconds": 2.16, "percent": 100}
+12:15.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0326.png'
+TRACKMESH_FILM_RENDER {"frame": 326, "camera": "Film S3 link", "seconds": 2.24, "percent": 100}
+12:17.204  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0327.png'
+TRACKMESH_FILM_RENDER {"frame": 327, "camera": "Film S3 link", "seconds": 2.16, "percent": 100}
+12:19.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0328.png'
+TRACKMESH_FILM_RENDER {"frame": 328, "camera": "Film S3 link", "seconds": 2.33, "percent": 100}
+12:21.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0329.png'
+TRACKMESH_FILM_RENDER {"frame": 329, "camera": "Film S3 link", "seconds": 2.22, "percent": 100}
+12:24.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0330.png'
+TRACKMESH_FILM_RENDER {"frame": 330, "camera": "Film S3 link", "seconds": 2.25, "percent": 100}
+12:26.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0331.png'
+TRACKMESH_FILM_RENDER {"frame": 331, "camera": "Film S3 link", "seconds": 2.15, "percent": 100}
+12:28.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0332.png'
+TRACKMESH_FILM_RENDER {"frame": 332, "camera": "Film S3 link", "seconds": 2.15, "percent": 100}
+12:30.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0333.png'
+TRACKMESH_FILM_RENDER {"frame": 333, "camera": "Film S3 link", "seconds": 2.03, "percent": 100}
+12:32.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0334.png'
+TRACKMESH_FILM_RENDER {"frame": 334, "camera": "Film S3 link", "seconds": 2.15, "percent": 100}
+12:34.579  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0335.png'
+TRACKMESH_FILM_RENDER {"frame": 335, "camera": "Film S3 link", "seconds": 2.07, "percent": 100}
+12:36.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0336.png'
+TRACKMESH_FILM_RENDER {"frame": 336, "camera": "Film S3 link", "seconds": 2.13, "percent": 100}
+12:38.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0337.png'
+TRACKMESH_FILM_RENDER {"frame": 337, "camera": "Film S4 TrackMesh", "seconds": 1.36, "percent": 100}
+12:39.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0338.png'
+TRACKMESH_FILM_RENDER {"frame": 338, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+12:40.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0339.png'
+TRACKMESH_FILM_RENDER {"frame": 339, "camera": "Film S4 TrackMesh", "seconds": 1.44, "percent": 100}
+12:42.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0340.png'
+TRACKMESH_FILM_RENDER {"frame": 340, "camera": "Film S4 TrackMesh", "seconds": 1.4, "percent": 100}
+12:43.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0341.png'
+TRACKMESH_FILM_RENDER {"frame": 341, "camera": "Film S4 TrackMesh", "seconds": 1.36, "percent": 100}
+12:45.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0342.png'
+TRACKMESH_FILM_RENDER {"frame": 342, "camera": "Film S4 TrackMesh", "seconds": 1.34, "percent": 100}
+12:46.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0343.png'
+TRACKMESH_FILM_RENDER {"frame": 343, "camera": "Film S4 TrackMesh", "seconds": 1.4, "percent": 100}
+12:47.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0344.png'
+TRACKMESH_FILM_RENDER {"frame": 344, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+12:49.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0345.png'
+TRACKMESH_FILM_RENDER {"frame": 345, "camera": "Film S4 TrackMesh", "seconds": 1.5, "percent": 100}
+12:50.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0346.png'
+TRACKMESH_FILM_RENDER {"frame": 346, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+12:52.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0347.png'
+TRACKMESH_FILM_RENDER {"frame": 347, "camera": "Film S4 TrackMesh", "seconds": 1.37, "percent": 100}
+12:53.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0348.png'
+TRACKMESH_FILM_RENDER {"frame": 348, "camera": "Film S4 TrackMesh", "seconds": 1.53, "percent": 100}
+12:55.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0349.png'
+TRACKMESH_FILM_RENDER {"frame": 349, "camera": "Film S4 TrackMesh", "seconds": 1.37, "percent": 100}
+12:56.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0350.png'
+TRACKMESH_FILM_RENDER {"frame": 350, "camera": "Film S4 TrackMesh", "seconds": 1.43, "percent": 100}
+12:57.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0351.png'
+TRACKMESH_FILM_RENDER {"frame": 351, "camera": "Film S4 TrackMesh", "seconds": 1.47, "percent": 100}
+12:59.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0352.png'
+TRACKMESH_FILM_RENDER {"frame": 352, "camera": "Film S4 TrackMesh", "seconds": 1.38, "percent": 100}
+13:00.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0353.png'
+TRACKMESH_FILM_RENDER {"frame": 353, "camera": "Film S4 TrackMesh", "seconds": 1.37, "percent": 100}
+13:02.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0354.png'
+TRACKMESH_FILM_RENDER {"frame": 354, "camera": "Film S4 TrackMesh", "seconds": 1.39, "percent": 100}
+13:03.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0355.png'
+TRACKMESH_FILM_RENDER {"frame": 355, "camera": "Film S4 TrackMesh", "seconds": 1.35, "percent": 100}
+13:04.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0356.png'
+TRACKMESH_FILM_RENDER {"frame": 356, "camera": "Film S4 TrackMesh", "seconds": 1.42, "percent": 100}
+13:06.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0357.png'
+TRACKMESH_FILM_RENDER {"frame": 357, "camera": "Film S4 TrackMesh", "seconds": 1.37, "percent": 100}
+13:07.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0358.png'
+TRACKMESH_FILM_RENDER {"frame": 358, "camera": "Film S4 TrackMesh", "seconds": 1.34, "percent": 100}
+13:08.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0359.png'
+TRACKMESH_FILM_RENDER {"frame": 359, "camera": "Film S4 TrackMesh", "seconds": 1.38, "percent": 100}
+13:10.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0360.png'
+TRACKMESH_FILM_RENDER {"frame": 360, "camera": "Film S4 TrackMesh", "seconds": 1.33, "percent": 100}
+13:11.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0361.png'
+TRACKMESH_FILM_RENDER {"frame": 361, "camera": "Film S4 TrackMesh", "seconds": 1.42, "percent": 100}
+13:13.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0362.png'
+TRACKMESH_FILM_RENDER {"frame": 362, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+13:14.532  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0363.png'
+TRACKMESH_FILM_RENDER {"frame": 363, "camera": "Film S4 TrackMesh", "seconds": 1.38, "percent": 100}
+13:15.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0364.png'
+TRACKMESH_FILM_RENDER {"frame": 364, "camera": "Film S4 TrackMesh", "seconds": 1.4, "percent": 100}
+13:17.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0365.png'
+TRACKMESH_FILM_RENDER {"frame": 365, "camera": "Film S4 TrackMesh", "seconds": 1.4, "percent": 100}
+13:18.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0366.png'
+TRACKMESH_FILM_RENDER {"frame": 366, "camera": "Film S4 TrackMesh", "seconds": 1.35, "percent": 100}
+13:20.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0367.png'
+TRACKMESH_FILM_RENDER {"frame": 367, "camera": "Film S4 TrackMesh", "seconds": 1.44, "percent": 100}
+13:21.532  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0368.png'
+TRACKMESH_FILM_RENDER {"frame": 368, "camera": "Film S4 TrackMesh", "seconds": 1.4, "percent": 100}
+13:23.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0369.png'
+TRACKMESH_FILM_RENDER {"frame": 369, "camera": "Film S4 TrackMesh", "seconds": 1.46, "percent": 100}
+13:24.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0370.png'
+TRACKMESH_FILM_RENDER {"frame": 370, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+13:25.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0371.png'
+TRACKMESH_FILM_RENDER {"frame": 371, "camera": "Film S4 TrackMesh", "seconds": 1.45, "percent": 100}
+13:27.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0372.png'
+TRACKMESH_FILM_RENDER {"frame": 372, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+13:28.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0373.png'
+TRACKMESH_FILM_RENDER {"frame": 373, "camera": "Film S4 TrackMesh", "seconds": 1.39, "percent": 100}
+13:30.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0374.png'
+TRACKMESH_FILM_RENDER {"frame": 374, "camera": "Film S4 TrackMesh", "seconds": 1.4, "percent": 100}
+13:31.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0375.png'
+TRACKMESH_FILM_RENDER {"frame": 375, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+13:32.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0376.png'
+TRACKMESH_FILM_RENDER {"frame": 376, "camera": "Film S4 TrackMesh", "seconds": 1.33, "percent": 100}
+13:34.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0377.png'
+TRACKMESH_FILM_RENDER {"frame": 377, "camera": "Film S4 TrackMesh", "seconds": 1.43, "percent": 100}
+13:35.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0378.png'
+TRACKMESH_FILM_RENDER {"frame": 378, "camera": "Film S4 TrackMesh", "seconds": 1.45, "percent": 100}
+13:37.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0379.png'
+TRACKMESH_FILM_RENDER {"frame": 379, "camera": "Film S4 TrackMesh", "seconds": 1.67, "percent": 100}
+13:39.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0380.png'
+TRACKMESH_FILM_RENDER {"frame": 380, "camera": "Film S4 TrackMesh", "seconds": 1.65, "percent": 100}
+13:40.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0381.png'
+TRACKMESH_FILM_RENDER {"frame": 381, "camera": "Film S4 TrackMesh", "seconds": 1.74, "percent": 100}
+13:42.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0382.png'
+TRACKMESH_FILM_RENDER {"frame": 382, "camera": "Film S4 TrackMesh", "seconds": 1.6, "percent": 100}
+13:43.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0383.png'
+TRACKMESH_FILM_RENDER {"frame": 383, "camera": "Film S4 TrackMesh", "seconds": 1.57, "percent": 100}
+13:45.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0384.png'
+TRACKMESH_FILM_RENDER {"frame": 384, "camera": "Film S4 TrackMesh", "seconds": 1.61, "percent": 100}
+13:47.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0385.png'
+TRACKMESH_FILM_RENDER {"frame": 385, "camera": "Film S4 TrackMesh", "seconds": 1.55, "percent": 100}
+13:48.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0386.png'
+TRACKMESH_FILM_RENDER {"frame": 386, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+13:50.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0387.png'
+TRACKMESH_FILM_RENDER {"frame": 387, "camera": "Film S4 TrackMesh", "seconds": 1.66, "percent": 100}
+13:52.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0388.png'
+TRACKMESH_FILM_RENDER {"frame": 388, "camera": "Film S4 TrackMesh", "seconds": 1.66, "percent": 100}
+13:53.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0389.png'
+TRACKMESH_FILM_RENDER {"frame": 389, "camera": "Film S4 TrackMesh", "seconds": 1.58, "percent": 100}
+13:55.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0390.png'
+TRACKMESH_FILM_RENDER {"frame": 390, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+13:56.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0391.png'
+TRACKMESH_FILM_RENDER {"frame": 391, "camera": "Film S4 TrackMesh", "seconds": 1.55, "percent": 100}
+13:58.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0392.png'
+TRACKMESH_FILM_RENDER {"frame": 392, "camera": "Film S4 TrackMesh", "seconds": 1.61, "percent": 100}
+13:59.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0393.png'
+TRACKMESH_FILM_RENDER {"frame": 393, "camera": "Film S4 TrackMesh", "seconds": 1.56, "percent": 100}
+14:01.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0394.png'
+TRACKMESH_FILM_RENDER {"frame": 394, "camera": "Film S4 TrackMesh", "seconds": 1.54, "percent": 100}
+14:03.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0395.png'
+TRACKMESH_FILM_RENDER {"frame": 395, "camera": "Film S4 TrackMesh", "seconds": 1.58, "percent": 100}
+14:04.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0396.png'
+TRACKMESH_FILM_RENDER {"frame": 396, "camera": "Film S4 TrackMesh", "seconds": 1.55, "percent": 100}
+14:06.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0397.png'
+TRACKMESH_FILM_RENDER {"frame": 397, "camera": "Film S4 TrackMesh", "seconds": 1.54, "percent": 100}
+14:07.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0398.png'
+TRACKMESH_FILM_RENDER {"frame": 398, "camera": "Film S4 TrackMesh", "seconds": 1.54, "percent": 100}
+14:09.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0399.png'
+TRACKMESH_FILM_RENDER {"frame": 399, "camera": "Film S4 TrackMesh", "seconds": 1.64, "percent": 100}
+14:10.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0400.png'
+TRACKMESH_FILM_RENDER {"frame": 400, "camera": "Film S4 TrackMesh", "seconds": 1.53, "percent": 100}
+14:12.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0401.png'
+TRACKMESH_FILM_RENDER {"frame": 401, "camera": "Film S4 TrackMesh", "seconds": 1.57, "percent": 100}
+14:14.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0402.png'
+TRACKMESH_FILM_RENDER {"frame": 402, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+14:15.563  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0403.png'
+TRACKMESH_FILM_RENDER {"frame": 403, "camera": "Film S4 TrackMesh", "seconds": 1.53, "percent": 100}
+14:30.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0404.png'
+TRACKMESH_FILM_RENDER {"frame": 404, "camera": "Film S4 TrackMesh", "seconds": 15.12, "percent": 100}
+14:48.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0405.png'
+TRACKMESH_FILM_RENDER {"frame": 405, "camera": "Film S4 TrackMesh", "seconds": 17.39, "percent": 100}
+15:04.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0406.png'
+TRACKMESH_FILM_RENDER {"frame": 406, "camera": "Film S4 TrackMesh", "seconds": 15.99, "percent": 100}
+15:11.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0407.png'
+TRACKMESH_FILM_RENDER {"frame": 407, "camera": "Film S4 TrackMesh", "seconds": 6.99, "percent": 100}
+15:17.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0408.png'
+TRACKMESH_FILM_RENDER {"frame": 408, "camera": "Film S4 TrackMesh", "seconds": 6.03, "percent": 100}
+15:22.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0409.png'
+TRACKMESH_FILM_RENDER {"frame": 409, "camera": "Film S4 TrackMesh", "seconds": 5.65, "percent": 100}
+15:28.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0410.png'
+TRACKMESH_FILM_RENDER {"frame": 410, "camera": "Film S4 TrackMesh", "seconds": 5.56, "percent": 100}
+15:43.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0411.png'
+TRACKMESH_FILM_RENDER {"frame": 411, "camera": "Film S4 TrackMesh", "seconds": 15.35, "percent": 100}
+15:45.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0412.png'
+TRACKMESH_FILM_RENDER {"frame": 412, "camera": "Film S4 TrackMesh", "seconds": 1.46, "percent": 100}
+15:46.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0413.png'
+TRACKMESH_FILM_RENDER {"frame": 413, "camera": "Film S4 TrackMesh", "seconds": 1.5, "percent": 100}
+15:48.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0414.png'
+TRACKMESH_FILM_RENDER {"frame": 414, "camera": "Film S4 TrackMesh", "seconds": 1.52, "percent": 100}
+15:49.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0415.png'
+TRACKMESH_FILM_RENDER {"frame": 415, "camera": "Film S4 TrackMesh", "seconds": 1.46, "percent": 100}
+15:51.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0416.png'
+TRACKMESH_FILM_RENDER {"frame": 416, "camera": "Film S4 TrackMesh", "seconds": 1.48, "percent": 100}
+15:52.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0417.png'
+TRACKMESH_FILM_RENDER {"frame": 417, "camera": "Film S4 TrackMesh", "seconds": 1.62, "percent": 100}
+15:54.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0418.png'
+TRACKMESH_FILM_RENDER {"frame": 418, "camera": "Film S4 TrackMesh", "seconds": 1.44, "percent": 100}
+15:55.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0419.png'
+TRACKMESH_FILM_RENDER {"frame": 419, "camera": "Film S4 TrackMesh", "seconds": 1.45, "percent": 100}
+15:57.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0420.png'
+TRACKMESH_FILM_RENDER {"frame": 420, "camera": "Film S4 TrackMesh", "seconds": 1.55, "percent": 100}
+15:58.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0421.png'
+TRACKMESH_FILM_RENDER {"frame": 421, "camera": "Film S4 TrackMesh", "seconds": 1.69, "percent": 100}
+16:01.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0422.png'
+TRACKMESH_FILM_RENDER {"frame": 422, "camera": "Film S4 TrackMesh", "seconds": 2.23, "percent": 100}
+16:02.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0423.png'
+TRACKMESH_FILM_RENDER {"frame": 423, "camera": "Film S4 TrackMesh", "seconds": 1.62, "percent": 100}
+16:04.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0424.png'
+TRACKMESH_FILM_RENDER {"frame": 424, "camera": "Film S4 TrackMesh", "seconds": 1.67, "percent": 100}
+16:06.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0425.png'
+TRACKMESH_FILM_RENDER {"frame": 425, "camera": "Film S4 TrackMesh", "seconds": 1.65, "percent": 100}
+16:07.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0426.png'
+TRACKMESH_FILM_RENDER {"frame": 426, "camera": "Film S4 TrackMesh", "seconds": 1.71, "percent": 100}
+16:09.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0427.png'
+TRACKMESH_FILM_RENDER {"frame": 427, "camera": "Film S4 TrackMesh", "seconds": 1.54, "percent": 100}
+16:10.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0428.png'
+TRACKMESH_FILM_RENDER {"frame": 428, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+16:12.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0429.png'
+TRACKMESH_FILM_RENDER {"frame": 429, "camera": "Film S4 TrackMesh", "seconds": 1.66, "percent": 100}
+16:14.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0430.png'
+TRACKMESH_FILM_RENDER {"frame": 430, "camera": "Film S4 TrackMesh", "seconds": 1.57, "percent": 100}
+16:15.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0431.png'
+TRACKMESH_FILM_RENDER {"frame": 431, "camera": "Film S4 TrackMesh", "seconds": 1.58, "percent": 100}
+16:17.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0432.png'
+TRACKMESH_FILM_RENDER {"frame": 432, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+16:18.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0433.png'
+TRACKMESH_FILM_RENDER {"frame": 433, "camera": "Film S4 TrackMesh", "seconds": 1.62, "percent": 100}
+16:20.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0434.png'
+TRACKMESH_FILM_RENDER {"frame": 434, "camera": "Film S4 TrackMesh", "seconds": 1.68, "percent": 100}
+16:22.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0435.png'
+TRACKMESH_FILM_RENDER {"frame": 435, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+16:23.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0436.png'
+TRACKMESH_FILM_RENDER {"frame": 436, "camera": "Film S4 TrackMesh", "seconds": 1.58, "percent": 100}
+16:25.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0437.png'
+TRACKMESH_FILM_RENDER {"frame": 437, "camera": "Film S4 TrackMesh", "seconds": 1.64, "percent": 100}
+16:27.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0438.png'
+TRACKMESH_FILM_RENDER {"frame": 438, "camera": "Film S4 TrackMesh", "seconds": 1.52, "percent": 100}
+16:28.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0439.png'
+TRACKMESH_FILM_RENDER {"frame": 439, "camera": "Film S4 TrackMesh", "seconds": 1.46, "percent": 100}
+16:29.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0440.png'
+TRACKMESH_FILM_RENDER {"frame": 440, "camera": "Film S4 TrackMesh", "seconds": 1.45, "percent": 100}
+16:31.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0441.png'
+TRACKMESH_FILM_RENDER {"frame": 441, "camera": "Film S4 TrackMesh", "seconds": 1.5, "percent": 100}
+16:32.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0442.png'
+TRACKMESH_FILM_RENDER {"frame": 442, "camera": "Film S4 TrackMesh", "seconds": 1.44, "percent": 100}
+16:34.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0443.png'
+TRACKMESH_FILM_RENDER {"frame": 443, "camera": "Film S4 TrackMesh", "seconds": 1.45, "percent": 100}
+16:35.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0444.png'
+TRACKMESH_FILM_RENDER {"frame": 444, "camera": "Film S4 TrackMesh", "seconds": 1.51, "percent": 100}
+16:37.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0445.png'
+TRACKMESH_FILM_RENDER {"frame": 445, "camera": "Film S4 TrackMesh", "seconds": 1.43, "percent": 100}
+16:38.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0446.png'
+TRACKMESH_FILM_RENDER {"frame": 446, "camera": "Film S4 TrackMesh", "seconds": 1.42, "percent": 100}
+16:40.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0447.png'
+TRACKMESH_FILM_RENDER {"frame": 447, "camera": "Film S4 TrackMesh", "seconds": 1.52, "percent": 100}
+16:41.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0448.png'
+TRACKMESH_FILM_RENDER {"frame": 448, "camera": "Film S4 TrackMesh", "seconds": 1.44, "percent": 100}
+16:43.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0449.png'
+TRACKMESH_FILM_RENDER {"frame": 449, "camera": "Film S4 TrackMesh", "seconds": 1.46, "percent": 100}
+16:44.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0450.png'
+TRACKMESH_FILM_RENDER {"frame": 450, "camera": "Film S4 TrackMesh", "seconds": 1.46, "percent": 100}
+16:46.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0451.png'
+TRACKMESH_FILM_RENDER {"frame": 451, "camera": "Film S4 TrackMesh", "seconds": 1.62, "percent": 100}
+16:47.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0452.png'
+TRACKMESH_FILM_RENDER {"frame": 452, "camera": "Film S4 TrackMesh", "seconds": 1.67, "percent": 100}
+16:49.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0453.png'
+TRACKMESH_FILM_RENDER {"frame": 453, "camera": "Film S4 TrackMesh", "seconds": 1.59, "percent": 100}
+16:51.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0454.png'
+TRACKMESH_FILM_RENDER {"frame": 454, "camera": "Film S4 TrackMesh", "seconds": 1.62, "percent": 100}
+16:52.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0455.png'
+TRACKMESH_FILM_RENDER {"frame": 455, "camera": "Film S4 TrackMesh", "seconds": 1.57, "percent": 100}
+16:54.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0456.png'
+TRACKMESH_FILM_RENDER {"frame": 456, "camera": "Film S4 TrackMesh", "seconds": 1.48, "percent": 100}
+16:55.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0457.png'
+TRACKMESH_FILM_RENDER {"frame": 457, "camera": "Film S4 TrackMesh", "seconds": 1.52, "percent": 100}
+16:57.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0458.png'
+TRACKMESH_FILM_RENDER {"frame": 458, "camera": "Film S4 TrackMesh", "seconds": 1.57, "percent": 100}
+16:58.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0459.png'
+TRACKMESH_FILM_RENDER {"frame": 459, "camera": "Film S4 TrackMesh", "seconds": 1.57, "percent": 100}
+17:00.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0460.png'
+TRACKMESH_FILM_RENDER {"frame": 460, "camera": "Film S4 TrackMesh", "seconds": 1.48, "percent": 100}
+17:01.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0461.png'
+TRACKMESH_FILM_RENDER {"frame": 461, "camera": "Film S4 TrackMesh", "seconds": 1.56, "percent": 100}
+17:03.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0462.png'
+TRACKMESH_FILM_RENDER {"frame": 462, "camera": "Film S4 TrackMesh", "seconds": 1.66, "percent": 100}
+17:04.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0463.png'
+TRACKMESH_FILM_RENDER {"frame": 463, "camera": "Film S4 TrackMesh", "seconds": 1.36, "percent": 100}
+17:06.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0464.png'
+TRACKMESH_FILM_RENDER {"frame": 464, "camera": "Film S4 TrackMesh", "seconds": 1.36, "percent": 100}
+17:07.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0465.png'
+TRACKMESH_FILM_RENDER {"frame": 465, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+17:09.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0466.png'
+TRACKMESH_FILM_RENDER {"frame": 466, "camera": "Film S4 TrackMesh", "seconds": 1.37, "percent": 100}
+17:10.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0467.png'
+TRACKMESH_FILM_RENDER {"frame": 467, "camera": "Film S4 TrackMesh", "seconds": 1.41, "percent": 100}
+17:11.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0468.png'
+TRACKMESH_FILM_RENDER {"frame": 468, "camera": "Film S4 TrackMesh", "seconds": 1.42, "percent": 100}
+17:14.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0469.png'
+TRACKMESH_FILM_RENDER {"frame": 469, "camera": "Film S5 PC to PC", "seconds": 2.17, "percent": 100}
+17:16.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0470.png'
+TRACKMESH_FILM_RENDER {"frame": 470, "camera": "Film S5 PC to PC", "seconds": 2.24, "percent": 100}
+17:18.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0471.png'
+TRACKMESH_FILM_RENDER {"frame": 471, "camera": "Film S5 PC to PC", "seconds": 2.29, "percent": 100}
+17:20.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0472.png'
+TRACKMESH_FILM_RENDER {"frame": 472, "camera": "Film S5 PC to PC", "seconds": 2.28, "percent": 100}
+17:23.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0473.png'
+TRACKMESH_FILM_RENDER {"frame": 473, "camera": "Film S5 PC to PC", "seconds": 2.29, "percent": 100}
+17:25.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0474.png'
+TRACKMESH_FILM_RENDER {"frame": 474, "camera": "Film S5 PC to PC", "seconds": 2.55, "percent": 100}
+17:27.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0475.png'
+TRACKMESH_FILM_RENDER {"frame": 475, "camera": "Film S5 PC to PC", "seconds": 2.18, "percent": 100}
+17:30.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0476.png'
+TRACKMESH_FILM_RENDER {"frame": 476, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+17:32.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0477.png'
+TRACKMESH_FILM_RENDER {"frame": 477, "camera": "Film S5 PC to PC", "seconds": 2.28, "percent": 100}
+17:34.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0478.png'
+TRACKMESH_FILM_RENDER {"frame": 478, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+17:37.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0479.png'
+TRACKMESH_FILM_RENDER {"frame": 479, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+17:39.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0480.png'
+TRACKMESH_FILM_RENDER {"frame": 480, "camera": "Film S5 PC to PC", "seconds": 2.3, "percent": 100}
+17:41.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0481.png'
+TRACKMESH_FILM_RENDER {"frame": 481, "camera": "Film S5 PC to PC", "seconds": 2.49, "percent": 100}
+17:44.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0482.png'
+TRACKMESH_FILM_RENDER {"frame": 482, "camera": "Film S5 PC to PC", "seconds": 2.67, "percent": 100}
+17:46.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0483.png'
+TRACKMESH_FILM_RENDER {"frame": 483, "camera": "Film S5 PC to PC", "seconds": 2.24, "percent": 100}
+17:49.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0484.png'
+TRACKMESH_FILM_RENDER {"frame": 484, "camera": "Film S5 PC to PC", "seconds": 2.31, "percent": 100}
+17:51.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0485.png'
+TRACKMESH_FILM_RENDER {"frame": 485, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+17:53.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0486.png'
+TRACKMESH_FILM_RENDER {"frame": 486, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+17:55.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0487.png'
+TRACKMESH_FILM_RENDER {"frame": 487, "camera": "Film S5 PC to PC", "seconds": 2.23, "percent": 100}
+17:58.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0488.png'
+TRACKMESH_FILM_RENDER {"frame": 488, "camera": "Film S5 PC to PC", "seconds": 2.28, "percent": 100}
+18:00.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0489.png'
+TRACKMESH_FILM_RENDER {"frame": 489, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+18:02.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0490.png'
+TRACKMESH_FILM_RENDER {"frame": 490, "camera": "Film S5 PC to PC", "seconds": 2.29, "percent": 100}
+18:05.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0491.png'
+TRACKMESH_FILM_RENDER {"frame": 491, "camera": "Film S5 PC to PC", "seconds": 2.35, "percent": 100}
+18:07.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0492.png'
+TRACKMESH_FILM_RENDER {"frame": 492, "camera": "Film S5 PC to PC", "seconds": 2.48, "percent": 100}
+18:10.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0493.png'
+TRACKMESH_FILM_RENDER {"frame": 493, "camera": "Film S5 PC to PC", "seconds": 2.42, "percent": 100}
+18:12.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0494.png'
+TRACKMESH_FILM_RENDER {"frame": 494, "camera": "Film S5 PC to PC", "seconds": 2.49, "percent": 100}
+18:15.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0495.png'
+TRACKMESH_FILM_RENDER {"frame": 495, "camera": "Film S5 PC to PC", "seconds": 2.54, "percent": 100}
+18:17.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0496.png'
+TRACKMESH_FILM_RENDER {"frame": 496, "camera": "Film S5 PC to PC", "seconds": 2.28, "percent": 100}
+18:19.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0497.png'
+TRACKMESH_FILM_RENDER {"frame": 497, "camera": "Film S5 PC to PC", "seconds": 2.29, "percent": 100}
+18:22.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0498.png'
+TRACKMESH_FILM_RENDER {"frame": 498, "camera": "Film S5 PC to PC", "seconds": 2.29, "percent": 100}
+18:24.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0499.png'
+TRACKMESH_FILM_RENDER {"frame": 499, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+18:26.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0500.png'
+TRACKMESH_FILM_RENDER {"frame": 500, "camera": "Film S5 PC to PC", "seconds": 2.24, "percent": 100}
+18:28.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0501.png'
+TRACKMESH_FILM_RENDER {"frame": 501, "camera": "Film S5 PC to PC", "seconds": 2.3, "percent": 100}
+18:31.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0502.png'
+TRACKMESH_FILM_RENDER {"frame": 502, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+18:33.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0503.png'
+TRACKMESH_FILM_RENDER {"frame": 503, "camera": "Film S5 PC to PC", "seconds": 2.24, "percent": 100}
+18:35.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0504.png'
+TRACKMESH_FILM_RENDER {"frame": 504, "camera": "Film S5 PC to PC", "seconds": 2.36, "percent": 100}
+18:38.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0505.png'
+TRACKMESH_FILM_RENDER {"frame": 505, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+18:40.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0506.png'
+TRACKMESH_FILM_RENDER {"frame": 506, "camera": "Film S5 PC to PC", "seconds": 2.31, "percent": 100}
+18:42.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0507.png'
+TRACKMESH_FILM_RENDER {"frame": 507, "camera": "Film S5 PC to PC", "seconds": 2.21, "percent": 100}
+18:45.063  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0508.png'
+TRACKMESH_FILM_RENDER {"frame": 508, "camera": "Film S5 PC to PC", "seconds": 2.3, "percent": 100}
+18:47.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0509.png'
+TRACKMESH_FILM_RENDER {"frame": 509, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+18:49.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0510.png'
+TRACKMESH_FILM_RENDER {"frame": 510, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+18:51.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0511.png'
+TRACKMESH_FILM_RENDER {"frame": 511, "camera": "Film S5 PC to PC", "seconds": 2.21, "percent": 100}
+18:54.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0512.png'
+TRACKMESH_FILM_RENDER {"frame": 512, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+18:56.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0513.png'
+TRACKMESH_FILM_RENDER {"frame": 513, "camera": "Film S5 PC to PC", "seconds": 2.28, "percent": 100}
+18:58.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0514.png'
+TRACKMESH_FILM_RENDER {"frame": 514, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+19:01.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0515.png'
+TRACKMESH_FILM_RENDER {"frame": 515, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+19:03.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0516.png'
+TRACKMESH_FILM_RENDER {"frame": 516, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+19:05.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0517.png'
+TRACKMESH_FILM_RENDER {"frame": 517, "camera": "Film S5 PC to PC", "seconds": 2.27, "percent": 100}
+19:07.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0518.png'
+TRACKMESH_FILM_RENDER {"frame": 518, "camera": "Film S5 PC to PC", "seconds": 2.35, "percent": 100}
+19:10.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0519.png'
+TRACKMESH_FILM_RENDER {"frame": 519, "camera": "Film S5 PC to PC", "seconds": 2.27, "percent": 100}
+19:12.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0520.png'
+TRACKMESH_FILM_RENDER {"frame": 520, "camera": "Film S5 PC to PC", "seconds": 2.27, "percent": 100}
+19:14.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0521.png'
+TRACKMESH_FILM_RENDER {"frame": 521, "camera": "Film S5 PC to PC", "seconds": 2.44, "percent": 100}
+19:17.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0522.png'
+TRACKMESH_FILM_RENDER {"frame": 522, "camera": "Film S5 PC to PC", "seconds": 2.2, "percent": 100}
+19:19.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0523.png'
+TRACKMESH_FILM_RENDER {"frame": 523, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+19:21.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0524.png'
+TRACKMESH_FILM_RENDER {"frame": 524, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+19:23.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0525.png'
+TRACKMESH_FILM_RENDER {"frame": 525, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+19:26.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0526.png'
+TRACKMESH_FILM_RENDER {"frame": 526, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+19:28.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0527.png'
+TRACKMESH_FILM_RENDER {"frame": 527, "camera": "Film S5 PC to PC", "seconds": 2.27, "percent": 100}
+19:30.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0528.png'
+TRACKMESH_FILM_RENDER {"frame": 528, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+19:33.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0529.png'
+TRACKMESH_FILM_RENDER {"frame": 529, "camera": "Film S5 PC to PC", "seconds": 2.4, "percent": 100}
+19:35.391  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0530.png'
+TRACKMESH_FILM_RENDER {"frame": 530, "camera": "Film S5 PC to PC", "seconds": 2.29, "percent": 100}
+19:37.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0531.png'
+TRACKMESH_FILM_RENDER {"frame": 531, "camera": "Film S5 PC to PC", "seconds": 2.35, "percent": 100}
+19:40.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0532.png'
+TRACKMESH_FILM_RENDER {"frame": 532, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+19:42.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0533.png'
+TRACKMESH_FILM_RENDER {"frame": 533, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+19:44.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0534.png'
+TRACKMESH_FILM_RENDER {"frame": 534, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+19:46.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0535.png'
+TRACKMESH_FILM_RENDER {"frame": 535, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+19:49.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0536.png'
+TRACKMESH_FILM_RENDER {"frame": 536, "camera": "Film S5 PC to PC", "seconds": 2.38, "percent": 100}
+19:51.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0537.png'
+TRACKMESH_FILM_RENDER {"frame": 537, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+19:54.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0538.png'
+TRACKMESH_FILM_RENDER {"frame": 538, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+19:56.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0539.png'
+TRACKMESH_FILM_RENDER {"frame": 539, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+19:58.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0540.png'
+TRACKMESH_FILM_RENDER {"frame": 540, "camera": "Film S5 PC to PC", "seconds": 2.36, "percent": 100}
+20:01.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0541.png'
+TRACKMESH_FILM_RENDER {"frame": 541, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+20:03.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0542.png'
+TRACKMESH_FILM_RENDER {"frame": 542, "camera": "Film S5 PC to PC", "seconds": 2.27, "percent": 100}
+20:05.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0543.png'
+TRACKMESH_FILM_RENDER {"frame": 543, "camera": "Film S5 PC to PC", "seconds": 2.41, "percent": 100}
+20:08.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0544.png'
+TRACKMESH_FILM_RENDER {"frame": 544, "camera": "Film S5 PC to PC", "seconds": 2.51, "percent": 100}
+20:10.625  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0545.png'
+TRACKMESH_FILM_RENDER {"frame": 545, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+20:12.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0546.png'
+TRACKMESH_FILM_RENDER {"frame": 546, "camera": "Film S5 PC to PC", "seconds": 2.28, "percent": 100}
+20:15.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0547.png'
+TRACKMESH_FILM_RENDER {"frame": 547, "camera": "Film S5 PC to PC", "seconds": 2.42, "percent": 100}
+20:17.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0548.png'
+TRACKMESH_FILM_RENDER {"frame": 548, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+20:19.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0549.png'
+TRACKMESH_FILM_RENDER {"frame": 549, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+20:22.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0550.png'
+TRACKMESH_FILM_RENDER {"frame": 550, "camera": "Film S5 PC to PC", "seconds": 2.4, "percent": 100}
+20:24.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0551.png'
+TRACKMESH_FILM_RENDER {"frame": 551, "camera": "Film S5 PC to PC", "seconds": 2.35, "percent": 100}
+20:27.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0552.png'
+TRACKMESH_FILM_RENDER {"frame": 552, "camera": "Film S5 PC to PC", "seconds": 2.39, "percent": 100}
+20:29.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0553.png'
+TRACKMESH_FILM_RENDER {"frame": 553, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+20:31.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0554.png'
+TRACKMESH_FILM_RENDER {"frame": 554, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+20:34.329  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0555.png'
+TRACKMESH_FILM_RENDER {"frame": 555, "camera": "Film S5 PC to PC", "seconds": 2.56, "percent": 100}
+20:36.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0556.png'
+TRACKMESH_FILM_RENDER {"frame": 556, "camera": "Film S5 PC to PC", "seconds": 2.47, "percent": 100}
+20:39.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0557.png'
+TRACKMESH_FILM_RENDER {"frame": 557, "camera": "Film S5 PC to PC", "seconds": 2.34, "percent": 100}
+20:41.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0558.png'
+TRACKMESH_FILM_RENDER {"frame": 558, "camera": "Film S5 PC to PC", "seconds": 2.45, "percent": 100}
+20:44.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0559.png'
+TRACKMESH_FILM_RENDER {"frame": 559, "camera": "Film S5 PC to PC", "seconds": 2.38, "percent": 100}
+20:46.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0560.png'
+TRACKMESH_FILM_RENDER {"frame": 560, "camera": "Film S5 PC to PC", "seconds": 2.39, "percent": 100}
+20:48.766  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0561.png'
+TRACKMESH_FILM_RENDER {"frame": 561, "camera": "Film S5 PC to PC", "seconds": 2.37, "percent": 100}
+20:51.094  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0562.png'
+TRACKMESH_FILM_RENDER {"frame": 562, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+20:53.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0563.png'
+TRACKMESH_FILM_RENDER {"frame": 563, "camera": "Film S5 PC to PC", "seconds": 2.32, "percent": 100}
+20:55.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0564.png'
+TRACKMESH_FILM_RENDER {"frame": 564, "camera": "Film S5 PC to PC", "seconds": 2.47, "percent": 100}
+20:58.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0565.png'
+TRACKMESH_FILM_RENDER {"frame": 565, "camera": "Film S5 PC to PC", "seconds": 2.36, "percent": 100}
+21:00.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0566.png'
+TRACKMESH_FILM_RENDER {"frame": 566, "camera": "Film S5 PC to PC", "seconds": 2.35, "percent": 100}
+21:02.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0567.png'
+TRACKMESH_FILM_RENDER {"frame": 567, "camera": "Film S5 PC to PC", "seconds": 2.31, "percent": 100}
+21:05.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0568.png'
+TRACKMESH_FILM_RENDER {"frame": 568, "camera": "Film S5 PC to PC", "seconds": 2.24, "percent": 100}
+21:07.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0569.png'
+TRACKMESH_FILM_RENDER {"frame": 569, "camera": "Film S5 PC to PC", "seconds": 2.31, "percent": 100}
+21:09.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0570.png'
+TRACKMESH_FILM_RENDER {"frame": 570, "camera": "Film S5 PC to PC", "seconds": 2.22, "percent": 100}
+21:12.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0571.png'
+TRACKMESH_FILM_RENDER {"frame": 571, "camera": "Film S5 PC to PC", "seconds": 2.35, "percent": 100}
+21:14.235  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0572.png'
+TRACKMESH_FILM_RENDER {"frame": 572, "camera": "Film S5 PC to PC", "seconds": 2.2, "percent": 100}
+21:16.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0573.png'
+TRACKMESH_FILM_RENDER {"frame": 573, "camera": "Film S5 PC to PC", "seconds": 2.31, "percent": 100}
+21:18.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0574.png'
+TRACKMESH_FILM_RENDER {"frame": 574, "camera": "Film S5 PC to PC", "seconds": 2.26, "percent": 100}
+21:21.141  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0575.png'
+TRACKMESH_FILM_RENDER {"frame": 575, "camera": "Film S5 PC to PC", "seconds": 2.33, "percent": 100}
+21:23.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0576.png'
+TRACKMESH_FILM_RENDER {"frame": 576, "camera": "Film S5 PC to PC", "seconds": 2.31, "percent": 100}
+21:25.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0577.png'
+TRACKMESH_FILM_RENDER {"frame": 577, "camera": "Film S5 PC to PC", "seconds": 2.2, "percent": 100}
+21:27.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0578.png'
+TRACKMESH_FILM_RENDER {"frame": 578, "camera": "Film S5 PC to PC", "seconds": 2.21, "percent": 100}
+21:30.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0579.png'
+TRACKMESH_FILM_RENDER {"frame": 579, "camera": "Film S5 PC to PC", "seconds": 2.3, "percent": 100}
+21:32.438  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0580.png'
+TRACKMESH_FILM_RENDER {"frame": 580, "camera": "Film S5 PC to PC", "seconds": 2.25, "percent": 100}
+21:34.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0581.png'
+TRACKMESH_FILM_RENDER {"frame": 581, "camera": "Film S6 outro", "seconds": 2.24, "percent": 100}
+21:36.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0582.png'
+TRACKMESH_FILM_RENDER {"frame": 582, "camera": "Film S6 outro", "seconds": 2.13, "percent": 100}
+21:39.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0583.png'
+TRACKMESH_FILM_RENDER {"frame": 583, "camera": "Film S6 outro", "seconds": 2.18, "percent": 100}
+21:41.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0584.png'
+TRACKMESH_FILM_RENDER {"frame": 584, "camera": "Film S6 outro", "seconds": 2.17, "percent": 100}
+21:43.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0585.png'
+TRACKMESH_FILM_RENDER {"frame": 585, "camera": "Film S6 outro", "seconds": 2.11, "percent": 100}
+21:45.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0586.png'
+TRACKMESH_FILM_RENDER {"frame": 586, "camera": "Film S6 outro", "seconds": 2.2, "percent": 100}
+21:47.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0587.png'
+TRACKMESH_FILM_RENDER {"frame": 587, "camera": "Film S6 outro", "seconds": 2.31, "percent": 100}
+21:50.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0588.png'
+TRACKMESH_FILM_RENDER {"frame": 588, "camera": "Film S6 outro", "seconds": 2.36, "percent": 100}
+21:52.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0589.png'
+TRACKMESH_FILM_RENDER {"frame": 589, "camera": "Film S6 outro", "seconds": 2.31, "percent": 100}
+21:54.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0590.png'
+TRACKMESH_FILM_RENDER {"frame": 590, "camera": "Film S6 outro", "seconds": 2.24, "percent": 100}
+21:56.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0591.png'
+TRACKMESH_FILM_RENDER {"frame": 591, "camera": "Film S6 outro", "seconds": 2.22, "percent": 100}
+21:59.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0592.png'
+TRACKMESH_FILM_RENDER {"frame": 592, "camera": "Film S6 outro", "seconds": 2.18, "percent": 100}
+22:01.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0593.png'
+TRACKMESH_FILM_RENDER {"frame": 593, "camera": "Film S6 outro", "seconds": 2.23, "percent": 100}
+22:03.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0594.png'
+TRACKMESH_FILM_RENDER {"frame": 594, "camera": "Film S6 outro", "seconds": 2.12, "percent": 100}
+22:05.719  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0595.png'
+TRACKMESH_FILM_RENDER {"frame": 595, "camera": "Film S6 outro", "seconds": 2.24, "percent": 100}
+22:07.860  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0596.png'
+TRACKMESH_FILM_RENDER {"frame": 596, "camera": "Film S6 outro", "seconds": 2.14, "percent": 100}
+22:10.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0597.png'
+TRACKMESH_FILM_RENDER {"frame": 597, "camera": "Film S6 outro", "seconds": 2.17, "percent": 100}
+22:12.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0598.png'
+TRACKMESH_FILM_RENDER {"frame": 598, "camera": "Film S6 outro", "seconds": 2.18, "percent": 100}
+22:14.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0599.png'
+TRACKMESH_FILM_RENDER {"frame": 599, "camera": "Film S6 outro", "seconds": 2.45, "percent": 100}
+22:16.844  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0600.png'
+TRACKMESH_FILM_RENDER {"frame": 600, "camera": "Film S6 outro", "seconds": 2.17, "percent": 100}
+22:19.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0601.png'
+TRACKMESH_FILM_RENDER {"frame": 601, "camera": "Film S6 outro", "seconds": 2.28, "percent": 100}
+22:21.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0602.png'
+TRACKMESH_FILM_RENDER {"frame": 602, "camera": "Film S6 outro", "seconds": 2.37, "percent": 100}
+22:23.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0603.png'
+TRACKMESH_FILM_RENDER {"frame": 603, "camera": "Film S6 outro", "seconds": 2.15, "percent": 100}
+22:25.813  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0604.png'
+TRACKMESH_FILM_RENDER {"frame": 604, "camera": "Film S6 outro", "seconds": 2.15, "percent": 100}
+22:27.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0605.png'
+TRACKMESH_FILM_RENDER {"frame": 605, "camera": "Film S6 outro", "seconds": 2.08, "percent": 100}
+22:30.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0606.png'
+TRACKMESH_FILM_RENDER {"frame": 606, "camera": "Film S6 outro", "seconds": 2.19, "percent": 100}
+22:32.375  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0607.png'
+TRACKMESH_FILM_RENDER {"frame": 607, "camera": "Film S6 outro", "seconds": 2.28, "percent": 100}
+22:34.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0608.png'
+TRACKMESH_FILM_RENDER {"frame": 608, "camera": "Film S6 outro", "seconds": 2.13, "percent": 100}
+22:36.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0609.png'
+TRACKMESH_FILM_RENDER {"frame": 609, "camera": "Film S6 outro", "seconds": 2.08, "percent": 100}
+22:38.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0610.png'
+TRACKMESH_FILM_RENDER {"frame": 610, "camera": "Film S6 outro", "seconds": 2.15, "percent": 100}
+22:40.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0611.png'
+TRACKMESH_FILM_RENDER {"frame": 611, "camera": "Film S6 outro", "seconds": 2.2, "percent": 100}
+22:43.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0612.png'
+TRACKMESH_FILM_RENDER {"frame": 612, "camera": "Film S6 outro", "seconds": 2.18, "percent": 100}
+22:45.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0613.png'
+TRACKMESH_FILM_RENDER {"frame": 613, "camera": "Film S6 outro", "seconds": 1.99, "percent": 100}
+22:47.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0614.png'
+TRACKMESH_FILM_RENDER {"frame": 614, "camera": "Film S6 outro", "seconds": 2.05, "percent": 100}
+22:49.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0615.png'
+TRACKMESH_FILM_RENDER {"frame": 615, "camera": "Film S6 outro", "seconds": 2.08, "percent": 100}
+22:51.500  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0616.png'
+TRACKMESH_FILM_RENDER {"frame": 616, "camera": "Film S6 outro", "seconds": 2.25, "percent": 100}
+22:53.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0617.png'
+TRACKMESH_FILM_RENDER {"frame": 617, "camera": "Film S6 outro", "seconds": 2.11, "percent": 100}
+22:55.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0618.png'
+TRACKMESH_FILM_RENDER {"frame": 618, "camera": "Film S6 outro", "seconds": 2.16, "percent": 100}
+22:58.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0619.png'
+TRACKMESH_FILM_RENDER {"frame": 619, "camera": "Film S6 outro", "seconds": 2.38, "percent": 100}
+23:00.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0620.png'
+TRACKMESH_FILM_RENDER {"frame": 620, "camera": "Film S6 outro", "seconds": 2.55, "percent": 100}
+23:03.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0621.png'
+TRACKMESH_FILM_RENDER {"frame": 621, "camera": "Film S6 outro", "seconds": 2.85, "percent": 100}
+23:06.110  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0622.png'
+TRACKMESH_FILM_RENDER {"frame": 622, "camera": "Film S6 outro", "seconds": 2.54, "percent": 100}
+23:08.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0623.png'
+TRACKMESH_FILM_RENDER {"frame": 623, "camera": "Film S6 outro", "seconds": 2.47, "percent": 100}
+23:10.797  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0624.png'
+TRACKMESH_FILM_RENDER {"frame": 624, "camera": "Film S6 outro", "seconds": 2.19, "percent": 100}
+23:12.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0625.png'
+TRACKMESH_FILM_RENDER {"frame": 625, "camera": "Film S6 outro", "seconds": 2.07, "percent": 100}
+23:14.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0626.png'
+TRACKMESH_FILM_RENDER {"frame": 626, "camera": "Film S6 outro", "seconds": 2.02, "percent": 100}
+23:16.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0627.png'
+TRACKMESH_FILM_RENDER {"frame": 627, "camera": "Film S6 outro", "seconds": 2.04, "percent": 100}
+23:18.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0628.png'
+TRACKMESH_FILM_RENDER {"frame": 628, "camera": "Film S6 outro", "seconds": 1.99, "percent": 100}
+23:20.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0629.png'
+TRACKMESH_FILM_RENDER {"frame": 629, "camera": "Film S6 outro", "seconds": 1.99, "percent": 100}
+23:22.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0630.png'
+TRACKMESH_FILM_RENDER {"frame": 630, "camera": "Film S6 outro", "seconds": 1.96, "percent": 100}
+23:24.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0631.png'
+TRACKMESH_FILM_RENDER {"frame": 631, "camera": "Film S6 outro", "seconds": 2.04, "percent": 100}
+23:26.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0632.png'
+TRACKMESH_FILM_RENDER {"frame": 632, "camera": "Film S6 outro", "seconds": 2.02, "percent": 100}
+23:28.938  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0633.png'
+TRACKMESH_FILM_RENDER {"frame": 633, "camera": "Film S6 outro", "seconds": 1.99, "percent": 100}
+23:30.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0634.png'
+TRACKMESH_FILM_RENDER {"frame": 634, "camera": "Film S6 outro", "seconds": 2.03, "percent": 100}
+23:32.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0635.png'
+TRACKMESH_FILM_RENDER {"frame": 635, "camera": "Film S6 outro", "seconds": 2.0, "percent": 100}
+23:34.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0636.png'
+TRACKMESH_FILM_RENDER {"frame": 636, "camera": "Film S6 outro", "seconds": 1.97, "percent": 100}
+23:36.985  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0637.png'
+TRACKMESH_FILM_RENDER {"frame": 637, "camera": "Film S6 outro", "seconds": 2.04, "percent": 100}
+23:38.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0638.png'
+TRACKMESH_FILM_RENDER {"frame": 638, "camera": "Film S6 outro", "seconds": 1.97, "percent": 100}
+23:41.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0639.png'
+TRACKMESH_FILM_RENDER {"frame": 639, "camera": "Film S6 outro", "seconds": 2.03, "percent": 100}
+23:43.047  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0640.png'
+TRACKMESH_FILM_RENDER {"frame": 640, "camera": "Film S6 outro", "seconds": 2.05, "percent": 100}
+23:44.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0641.png'
+TRACKMESH_FILM_RENDER {"frame": 641, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+23:46.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0642.png'
+TRACKMESH_FILM_RENDER {"frame": 642, "camera": "Film S6 outro", "seconds": 1.86, "percent": 100}
+23:48.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0643.png'
+TRACKMESH_FILM_RENDER {"frame": 643, "camera": "Film S6 outro", "seconds": 1.96, "percent": 100}
+23:50.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0644.png'
+TRACKMESH_FILM_RENDER {"frame": 644, "camera": "Film S6 outro", "seconds": 1.89, "percent": 100}
+23:52.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0645.png'
+TRACKMESH_FILM_RENDER {"frame": 645, "camera": "Film S6 outro", "seconds": 1.95, "percent": 100}
+23:54.688  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0646.png'
+TRACKMESH_FILM_RENDER {"frame": 646, "camera": "Film S6 outro", "seconds": 2.05, "percent": 100}
+23:56.579  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0647.png'
+TRACKMESH_FILM_RENDER {"frame": 647, "camera": "Film S6 outro", "seconds": 1.89, "percent": 100}
+23:58.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0648.png'
+TRACKMESH_FILM_RENDER {"frame": 648, "camera": "Film S6 outro", "seconds": 1.94, "percent": 100}
+24:00.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0649.png'
+TRACKMESH_FILM_RENDER {"frame": 649, "camera": "Film S6 outro", "seconds": 1.94, "percent": 100}
+24:02.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0650.png'
+TRACKMESH_FILM_RENDER {"frame": 650, "camera": "Film S6 outro", "seconds": 2.05, "percent": 100}
+24:04.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0651.png'
+TRACKMESH_FILM_RENDER {"frame": 651, "camera": "Film S6 outro", "seconds": 1.94, "percent": 100}
+24:06.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0652.png'
+TRACKMESH_FILM_RENDER {"frame": 652, "camera": "Film S6 outro", "seconds": 1.86, "percent": 100}
+24:08.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0653.png'
+TRACKMESH_FILM_RENDER {"frame": 653, "camera": "Film S6 outro", "seconds": 1.95, "percent": 100}
+24:10.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0654.png'
+TRACKMESH_FILM_RENDER {"frame": 654, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+24:12.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0655.png'
+TRACKMESH_FILM_RENDER {"frame": 655, "camera": "Film S6 outro", "seconds": 2.05, "percent": 100}
+24:14.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0656.png'
+TRACKMESH_FILM_RENDER {"frame": 656, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+24:16.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0657.png'
+TRACKMESH_FILM_RENDER {"frame": 657, "camera": "Film S6 outro", "seconds": 1.95, "percent": 100}
+24:17.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0658.png'
+TRACKMESH_FILM_RENDER {"frame": 658, "camera": "Film S6 outro", "seconds": 1.85, "percent": 100}
+24:19.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0659.png'
+TRACKMESH_FILM_RENDER {"frame": 659, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+24:21.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0660.png'
+TRACKMESH_FILM_RENDER {"frame": 660, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+24:23.672  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0661.png'
+TRACKMESH_FILM_RENDER {"frame": 661, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+24:25.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0662.png'
+TRACKMESH_FILM_RENDER {"frame": 662, "camera": "Film S6 outro", "seconds": 1.97, "percent": 100}
+24:27.516  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0663.png'
+TRACKMESH_FILM_RENDER {"frame": 663, "camera": "Film S6 outro", "seconds": 1.88, "percent": 100}
+24:29.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0664.png'
+TRACKMESH_FILM_RENDER {"frame": 664, "camera": "Film S6 outro", "seconds": 1.97, "percent": 100}
+24:31.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0665.png'
+TRACKMESH_FILM_RENDER {"frame": 665, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+24:33.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0666.png'
+TRACKMESH_FILM_RENDER {"frame": 666, "camera": "Film S6 outro", "seconds": 1.88, "percent": 100}
+24:35.172  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0667.png'
+TRACKMESH_FILM_RENDER {"frame": 667, "camera": "Film S6 outro", "seconds": 1.88, "percent": 100}
+24:37.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0668.png'
+TRACKMESH_FILM_RENDER {"frame": 668, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+24:39.000  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0669.png'
+TRACKMESH_FILM_RENDER {"frame": 669, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+24:40.969  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0670.png'
+TRACKMESH_FILM_RENDER {"frame": 670, "camera": "Film S6 outro", "seconds": 1.97, "percent": 100}
+24:42.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0671.png'
+TRACKMESH_FILM_RENDER {"frame": 671, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+24:44.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0672.png'
+TRACKMESH_FILM_RENDER {"frame": 672, "camera": "Film S6 outro", "seconds": 1.8, "percent": 100}
+24:46.594  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0673.png'
+TRACKMESH_FILM_RENDER {"frame": 673, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+24:48.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0674.png'
+TRACKMESH_FILM_RENDER {"frame": 674, "camera": "Film S6 outro", "seconds": 1.81, "percent": 100}
+24:50.313  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0675.png'
+TRACKMESH_FILM_RENDER {"frame": 675, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+24:52.219  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0676.png'
+TRACKMESH_FILM_RENDER {"frame": 676, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+24:54.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0677.png'
+TRACKMESH_FILM_RENDER {"frame": 677, "camera": "Film S6 outro", "seconds": 1.83, "percent": 100}
+24:56.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0678.png'
+TRACKMESH_FILM_RENDER {"frame": 678, "camera": "Film S6 outro", "seconds": 1.99, "percent": 100}
+24:58.032  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0679.png'
+TRACKMESH_FILM_RENDER {"frame": 679, "camera": "Film S6 outro", "seconds": 2.0, "percent": 100}
+24:59.891  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0680.png'
+TRACKMESH_FILM_RENDER {"frame": 680, "camera": "Film S6 outro", "seconds": 1.86, "percent": 100}
+25:01.907  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0681.png'
+TRACKMESH_FILM_RENDER {"frame": 681, "camera": "Film S6 outro", "seconds": 2.01, "percent": 100}
+25:03.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0682.png'
+TRACKMESH_FILM_RENDER {"frame": 682, "camera": "Film S6 outro", "seconds": 1.93, "percent": 100}
+25:05.782  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0683.png'
+TRACKMESH_FILM_RENDER {"frame": 683, "camera": "Film S6 outro", "seconds": 1.94, "percent": 100}
+25:07.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0684.png'
+TRACKMESH_FILM_RENDER {"frame": 684, "camera": "Film S6 outro", "seconds": 1.87, "percent": 100}
+25:09.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0685.png'
+TRACKMESH_FILM_RENDER {"frame": 685, "camera": "Film S6 outro", "seconds": 1.95, "percent": 100}
+25:11.454  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0686.png'
+TRACKMESH_FILM_RENDER {"frame": 686, "camera": "Film S6 outro", "seconds": 1.85, "percent": 100}
+25:13.422  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0687.png'
+TRACKMESH_FILM_RENDER {"frame": 687, "camera": "Film S6 outro", "seconds": 1.96, "percent": 100}
+25:15.391  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0688.png'
+TRACKMESH_FILM_RENDER {"frame": 688, "camera": "Film S6 outro", "seconds": 1.97, "percent": 100}
+25:17.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0689.png'
+TRACKMESH_FILM_RENDER {"frame": 689, "camera": "Film S6 outro", "seconds": 1.94, "percent": 100}
+25:19.266  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0690.png'
+TRACKMESH_FILM_RENDER {"frame": 690, "camera": "Film S6 outro", "seconds": 1.93, "percent": 100}
+25:21.188  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0691.png'
+TRACKMESH_FILM_RENDER {"frame": 691, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+25:23.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0692.png'
+TRACKMESH_FILM_RENDER {"frame": 692, "camera": "Film S6 outro", "seconds": 1.82, "percent": 100}
+25:24.922  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0693.png'
+TRACKMESH_FILM_RENDER {"frame": 693, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+25:26.829  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0694.png'
+TRACKMESH_FILM_RENDER {"frame": 694, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+25:28.750  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0695.png'
+TRACKMESH_FILM_RENDER {"frame": 695, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+25:30.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0696.png'
+TRACKMESH_FILM_RENDER {"frame": 696, "camera": "Film S6 outro", "seconds": 1.88, "percent": 100}
+25:32.704  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0697.png'
+TRACKMESH_FILM_RENDER {"frame": 697, "camera": "Film S6 outro", "seconds": 2.06, "percent": 100}
+25:34.579  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0698.png'
+TRACKMESH_FILM_RENDER {"frame": 698, "camera": "Film S6 outro", "seconds": 1.87, "percent": 100}
+25:36.407  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0699.png'
+TRACKMESH_FILM_RENDER {"frame": 699, "camera": "Film S6 outro", "seconds": 1.85, "percent": 100}
+25:38.344  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0700.png'
+TRACKMESH_FILM_RENDER {"frame": 700, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+25:40.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0701.png'
+TRACKMESH_FILM_RENDER {"frame": 701, "camera": "Film S6 outro", "seconds": 1.9, "percent": 100}
+25:42.157  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0702.png'
+TRACKMESH_FILM_RENDER {"frame": 702, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+25:44.079  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0703.png'
+TRACKMESH_FILM_RENDER {"frame": 703, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+25:46.016  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0704.png'
+TRACKMESH_FILM_RENDER {"frame": 704, "camera": "Film S6 outro", "seconds": 1.94, "percent": 100}
+25:47.954  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0705.png'
+TRACKMESH_FILM_RENDER {"frame": 705, "camera": "Film S6 outro", "seconds": 1.93, "percent": 100}
+25:49.875  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0706.png'
+TRACKMESH_FILM_RENDER {"frame": 706, "camera": "Film S6 outro", "seconds": 1.93, "percent": 100}
+25:51.735  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0707.png'
+TRACKMESH_FILM_RENDER {"frame": 707, "camera": "Film S6 outro", "seconds": 1.86, "percent": 100}
+25:53.657  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0708.png'
+TRACKMESH_FILM_RENDER {"frame": 708, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+25:55.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0709.png'
+TRACKMESH_FILM_RENDER {"frame": 709, "camera": "Film S6 outro", "seconds": 1.89, "percent": 100}
+25:57.485  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0710.png'
+TRACKMESH_FILM_RENDER {"frame": 710, "camera": "Film S6 outro", "seconds": 1.95, "percent": 100}
+25:59.532  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0711.png'
+TRACKMESH_FILM_RENDER {"frame": 711, "camera": "Film S6 outro", "seconds": 2.04, "percent": 100}
+26:01.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0712.png'
+TRACKMESH_FILM_RENDER {"frame": 712, "camera": "Film S6 outro", "seconds": 2.0, "percent": 100}
+26:03.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0713.png'
+TRACKMESH_FILM_RENDER {"frame": 713, "camera": "Film S6 outro", "seconds": 2.1, "percent": 100}
+26:05.641  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0714.png'
+TRACKMESH_FILM_RENDER {"frame": 714, "camera": "Film S6 outro", "seconds": 1.99, "percent": 100}
+26:07.610  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0715.png'
+TRACKMESH_FILM_RENDER {"frame": 715, "camera": "Film S6 outro", "seconds": 1.98, "percent": 100}
+26:09.547  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0716.png'
+TRACKMESH_FILM_RENDER {"frame": 716, "camera": "Film S6 outro", "seconds": 1.93, "percent": 100}
+26:11.469  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0717.png'
+TRACKMESH_FILM_RENDER {"frame": 717, "camera": "Film S6 outro", "seconds": 1.91, "percent": 100}
+26:13.360  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0718.png'
+TRACKMESH_FILM_RENDER {"frame": 718, "camera": "Film S6 outro", "seconds": 1.89, "percent": 100}
+26:15.282  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0719.png'
+TRACKMESH_FILM_RENDER {"frame": 719, "camera": "Film S6 outro", "seconds": 1.92, "percent": 100}
+26:17.250  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\frames\film-v03\frame_0720.png'
+TRACKMESH_FILM_RENDER {"frame": 720, "camera": "Film S6 outro", "seconds": 1.95, "percent": 100}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

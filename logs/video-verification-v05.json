@@ -1,0 +1,33 @@
+{
+  "duration": 3,
+  "width": 960,
+  "height": 540,
+  "error": null,
+  "representative_seeks": [
+    {
+      "state": "wide",
+      "time": 0.5,
+      "mediaTime": 0.5,
+      "presentedFrames": 2
+    },
+    {
+      "state": "save",
+      "time": 1.45,
+      "mediaTime": 1.417,
+      "presentedFrames": 3
+    },
+    {
+      "state": "settle",
+      "time": 1.98,
+      "mediaTime": 1.958,
+      "presentedFrames": 4
+    },
+    {
+      "state": "ready",
+      "time": 2.7,
+      "mediaTime": 2.667,
+      "presentedFrames": 5
+    }
+  ],
+  "playback_to_end": true
+}

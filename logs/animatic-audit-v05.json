@@ -1,0 +1,935 @@
+{
+  "blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v05.blend",
+  "frames_checked": 72,
+  "camera_cut_frame": 25,
+  "concept_label_visible_every_frame": true,
+  "state_sequence_exact": true,
+  "daw_screen_not_clipped": true,
+  "frames": [
+    {
+      "frame": 1,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 2,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 3,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 4,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 5,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 6,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 7,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 8,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 9,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 10,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 11,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 12,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 13,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 14,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 15,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 16,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 17,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 18,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 19,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 20,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 21,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 22,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 23,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 24,
+      "camera": "A_Establishing",
+      "concept_label": "A_Establishing permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": false
+    },
+    {
+      "frame": 25,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20659533143043518,
+        "max_x": 0.7758861184120178,
+        "min_y": 0.19999514520168304,
+        "max_y": 0.7893701791763306,
+        "min_depth": 2.1601765155792236
+      }
+    },
+    {
+      "frame": 26,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20654931664466858,
+        "max_x": 0.7759410738945007,
+        "min_y": 0.19994623959064484,
+        "max_y": 0.7894160747528076,
+        "min_depth": 2.15995717048645
+      }
+    },
+    {
+      "frame": 27,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20641392469406128,
+        "max_x": 0.7761029005050659,
+        "min_y": 0.1998027265071869,
+        "max_y": 0.7895525097846985,
+        "min_depth": 2.1593101024627686
+      }
+    },
+    {
+      "frame": 28,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20619286596775055,
+        "max_x": 0.776366651058197,
+        "min_y": 0.19956789910793304,
+        "max_y": 0.789774477481842,
+        "min_depth": 2.1582555770874023
+      }
+    },
+    {
+      "frame": 29,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20588932931423187,
+        "max_x": 0.7767278552055359,
+        "min_y": 0.1992473304271698,
+        "max_y": 0.7900795340538025,
+        "min_depth": 2.1568117141723633
+      }
+    },
+    {
+      "frame": 30,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20550650358200073,
+        "max_x": 0.7771812677383423,
+        "min_y": 0.19884367287158966,
+        "max_y": 0.7904630899429321,
+        "min_depth": 2.154998302459717
+      }
+    },
+    {
+      "frame": 31,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.2050478160381317,
+        "max_x": 0.7777225971221924,
+        "min_y": 0.19836190342903137,
+        "max_y": 0.7909227609634399,
+        "min_depth": 2.152834415435791
+      }
+    },
+    {
+      "frame": 32,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20451593399047852,
+        "max_x": 0.778346598148346,
+        "min_y": 0.19780507683753967,
+        "max_y": 0.7914538383483887,
+        "min_depth": 2.150339126586914
+      }
+    },
+    {
+      "frame": 33,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20391404628753662,
+        "max_x": 0.7790488004684448,
+        "min_y": 0.19717815518379211,
+        "max_y": 0.7920542359352112,
+        "min_depth": 2.147531032562256
+      }
+    },
+    {
+      "frame": 34,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20324450731277466,
+        "max_x": 0.7798241376876831,
+        "min_y": 0.19648389518260956,
+        "max_y": 0.7927194833755493,
+        "min_depth": 2.1444289684295654
+      }
+    },
+    {
+      "frame": 35,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20251064002513885,
+        "max_x": 0.7806678414344788,
+        "min_y": 0.19572754204273224,
+        "max_y": 0.7934472560882568,
+        "min_depth": 2.1410536766052246
+      }
+    },
+    {
+      "frame": 36,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20171497762203217,
+        "max_x": 0.7815752029418945,
+        "min_y": 0.19491229951381683,
+        "max_y": 0.794234037399292,
+        "min_depth": 2.1374223232269287
+      }
+    },
+    {
+      "frame": 37,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.20086053013801575,
+        "max_x": 0.7825411558151245,
+        "min_y": 0.1940418779850006,
+        "max_y": 0.7950754165649414,
+        "min_depth": 2.1335561275482178
+      }
+    },
+    {
+      "frame": 38,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.19994987547397614,
+        "max_x": 0.7835609316825867,
+        "min_y": 0.19312112033367157,
+        "max_y": 0.7959697842597961,
+        "min_depth": 2.129472494125366
+      }
+    },
+    {
+      "frame": 39,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1989862322807312,
+        "max_x": 0.7846298813819885,
+        "min_y": 0.19215364754199982,
+        "max_y": 0.7969130277633667,
+        "min_depth": 2.1251912117004395
+      }
+    },
+    {
+      "frame": 40,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Save observed"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.19797252118587494,
+        "max_x": 0.785742998123169,
+        "min_y": 0.19114302098751068,
+        "max_y": 0.7979011535644531,
+        "min_depth": 2.1207315921783447
+      }
+    },
+    {
+      "frame": 41,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.19691182672977448,
+        "max_x": 0.7868956327438354,
+        "min_y": 0.1900934875011444,
+        "max_y": 0.798931360244751,
+        "min_depth": 2.1161117553710938
+      }
+    },
+    {
+      "frame": 42,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1958072930574417,
+        "max_x": 0.7880824208259583,
+        "min_y": 0.18900980055332184,
+        "max_y": 0.8000001311302185,
+        "min_depth": 2.1113524436950684
+      }
+    },
+    {
+      "frame": 43,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1946621984243393,
+        "max_x": 0.7892988920211792,
+        "min_y": 0.18789485096931458,
+        "max_y": 0.8011031150817871,
+        "min_depth": 2.106471300125122
+      }
+    },
+    {
+      "frame": 44,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1934802532196045,
+        "max_x": 0.7905403971672058,
+        "min_y": 0.18675373494625092,
+        "max_y": 0.8022374510765076,
+        "min_depth": 2.101487874984741
+      }
+    },
+    {
+      "frame": 45,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.19226472079753876,
+        "max_x": 0.7918017506599426,
+        "min_y": 0.18559041619300842,
+        "max_y": 0.8033991456031799,
+        "min_depth": 2.0964207649230957
+      }
+    },
+    {
+      "frame": 46,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.19101983308792114,
+        "max_x": 0.7930784821510315,
+        "min_y": 0.18440841138362885,
+        "max_y": 0.8045834898948669,
+        "min_depth": 2.091289520263672
+      }
+    },
+    {
+      "frame": 47,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.18974967300891876,
+        "max_x": 0.794365644454956,
+        "min_y": 0.18321385979652405,
+        "max_y": 0.8057883381843567,
+        "min_depth": 2.086113214492798
+      }
+    },
+    {
+      "frame": 48,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.18845787644386292,
+        "max_x": 0.7956584692001343,
+        "min_y": 0.18200832605361938,
+        "max_y": 0.8070073127746582,
+        "min_depth": 2.0809099674224854
+      }
+    },
+    {
+      "frame": 49,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1871490180492401,
+        "max_x": 0.796951949596405,
+        "min_y": 0.18079885840415955,
+        "max_y": 0.8082382678985596,
+        "min_depth": 2.0756995677948
+      }
+    },
+    {
+      "frame": 50,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.18582823872566223,
+        "max_x": 0.7982417941093445,
+        "min_y": 0.17958737909793854,
+        "max_y": 0.8094745874404907,
+        "min_depth": 2.0705008506774902
+      }
+    },
+    {
+      "frame": 51,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.18449975550174713,
+        "max_x": 0.7995232343673706,
+        "min_y": 0.17838042974472046,
+        "max_y": 0.8107138276100159,
+        "min_depth": 2.0653319358825684
+      }
+    },
+    {
+      "frame": 52,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.18316873908042908,
+        "max_x": 0.8007912039756775,
+        "min_y": 0.17718036472797394,
+        "max_y": 0.8119493126869202,
+        "min_depth": 2.0602118968963623
+      }
+    },
+    {
+      "frame": 53,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.18184056878089905,
+        "max_x": 0.8020412921905518,
+        "min_y": 0.17599396407604218,
+        "max_y": 0.8131785988807678,
+        "min_depth": 2.0551602840423584
+      }
+    },
+    {
+      "frame": 54,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1805201768875122,
+        "max_x": 0.8032684922218323,
+        "min_y": 0.17482414841651917,
+        "max_y": 0.8143951296806335,
+        "min_depth": 2.0501949787139893
+      }
+    },
+    {
+      "frame": 55,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17921429872512817,
+        "max_x": 0.804469108581543,
+        "min_y": 0.17367631196975708,
+        "max_y": 0.8155946731567383,
+        "min_depth": 2.045335292816162
+      }
+    },
+    {
+      "frame": 56,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Waiting for files to settle"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17792795598506927,
+        "max_x": 0.8056377172470093,
+        "min_y": 0.17255432903766632,
+        "max_y": 0.8167714476585388,
+        "min_depth": 2.0405993461608887
+      }
+    },
+    {
+      "frame": 57,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17666740715503693,
+        "max_x": 0.8067699074745178,
+        "min_y": 0.17146344482898712,
+        "max_y": 0.8179205656051636,
+        "min_depth": 2.036006212234497
+      }
+    },
+    {
+      "frame": 58,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17543920874595642,
+        "max_x": 0.8078615665435791,
+        "min_y": 0.170408234000206,
+        "max_y": 0.819036602973938,
+        "min_depth": 2.0315749645233154
+      }
+    },
+    {
+      "frame": 59,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17424951493740082,
+        "max_x": 0.8089075684547424,
+        "min_y": 0.16939397156238556,
+        "max_y": 0.8201145529747009,
+        "min_depth": 2.0273237228393555
+      }
+    },
+    {
+      "frame": 60,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17310477793216705,
+        "max_x": 0.809903621673584,
+        "min_y": 0.16842441260814667,
+        "max_y": 0.8211479187011719,
+        "min_depth": 2.023271083831787
+      }
+    },
+    {
+      "frame": 61,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17201216518878937,
+        "max_x": 0.8108456134796143,
+        "min_y": 0.16750527918338776,
+        "max_y": 0.8221320509910583,
+        "min_depth": 2.0194356441497803
+      }
+    },
+    {
+      "frame": 62,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17097826302051544,
+        "max_x": 0.8117286562919617,
+        "min_y": 0.16664041578769684,
+        "max_y": 0.8230603337287903,
+        "min_depth": 2.015836477279663
+      }
+    },
+    {
+      "frame": 63,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.17001019418239594,
+        "max_x": 0.8125487565994263,
+        "min_y": 0.16583561897277832,
+        "max_y": 0.8239280581474304,
+        "min_depth": 2.012491464614868
+      }
+    },
+    {
+      "frame": 64,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1691148281097412,
+        "max_x": 0.813301146030426,
+        "min_y": 0.16509437561035156,
+        "max_y": 0.8247274160385132,
+        "min_depth": 2.0094196796417236
+      }
+    },
+    {
+      "frame": 65,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1682993769645691,
+        "max_x": 0.8139816522598267,
+        "min_y": 0.16442348062992096,
+        "max_y": 0.8254552483558655,
+        "min_depth": 2.0066397190093994
+      }
+    },
+    {
+      "frame": 66,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.16757068037986755,
+        "max_x": 0.8145856857299805,
+        "min_y": 0.16382576525211334,
+        "max_y": 0.8261035680770874,
+        "min_depth": 2.0041701793670654
+      }
+    },
+    {
+      "frame": 67,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.16693587601184845,
+        "max_x": 0.8151091933250427,
+        "min_y": 0.1633078157901764,
+        "max_y": 0.8266686201095581,
+        "min_depth": 2.0020294189453125
+      }
+    },
+    {
+      "frame": 68,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.16640155017375946,
+        "max_x": 0.8155472278594971,
+        "min_y": 0.16287264227867126,
+        "max_y": 0.8271422386169434,
+        "min_depth": 2.0002357959747314
+      }
+    },
+    {
+      "frame": 69,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.1659751534461975,
+        "max_x": 0.8158958554267883,
+        "min_y": 0.16252650320529938,
+        "max_y": 0.8275204300880432,
+        "min_depth": 1.9988086223602295
+      }
+    },
+    {
+      "frame": 70,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.16566254198551178,
+        "max_x": 0.8161502480506897,
+        "min_y": 0.16227278113365173,
+        "max_y": 0.8277967572212219,
+        "min_depth": 1.997766137123108
+      }
+    },
+    {
+      "frame": 71,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.16547051072120667,
+        "max_x": 0.8163062334060669,
+        "min_y": 0.16211827099323273,
+        "max_y": 0.8279675841331482,
+        "min_depth": 1.997126579284668
+      }
+    },
+    {
+      "frame": 72,
+      "camera": "B_DAW",
+      "concept_label": "B_DAW permanent concept label",
+      "visible_state": [
+        "Snapshot ready"
+      ],
+      "native_vst3_visible": true,
+      "lcd_projection": {
+        "min_x": 0.16540545225143433,
+        "max_x": 0.8163594007492065,
+        "min_y": 0.16206495463848114,
+        "max_y": 0.8280248641967773,
+        "min_depth": 1.9969096183776855
+      }
+    }
+  ],
+  "native_vst3_visibility_and_framing": true
+}

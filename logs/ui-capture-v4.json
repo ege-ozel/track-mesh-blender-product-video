@@ -1,0 +1,37 @@
+{
+  "idle": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-idle.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nYou have Studio A's latest version\n\nGet Studio A's version\nInvite another collaborator\nAdvanced →"
+  },
+  "new": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-new.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 14.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\nGet Studio A's version\nInvite another collaborator\nAdvanced →"
+  },
+  "ask": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-ask.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 14.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\nGet Studio A's version\nInvite another collaborator\nAdvanced →\nIs this project closed in your DAW?\n✕\nTrackMesh will replace the files in this folder with Studio A's version.\nYes, it's closed\nCancel"
+  },
+  "get97": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-get97.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 14.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\nGet Studio A's version\nGetting Studio A's version…\n1.6 GB / 1.6 GB · 97 %\nStop\nInvite another collaborator\nAdvanced →"
+  },
+  "get98": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-get98.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 14.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\nGet Studio A's version\nGetting Studio A's version…\n1.6 GB / 1.6 GB · 98 %\nStop\nInvite another collaborator\nAdvanced →"
+  },
+  "get99": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-get99.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 14.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\nGet Studio A's version\nGetting Studio A's version…\n1.6 GB / 1.6 GB · 99 %\nStop\nInvite another collaborator\nAdvanced →"
+  },
+  "done": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v4\\app-done.png",
+    "errors": [],
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nYou have Studio A's latest version\n\nGet Studio A's version\nGot Studio A's version ✓\nInvite another collaborator\nAdvanced →"
+  }
+}

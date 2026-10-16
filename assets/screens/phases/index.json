@@ -1,0 +1,416 @@
+{
+  "unreachable": {
+    "en": {
+      "label": "TrackMesh is not running",
+      "file": "en-unreachable.png",
+      "events": [],
+      "errors": []
+    },
+    "tr": {
+      "label": "TrackMesh çalışmıyor",
+      "file": "tr-unreachable.png",
+      "events": [],
+      "errors": []
+    }
+  },
+  "picker": {
+    "en": {
+      "label": "Choose the project",
+      "file": "en-picker.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Proje seçimi",
+      "file": "tr-picker.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "picker-one": {
+    "en": {
+      "label": "Choose the project: only one",
+      "file": "en-picker-one.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Proje seçimi: tek proje",
+      "file": "tr-picker-one.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "picker-many": {
+    "en": {
+      "label": "Choose the project: seven, scrolls",
+      "file": "en-picker-many.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Proje seçimi: yedi proje, kayar",
+      "file": "tr-picker-many.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "no-projects": {
+    "en": {
+      "label": "No projects in TrackMesh yet",
+      "file": "en-no-projects.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "TrackMesh'te henüz proje yok",
+      "file": "tr-no-projects.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "no-collaborator": {
+    "en": {
+      "label": "No collaborator yet",
+      "file": "en-no-collaborator.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Henüz iş arkadaşı yok",
+      "file": "tr-no-collaborator.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "up-to-date": {
+    "en": {
+      "label": "Up to date",
+      "file": "en-up-to-date.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Güncel",
+      "file": "tr-up-to-date.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "saved": {
+    "en": {
+      "label": "Saved in the DAW (auto share off)",
+      "file": "en-saved.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "DAW'da kaydedildi (otomatik paylaşım kapalı)",
+      "file": "tr-saved.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "sharing": {
+    "en": {
+      "label": "Sharing",
+      "file": "en-sharing.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Paylaşılıyor",
+      "file": "tr-sharing.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "shared": {
+    "en": {
+      "label": "Shared",
+      "file": "en-shared.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Paylaşıldı",
+      "file": "tr-shared.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "auto-share": {
+    "en": {
+      "label": "Share when I save: on",
+      "file": "en-auto-share.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Kaydedince paylaş: açık",
+      "file": "tr-auto-share.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "new-version": {
+    "en": {
+      "label": "New version from the collaborator",
+      "file": "en-new-version.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "İş arkadaşından yeni sürüm",
+      "file": "tr-new-version.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "get-handoff": {
+    "en": {
+      "label": "After Get: TrackMesh opened",
+      "file": "en-get-handoff.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Al sonrası: TrackMesh açıldı",
+      "file": "tr-get-handoff.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "getting": {
+    "en": {
+      "label": "Getting a version",
+      "file": "en-getting.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Sürüm alınıyor",
+      "file": "tr-getting.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "offline": {
+    "en": {
+      "label": "Collaborator not connected",
+      "file": "en-offline.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "İş arkadaşı bağlı değil",
+      "file": "tr-offline.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "presence": {
+    "en": {
+      "label": "Collaborator is working on it",
+      "file": "en-presence.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "İş arkadaşı üzerinde çalışıyor",
+      "file": "tr-presence.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "share-anyway": {
+    "en": {
+      "label": "Share while they work: confirm",
+      "file": "en-share-anyway.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "O çalışırken paylaş: onay",
+      "file": "tr-share-anyway.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "both-working": {
+    "en": {
+      "label": "Both working: versions may split",
+      "file": "en-both-working.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "İkiniz de çalışıyorsunuz: sürümler ayrılabilir",
+      "file": "tr-both-working.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "diverged": {
+    "en": {
+      "label": "Versions split",
+      "file": "en-diverged.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Sürümler ayrıldı",
+      "file": "tr-diverged.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "recovery": {
+    "en": {
+      "label": "Last Get did not finish",
+      "file": "en-recovery.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "Son alma işlemi bitmedi",
+      "file": "tr-recovery.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  },
+  "refused": {
+    "en": {
+      "label": "Action refused",
+      "file": "en-refused.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    },
+    "tr": {
+      "label": "İşlem reddedildi",
+      "file": "tr-refused.png",
+      "events": [
+        "GET_STATUS",
+        "PLUGIN_CONNECTED"
+      ],
+      "errors": []
+    }
+  }
+}

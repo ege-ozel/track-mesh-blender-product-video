@@ -1,0 +1,8 @@
+00:00.703  blend            | Read blend: "D:\CodeSpace\track-mesh-blender-product-video\scenes\versions\trackmesh-v02.blend"
+D:\CodeSpace\track-mesh-blender-product-video\scripts\build_animatic.py:42: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.new(name);mat.use_nodes=True
+Info: Saved as "trackmesh-v03.blend"
+TRACKMESH_ANIMATIC {"version": "v03", "base": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v02.blend", "blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v03.blend", "fps": 24, "frames": 72, "duration_seconds": 3, "resolution": [960, 540], "engine": "CYCLES", "samples": 16, "denoising": true, "stills": {"A": 13, "B": 64}, "shots": [{"name": "A", "range": [1, 24], "camera": "A_Establishing"}, {"name": "B", "range": [25, 72], "camera": "B_DAW"}], "concept_states": [{"label": "Save observed", "range": [31, 40]}, {"label": "Waiting for files to settle", "range": [41, 56]}, {"label": "Snapshot ready", "range": [57, 72]}], "concept_label": "Concept Visualization / visible throughout", "no_actual_save_or_transfer": true}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

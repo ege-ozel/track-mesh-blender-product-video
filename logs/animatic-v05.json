@@ -1,0 +1,69 @@
+{
+  "version": "v05",
+  "base": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v04.blend",
+  "blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v05.blend",
+  "fps": 24,
+  "frames": 72,
+  "duration_seconds": 3,
+  "resolution": [
+    960,
+    540
+  ],
+  "engine": "CYCLES",
+  "samples": 16,
+  "denoising": true,
+  "stills": {
+    "A": 13,
+    "B": 64
+  },
+  "shots": [
+    {
+      "name": "A",
+      "range": [
+        1,
+        24
+      ],
+      "camera": "A_Establishing"
+    },
+    {
+      "name": "B",
+      "range": [
+        25,
+        72
+      ],
+      "camera": "B_DAW"
+    }
+  ],
+  "concept_states": [
+    {
+      "label": "Save observed",
+      "range": [
+        31,
+        40
+      ]
+    },
+    {
+      "label": "Waiting for files to settle",
+      "range": [
+        41,
+        56
+      ]
+    },
+    {
+      "label": "Snapshot ready",
+      "range": [
+        57,
+        72
+      ]
+    }
+  ],
+  "concept_label": "Concept Visualization / visible throughout",
+  "no_actual_save_or_transfer": true,
+  "native_vst3": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\trackmesh-vst3-native.png",
+  "native_vst3_visible_frames": [
+    25,
+    72
+  ],
+  "motion_identical_to_v04": true,
+  "reuse_shot_A_from": "v04"
+}

@@ -1,0 +1,71 @@
+{
+  "version": "studios-v01",
+  "blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-studios-v01.blend",
+  "fps": 24,
+  "frames": 720,
+  "shots": [
+    [
+      "S1 / Studio A",
+      1,
+      "A wide"
+    ],
+    [
+      "S2 / Save in the DAW",
+      97,
+      "A close"
+    ],
+    [
+      "S3 / Studio B",
+      229,
+      "B wide"
+    ],
+    [
+      "S4 / Get when ready",
+      325,
+      "B close"
+    ],
+    [
+      "S5 / PC to PC",
+      457,
+      "split"
+    ],
+    [
+      "S6 / Outro",
+      601,
+      "split outro"
+    ]
+  ],
+  "plugin_states": [
+    [
+      "idle",
+      1
+    ],
+    [
+      "saving",
+      141
+    ],
+    [
+      "shared",
+      181
+    ]
+  ],
+  "app_states": [
+    [
+      "idle",
+      1
+    ],
+    [
+      "new",
+      292
+    ],
+    [
+      "getting",
+      405
+    ],
+    [
+      "done",
+      560
+    ]
+  ],
+  "meshes": 311
+}

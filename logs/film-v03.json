@@ -1,0 +1,64 @@
+{
+  "version": "film-v03",
+  "blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-film-v03.blend",
+  "fps": 24,
+  "frames": 720,
+  "shots": [
+    [
+      "S1 / Two studios",
+      1
+    ],
+    [
+      "S2 / Save in the DAW",
+      97
+    ],
+    [
+      "S3 / Collaborator sees it",
+      229
+    ],
+    [
+      "S4 / Get when ready",
+      337
+    ],
+    [
+      "S5 / PC to PC",
+      469
+    ],
+    [
+      "S6 / Outro",
+      581
+    ]
+  ],
+  "plugin_states": [
+    [
+      "idle",
+      1
+    ],
+    [
+      "saving",
+      141
+    ],
+    [
+      "shared",
+      181
+    ]
+  ],
+  "app_states": [
+    [
+      "idle",
+      1
+    ],
+    [
+      "new",
+      292
+    ],
+    [
+      "getting",
+      441
+    ],
+    [
+      "done",
+      556
+    ]
+  ]
+}

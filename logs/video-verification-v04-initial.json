@@ -1,0 +1,25 @@
+{
+  "duration": 3,
+  "width": 960,
+  "height": 540,
+  "error": null,
+  "representative_seeks": [
+    {
+      "state": "wide",
+      "time": 0.5
+    },
+    {
+      "state": "save",
+      "time": 1.45
+    },
+    {
+      "state": "settle",
+      "time": 1.98
+    },
+    {
+      "state": "ready",
+      "time": 2.7
+    }
+  ],
+  "playback_to_end": true
+}

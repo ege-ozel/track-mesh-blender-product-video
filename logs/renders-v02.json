@@ -1,0 +1,20 @@
+[
+  {
+    "camera": "A_Establishing",
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\hero-v02-A.png",
+    "seconds": 4.16,
+    "device": "GPU"
+  },
+  {
+    "camera": "B_DAW",
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\hero-v02-B.png",
+    "seconds": 3.66,
+    "device": "GPU"
+  },
+  {
+    "camera": "C_TrackMesh",
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\hero-v02-C.png",
+    "seconds": 3.64,
+    "device": "GPU"
+  }
+]

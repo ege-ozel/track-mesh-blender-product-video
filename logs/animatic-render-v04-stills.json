@@ -1,0 +1,16 @@
+[
+  {
+    "frame": 13,
+    "camera": "A_Establishing",
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\animatic-v04-A.png",
+    "seconds": 4.42,
+    "device": "GPU"
+  },
+  {
+    "frame": 64,
+    "camera": "B_DAW",
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\animatic-v04-B.png",
+    "seconds": 3.97,
+    "device": "GPU"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "version": "v05",
+  "frames": 72,
+  "fps": 24,
+  "seconds": 3,
+  "dimensions": [
+    960,
+    540
+  ],
+  "webm": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\animatic-v05-3s.webm",
+  "codec": "VP8",
+  "webm_bytes": 686073,
+  "gif": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\animatic-v05-3s.gif",
+  "gif_dimensions": [
+    640,
+    360
+  ],
+  "gif_input_frames": 72,
+  "gif_frames": 72,
+  "gif_duration_ms": 3000,
+  "ffmpeg_command": [
+    "C:/Users/4D/AppData/Local/ms-playwright/ffmpeg-1011/ffmpeg-win64.exe",
+    "-hide_banner",
+    "-n",
+    "-f",
+    "image2pipe",
+    "-c:v",
+    "mjpeg",
+    "-framerate",
+    "24",
+    "-i",
+    "pipe:0",
+    "-frames:v",
+    "72",
+    "-c:v",
+    "libvpx",
+    "-b:v",
+    "1800k",
+    "-crf",
+    "12",
+    "-pix_fmt",
+    "yuv420p",
+    "-an",
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\animatic-v05-3s.webm"
+  ],
+  "encode_input": "MJPEG pipe, quality 97, original PNGs preserved",
+  "no_audio": true
+}

@@ -1,0 +1,22 @@
+tools/blender/
+tools/vst3-editorhost/
+*.blend1
+__pycache__/
+
+# Images and video stay local: screen captures, renders, previews and encodes are rebuilt by scripts/.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.webm
+*.mp4
+*.mov
+*.exr
+renders/
+
+# Blender scenes are outputs of scripts/build_*.py and pack the screen images inside them.
+*.blend
+
+# Vite builds of the demo UIs (scripts/build_demo_ui*.mjs).
+demo-ui*/dist/

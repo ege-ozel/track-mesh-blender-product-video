@@ -1,0 +1,13 @@
+D:\CodeSpace\track-mesh-blender-product-video\scripts\build_hero_scene.py:38: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.use_nodes=True
+D:\CodeSpace\track-mesh-blender-product-video\scripts\build_hero_scene.py:126: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(label+' / packed real screen');m.use_nodes=True
+D:\CodeSpace\track-mesh-blender-product-video\scripts\build_hero_scene.py:204: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Controlled studio ambience');scene.world=world;world.use_nodes=True
+00:05.703  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+Info: No new files have been packed
+Info: Saved as "trackmesh-v01.blend"
+TRACKMESH_SCENE {"blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-v01.blend", "version": "v01", "backend": "OPTIX", "cameras": ["A_Establishing", "B_DAW", "C_TrackMesh"], "mesh_count": 290, "animated_objects": 0, "image_assets": [{"name": "daw.png", "packed": true}, {"name": "trackmesh.png", "packed": true}], "settings": {"engine": "CYCLES", "width": 960, "height": 540, "samples": 24, "denoising": true}}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

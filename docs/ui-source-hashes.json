@@ -1,0 +1,10 @@
+{
+  "source": "D:/CodeSpace/track-mesh/apps/desktop",
+  "hashes": {
+    "App.tsx": "2346e9e1f32fee4e9db047cc62d401c6778ad6557e5b6d3a2d3cc6052c41feb3",
+    "styles.css": "a1f11f45e76ad13fb0d3a6b2b169b2d118fd2ba1572a1422179663781d17e1ac",
+    "api.ts": "680aba91512521b755fe7ff3e98d759097036ec80de1990860fe83744f85ca0f",
+    "main.tsx": "555c5c98ec868f9d375a9c24157f7ca867a945494f83a2041b696223c5f7a9b6"
+  },
+  "syntheticOnly": true
+}

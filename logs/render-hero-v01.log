@@ -1,0 +1,11 @@
+00:00.640  blend            | Read blend: "D:\CodeSpace\track-mesh-blender-product-video\scenes\versions\trackmesh-v01.blend"
+00:00.734  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:09.843  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\previews\hero-v01-A.png'
+00:14.125  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\previews\hero-v01-B.png'
+00:18.484  render           | Saved: 'D:\CodeSpace\track-mesh-blender-product-video\renders\previews\hero-v01-C.png'
+TRACKMESH_RENDER {"camera": "A_Establishing", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\hero-v01-A.png", "seconds": 9.11, "device": "GPU"}
+TRACKMESH_RENDER {"camera": "B_DAW", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\hero-v01-B.png", "seconds": 4.29, "device": "GPU"}
+TRACKMESH_RENDER {"camera": "C_TrackMesh", "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\previews\\hero-v01-C.png", "seconds": 4.35, "device": "GPU"}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit
