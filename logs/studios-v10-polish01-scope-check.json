@@ -1,0 +1,41 @@
+{
+  "source_final_hashes": {
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9.mp4": "7665ff6443a078c24ce2d16c3bd1e93045c2a4e894237242f7ac92e018c44678",
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-9x16.mp4": "3b1a1b0cc7e8e1537a6ea3b94303e342879048569c17173b831f510136a0bd19",
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v06.gif": "8cc682dbe9ff08cbd56ac949fed40457f9fd264dc5c44ab509acaaa02bd1f86b"
+  },
+  "aspects": {
+    "16x9": {
+      "unchanged_frames": 606,
+      "modified_frames": 114,
+      "change_range": [
+        115,
+        228
+      ],
+      "all_changes_inside_caption_background": true,
+      "timeline_unchanged": true,
+      "difference_bbox_union": [
+        159,
+        880,
+        1762,
+        973
+      ]
+    },
+    "9x16": {
+      "unchanged_frames": 402,
+      "modified_frames": 78,
+      "change_range": [
+        49,
+        126
+      ],
+      "all_changes_inside_caption_background": true,
+      "timeline_unchanged": true,
+      "difference_bbox_union": [
+        28,
+        1150,
+        1052,
+        1297
+      ]
+    }
+  }
+}

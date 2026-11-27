@@ -1,0 +1,86 @@
+{
+  "duration": 30,
+  "width": 1920,
+  "height": 1080,
+  "error": null,
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-review-cut01.mp4",
+  "seeks": [
+    {
+      "frame": 60,
+      "targetTime": 2.4603333333333333,
+      "mediaTime": 2.458333
+    },
+    {
+      "frame": 135,
+      "targetTime": 5.585333333333333,
+      "mediaTime": 5.583333
+    },
+    {
+      "frame": 175,
+      "targetTime": 7.252,
+      "mediaTime": 7.25
+    },
+    {
+      "frame": 210,
+      "targetTime": 8.710333333333335,
+      "mediaTime": 8.708333
+    },
+    {
+      "frame": 300,
+      "targetTime": 12.460333333333335,
+      "mediaTime": 12.458333
+    },
+    {
+      "frame": 370,
+      "targetTime": 15.377,
+      "mediaTime": 15.375
+    },
+    {
+      "frame": 398,
+      "targetTime": 16.543666666666667,
+      "mediaTime": 16.541667
+    },
+    {
+      "frame": 400,
+      "targetTime": 16.627,
+      "mediaTime": 16.625
+    },
+    {
+      "frame": 406,
+      "targetTime": 16.877,
+      "mediaTime": 16.875
+    },
+    {
+      "frame": 430,
+      "targetTime": 17.877,
+      "mediaTime": 17.875
+    },
+    {
+      "frame": 530,
+      "targetTime": 22.043666666666667,
+      "mediaTime": 22.041667
+    },
+    {
+      "frame": 560,
+      "targetTime": 23.293666666666667,
+      "mediaTime": 23.291667
+    },
+    {
+      "frame": 690,
+      "targetTime": 28.71033333333333,
+      "mediaTime": 28.708333
+    },
+    {
+      "frame": 716,
+      "targetTime": 29.793666666666667,
+      "mediaTime": 29.791667
+    }
+  ],
+  "playback": {
+    "ended": true,
+    "error": null,
+    "decodedFrames": 859,
+    "droppedFrames": 0
+  },
+  "publicationApproved": false
+}

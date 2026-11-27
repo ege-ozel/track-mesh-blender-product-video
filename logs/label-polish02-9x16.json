@@ -1,0 +1,334 @@
+{
+  "source": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-9x16-polish01.mp4",
+  "source_sha256": "f6c5f12150fba7c1c98589143329632879af9e6cb0a6d443883c6835be1f5a87",
+  "output": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-9x16-polish02.mp4",
+  "sha256": "57db443b949f75c2d6c69695111a49e3c432c9b357ca01148a84054a730dfdb6",
+  "bytes": 9940162,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "frames": 480,
+  "fps": 24,
+  "duration_seconds": 20.0,
+  "audio": false,
+  "encoder": "H.264 lossless, original YUV420 samples preserved except label glyph colour",
+  "changed_frames": [
+    {
+      "frame": 1,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 2,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 3,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 4,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 5,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 6,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 7,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 8,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 9,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 10,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 11,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 12,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 13,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 14,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 15,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 16,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 17,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 18,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 19,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 20,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 21,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 22,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 23,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 24,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 25,
+      "pixels": 1675,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 26,
+      "pixels": 1675,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 27,
+      "pixels": 1675,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 28,
+      "pixels": 1675,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 29,
+      "pixels": 1675,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 30,
+      "pixels": 1675,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    }
+  ],
+  "changed_bounds_union": [
+    60,
+    76,
+    196,
+    98
+  ],
+  "allowed_chip_region": [
+    45,
+    50,
+    271,
+    121
+  ],
+  "changed_pixels_outside_chip": 0,
+  "entirely_pixel_identical_frames": 450,
+  "all_frames_compared": true,
+  "note": "Studio B already matches teal, and PC to PC Studio A already matches orange; those pixels are preserved."
+}

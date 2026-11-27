@@ -1,5 +1,9 @@
 # Hero scene asset provenance
 
+## 21 October review assets (v5 screens / studios-v07)
+
+Frozen desktop source and hashes are in `demo-ui-v5/source/` and `logs/review-source-v5.json`. Native plugin binary identity is in `logs/native-vst3-capture-v5.json`. All status values remain synthetic. The current Get confirmation is reconstructed from `receive.rs` with synthetic filenames and sizes; it is not a native-dialog capture. No external models, textures, libraries or paid assets were downloaded. See `VIDEO_REVIEW_HANDOFF.md` for evidence and review limits.
+
 - `assets/backgrounds/studio.png`: byte-for-byte copy of the user-supplied `Sıcak ve Soğuk Işıklı Akustik Stüdyo.png`. Lighting/material reference only. Never loaded onto a backdrop plane. Original authorship/license not independently established; retain user-provided provenance.
 - `assets/screens/daw.png`: byte-for-byte copy of user-supplied `Koyu Temalı Profesyonel DAW Düzeni.png`. Illustrative DAW screen, not presented as an authenticated screenshot of Ableton or FL Studio. No monitor frame baked into the image.
 - `assets/screens/trackmesh.png`: local browser capture of actual Track Mesh React components and original styles, with a synthetic typed status fixture. No AI-generated product UI. Native calls are replaced only in the isolated demo build. Browser requests outside localhost are blocked during capture.

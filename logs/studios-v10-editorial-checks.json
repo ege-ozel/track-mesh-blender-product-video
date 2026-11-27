@@ -1,0 +1,55 @@
+{
+  "16x9": {
+    "shared_seconds": 2.5,
+    "confirmation_seconds": 5.5,
+    "completion_seconds": 2.5,
+    "example_seconds": 3.5,
+    "card_get_press_last_6_frames": [
+      319,
+      324
+    ],
+    "confirmation_get_press_last_6_frames": [
+      451,
+      456
+    ]
+  },
+  "9x16": {
+    "shared_seconds": 1.5,
+    "confirmation_seconds": 5.0,
+    "completion_seconds": 2.5,
+    "example_seconds": 3.5,
+    "card_get_press_last_6_frames": [
+      175,
+      180
+    ],
+    "confirmation_get_press_last_6_frames": [
+      295,
+      300
+    ]
+  },
+  "progress_example": {
+    "whole_project_bytes": 1717986918,
+    "remaining_bytes": [
+      46137344,
+      30408704,
+      11534336
+    ],
+    "displayed_percentages": [
+      97,
+      98,
+      99
+    ],
+    "unrounded_percentages": [
+      97.31445312437472,
+      98.22998046833789,
+      99.32861328109368
+    ],
+    "scope": "High starting percentage applies only to this synthetic reuse-heavy example."
+  },
+  "landscape_pc_caption_bounds": {
+    "title_bottom": 921,
+    "subtitle_top": 947,
+    "subtitle_bottom": 982,
+    "footer_top": 998
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "duration": 5.5,
+  "width": 1080,
+  "height": 1920,
+  "error": null,
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-mobile-share-trial01.mp4",
+  "seeks": [
+    {
+      "frame": 1,
+      "targetTime": 0.002,
+      "mediaTime": 0
+    },
+    {
+      "frame": 18,
+      "targetTime": 0.7103333333333334,
+      "mediaTime": 0.708333
+    },
+    {
+      "frame": 25,
+      "targetTime": 1.002,
+      "mediaTime": 1
+    },
+    {
+      "frame": 40,
+      "targetTime": 1.627,
+      "mediaTime": 1.625
+    },
+    {
+      "frame": 43,
+      "targetTime": 1.752,
+      "mediaTime": 1.75
+    },
+    {
+      "frame": 60,
+      "targetTime": 2.4603333333333333,
+      "mediaTime": 2.458333
+    },
+    {
+      "frame": 67,
+      "targetTime": 2.752,
+      "mediaTime": 2.75
+    },
+    {
+      "frame": 70,
+      "targetTime": 2.877,
+      "mediaTime": 2.875
+    },
+    {
+      "frame": 94,
+      "targetTime": 3.877,
+      "mediaTime": 3.875
+    },
+    {
+      "frame": 120,
+      "targetTime": 4.960333333333333,
+      "mediaTime": 4.958333
+    },
+    {
+      "frame": 132,
+      "targetTime": 5.460333333333333,
+      "mediaTime": 5.458333
+    }
+  ],
+  "playback": {
+    "ended": true,
+    "error": null,
+    "decodedFrames": 253,
+    "droppedFrames": 0
+  },
+  "publicationApproved": false
+}

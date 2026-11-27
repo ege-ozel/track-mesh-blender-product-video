@@ -1,0 +1,30 @@
+{
+  "scope": "Studio label glyph colour only",
+  "all_frames_compared": 1231,
+  "changed_pixels_outside_label_regions": 0,
+  "sources_preserved_hash_verified": true,
+  "outputs": [
+    {
+      "output": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9-polish02.mp4",
+      "sha256": "517ade83aba2d56c2beb3638dd62da4938ee43ed55a19e6a0dbc9dd40a6d242a",
+      "bytes": 16633879,
+      "duration_seconds": 30.0,
+      "frames": 720
+    },
+    {
+      "output": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-9x16-polish02.mp4",
+      "sha256": "57db443b949f75c2d6c69695111a49e3c432c9b357ca01148a84054a730dfdb6",
+      "bytes": 9940162,
+      "duration_seconds": 20.0,
+      "frames": 480
+    },
+    {
+      "output": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v08.gif",
+      "sha256": "49102455240bb40e76ff77cac70ad7e20d0b1ca6f2dbf20d2fca49aa4c3f9f03",
+      "bytes": 4291266,
+      "duration_seconds": 15.5,
+      "frames": 31
+    }
+  ],
+  "publication_approved": false
+}

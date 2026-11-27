@@ -1,0 +1,44 @@
+{
+  "idle": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-idle.png",
+    "errors": [],
+    "dialogReconstruction": false,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nYou have Studio A's latest version\n\nGet Studio A's version\nLeave project\nAdvanced →"
+  },
+  "new": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-new.png",
+    "errors": [],
+    "dialogReconstruction": false,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version\nLeave project\nAdvanced →"
+  },
+  "ask": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-ask.png",
+    "errors": [],
+    "dialogReconstruction": true,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version\nLeave project\nAdvanced →\nGet Studio A's version?\n✕\nAdded: 1 · Changed: 2 · Removed: 1\n+ Samples/Audio/new-layer.wav\n~ Neon Forest.als\n~ Samples/Audio/pad.wav\n− Samples/Audio/old-layer.wav\n\nNew data: about 44.0 MB · free on this drive: 128.0 GB\nClose this project in your DAW first. TrackMesh keeps a backup of the files it replaces; Open my previous files opens them.\n\nGet this version?\nGet\nCancel"
+  },
+  "get97": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-get97.png",
+    "errors": [],
+    "dialogReconstruction": false,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version\nGetting Studio A's version…\n44.0 MB left · 97 %\nStop\nLeave project\nAdvanced →"
+  },
+  "get98": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-get98.png",
+    "errors": [],
+    "dialogReconstruction": false,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version\nGetting Studio A's version…\n29.0 MB left · 98 %\nStop\nLeave project\nAdvanced →"
+  },
+  "get99": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-get99.png",
+    "errors": [],
+    "dialogReconstruction": false,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version\nGetting Studio A's version…\n11.0 MB left · 99 %\nStop\nLeave project\nAdvanced →"
+  },
+  "done": {
+    "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v5\\app-done.png",
+    "errors": [],
+    "dialogReconstruction": false,
+    "body": "TM\nTRACKMESH\nProjects\nAdvanced\nSettings\nStudio B\nQuit TrackMesh\nProjects\n\nThe DAW project folders you share with your collaborator.\n\nAdd project\nPaste invite link\nYour name\nStudio B\nEdit\nSave\nCancel\n\nGive this PC a name your collaborators will recognise. New invites use it; collaborators who already approved this PC keep seeing the old name for now.\n\nNeon Forest\nD:\\Music\\Neon Forest\nConnected · Studio A\n\nSaves this folder as a new version Studio A can get.\n\nShare current version\n\nYou have Studio A's latest version\n\nGet Studio A's version\nGot Studio A's version ✓\nLeave project\nAdvanced →"
+  }
+}

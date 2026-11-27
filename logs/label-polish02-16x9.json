@@ -1,0 +1,994 @@
+{
+  "source": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9-polish01.mp4",
+  "source_sha256": "c1d33c16b2fbfcb9ff0f4ccf07690c69233e539453b24951c099326c3c47abc4",
+  "output": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9-polish02.mp4",
+  "sha256": "517ade83aba2d56c2beb3638dd62da4938ee43ed55a19e6a0dbc9dd40a6d242a",
+  "bytes": 16633879,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 720,
+  "fps": 24,
+  "duration_seconds": 30.0,
+  "audio": false,
+  "encoder": "H.264 lossless, original YUV420 samples preserved except label glyph colour",
+  "changed_frames": [
+    {
+      "frame": 1,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 2,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 3,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 4,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 5,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 6,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 7,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 8,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 9,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 10,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 11,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 12,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 13,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 14,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 15,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 16,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 17,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 18,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 19,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 20,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 21,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 22,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 23,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 24,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 25,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 26,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 27,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 28,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 29,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 30,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 31,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 32,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 33,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 34,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 35,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 36,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 37,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 38,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 39,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 40,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 41,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 42,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 43,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 44,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 45,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 46,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 47,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 48,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 49,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 50,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 51,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 52,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 53,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 54,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 55,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 56,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 57,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 58,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 59,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 60,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 61,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 62,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 63,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 64,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 65,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 66,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 67,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 68,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 69,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 70,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 71,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 72,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 73,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 74,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 75,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 76,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 77,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 78,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 79,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 80,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 81,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 82,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 83,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 84,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 85,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 86,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 87,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 88,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 89,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 90,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 91,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 92,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 93,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 94,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 95,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    },
+    {
+      "frame": 96,
+      "pixels": 1676,
+      "bbox": [
+        60,
+        76,
+        196,
+        98
+      ]
+    }
+  ],
+  "changed_bounds_union": [
+    60,
+    76,
+    196,
+    98
+  ],
+  "allowed_chip_region": [
+    45,
+    50,
+    271,
+    121
+  ],
+  "changed_pixels_outside_chip": 0,
+  "entirely_pixel_identical_frames": 624,
+  "all_frames_compared": true,
+  "note": "Studio B already matches teal, and PC to PC Studio A already matches orange; those pixels are preserved."
+}

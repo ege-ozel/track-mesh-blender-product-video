@@ -20,15 +20,15 @@ font = lambda name, size: ImageFont.truetype(f'C:/Windows/Fonts/{name}', round(s
 REGULAR, SEMI, BOLD = 'segoeui.ttf', 'seguisb.ttf', 'segoeuib.ttf'
 WHITE, GREY, TEAL = (245, 247, 247), (178, 194, 199), (110, 217, 194)
 SPLIT_FROM, END = 457, 720
-PLACE_A, PLACE_B = 'STUDIO A  ·  ISTANBUL', 'STUDIO B  ·  BERLIN'
+PLACE_A, PLACE_B = 'STUDIO A', 'STUDIO B'
 # (first, last, title, subtitle, place tag) — the place tag says which room we are in.
 CAPTIONS = [
     (12, 90, 'Two studios. One project.', 'Meet TrackMesh.', PLACE_A),
     (104, 222, 'Save in your DAW.', 'One click shares the new version.', None),  # close-ups: no tag over the screen
-    (236, 318, 'Your collaborator sees it.', 'Another studio, another city.', PLACE_B),
-    # The subtitle follows the screen: the DAW question first, then the Get that starts near 97 %.
+    (236, 318, 'Your collaborator sees it.', 'Another studio.', PLACE_B),
+    # Example amounts describe synthetic new data, never a measured network byte count.
     (332, 450, "Get it when you're ready.", [(332, 386, 'Close the project in your DAW first.'),
-                                             (390, 450, 'Only what changed travels: 44 MB of a 1.6 GB project.')], None),
+                                             (400, 450, 'Only the changed parts travel. Example: 44 MB new in a 1.6 GB project.')], None),
     (470, 590, 'PC to PC.', 'A direct link. No cloud copy of your project files.', None),
 ]
 
@@ -60,7 +60,7 @@ def link(layer, a, b, frame):
     glow = Image.new('RGBA', layer.size); ImageDraw.Draw(glow).line(visible, fill=(*TEAL, 150), width=round(14 * k), joint='curve')
     layer.alpha_composite(glow.filter(ImageFilter.GaussianBlur(9 * k)))
     ImageDraw.Draw(layer).line(visible, fill=(*TEAL, 235), width=max(2, round(3.5 * k)), joint='curve')
-    if 470 <= frame <= 590:
+    if 470 <= frame < 560:  # stop moving packets when the receiving screen switches to done
         for i in range(8):
             t = ((frame - 470) / 34 - i * .22) % 1.6
             if t > 1: continue
@@ -85,9 +85,11 @@ def compose(frame):
     for first, last, title, subtitle, place in CAPTIONS:
         alpha = fade(frame, first, last)
         if alpha <= 0: continue
-        text(layer, (125 * k, H - 167 * k), title, font(SEMI, 64), WHITE, alpha)
+        # The frontal app fills this closeup: keep captions to the right of its sidebar.
+        caption_x = 430 if first == 332 else 125
+        text(layer, (caption_x * k, H - 167 * k), title, font(SEMI, 64), WHITE, alpha)
         for start, end, line in subtitle if isinstance(subtitle, list) else [(first + 4, last, subtitle)]:
-            if fade(frame, start, end) > 0: text(layer, (125 * k, H - 108 * k), line, font(REGULAR, 36), GREY, min(alpha, fade(frame, start, end, 6)))
+            if fade(frame, start, end) > 0: text(layer, (caption_x * k, H - 108 * k), line, font(REGULAR, 36), GREY, min(alpha, fade(frame, start, end, 6)))
         if place: text(layer, (125 * k, 104 * k), place, font(SEMI, 24), TEAL, alpha * .9, spacing=3)
     if frame >= SPLIT_FROM:  # one place tag per half while split
         alpha = fade(frame, SPLIT_FROM + 6, 712)
@@ -99,6 +101,7 @@ def compose(frame):
         layer.alpha_composite(backdrop.filter(ImageFilter.GaussianBlur(40 * k)))
         text(layer, (W / 2, H - 215 * k), 'TrackMesh', font(BOLD, 120), WHITE, alpha, anchor='ms')
         text(layer, (W / 2, H - 140 * k), 'Share DAW projects, PC to PC.', font(REGULAR, 42), TEAL, fade(frame, 616, 712), anchor='ms')
+        text(layer, (W / 2, H - 85 * k), 'For Windows', font(REGULAR, 28), GREY, fade(frame, 620, 712), anchor='ms')
     # Bottom right: clear of the place tags and the bright city window.
     text(layer, (W - 60 * k, H - 50 * k), 'Concept visualization', font(REGULAR, 24), GREY, .75, anchor='rs')
     image.alpha_composite(layer)

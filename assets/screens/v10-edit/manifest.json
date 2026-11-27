@@ -1,0 +1,170 @@
+{
+  "dialog": {
+    "title": "Get Studio A's version?",
+    "message": "Added: 1 · Changed: 2 · Removed: 1\n+ Samples/Audio/new-layer.wav\n~ Neon Forest.als\n~ Samples/Audio/pad.wav\n− Samples/Audio/old-layer.wav\n\nNew data: about 44.0 MB · free on this drive: 128.0 GB\nClose this project in your DAW first. TrackMesh keeps a backup of the files it replaces; Open my previous files opens them.\n\nGet this version?",
+    "ok": "Get",
+    "cancel": "Cancel"
+  },
+  "assets": {
+    "16x9-get": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\16x9-get.png",
+      "section": {
+        "x": 190,
+        "y": 285,
+        "width": 1540,
+        "height": 476.59375
+      },
+      "buttons": {
+        "card-get": {
+          "x": 242,
+          "y": 627.59375,
+          "width": 388.375,
+          "height": 82
+        }
+      },
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version"
+    },
+    "16x9-dialog": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\16x9-dialog.png",
+      "section": {
+        "x": 270,
+        "y": 225,
+        "width": 1380,
+        "height": 781.8125
+      },
+      "buttons": {
+        "confirm-get": {
+          "x": 1208,
+          "y": 898.8125,
+          "width": 200,
+          "height": 84
+        }
+      },
+      "body": "Get Studio A's version?\nAdded: 1 · Changed: 2 · Removed: 1\n+ Samples/Audio/new-layer.wav\n~ Neon Forest.als\n~ Samples/Audio/pad.wav\n− Samples/Audio/old-layer.wav\n\nNew data: about 44.0 MB · free on this drive: 128.0 GB\nClose this project in your DAW first. TrackMesh keeps a backup of the files it replaces; Open my previous files opens them.\n\nGet this version?\nGet\nCancel"
+    },
+    "16x9-transfer97": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\16x9-transfer97.png",
+      "section": {
+        "x": 190,
+        "y": 285,
+        "width": 1540,
+        "height": 494
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n44.0 MB left · 97 %\nStop"
+    },
+    "16x9-transfer98": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\16x9-transfer98.png",
+      "section": {
+        "x": 190,
+        "y": 285,
+        "width": 1540,
+        "height": 494
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n29.0 MB left · 98 %\nStop"
+    },
+    "16x9-transfer99": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\16x9-transfer99.png",
+      "section": {
+        "x": 190,
+        "y": 285,
+        "width": 1540,
+        "height": 494
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n11.0 MB left · 99 %\nStop"
+    },
+    "16x9-done": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\16x9-done.png",
+      "section": {
+        "x": 190,
+        "y": 285,
+        "width": 1540,
+        "height": 470
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nYou have Studio A's latest version\nGot Studio A's version ✓"
+    },
+    "9x16-get": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\9x16-get.png",
+      "section": {
+        "x": 60,
+        "y": 360,
+        "width": 960,
+        "height": 810
+      },
+      "buttons": {
+        "card-get": {
+          "x": 102,
+          "y": 806,
+          "width": 876,
+          "height": 89
+        }
+      },
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n\nBrings Studio A's latest version into this folder.\n\nGet Studio A's version"
+    },
+    "9x16-dialog": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\9x16-dialog.png",
+      "section": {
+        "x": 60,
+        "y": 280,
+        "width": 960,
+        "height": 991.390625
+      },
+      "buttons": {
+        "confirm-get": {
+          "x": 578,
+          "y": 1158.390625,
+          "width": 200,
+          "height": 89
+        }
+      },
+      "body": "Get Studio A's version?\nAdded: 1 · Changed: 2 · Removed: 1\n+ Samples/Audio/new-layer.wav\n~ Neon Forest.als\n~ Samples/Audio/pad.wav\n− Samples/Audio/old-layer.wav\n\nNew data: about 44.0 MB · free on this drive: 128.0 GB\nClose this project in your DAW first. TrackMesh keeps a backup of the files it replaces; Open my previous files opens them.\n\nGet this version?\nGet\nCancel"
+    },
+    "9x16-transfer97": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\9x16-transfer97.png",
+      "section": {
+        "x": 60,
+        "y": 360,
+        "width": 960,
+        "height": 810
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n44.0 MB left · 97 %\nStop"
+    },
+    "9x16-transfer98": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\9x16-transfer98.png",
+      "section": {
+        "x": 60,
+        "y": 360,
+        "width": 960,
+        "height": 810
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n29.0 MB left · 98 %\nStop"
+    },
+    "9x16-transfer99": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\9x16-transfer99.png",
+      "section": {
+        "x": 60,
+        "y": 360,
+        "width": 960,
+        "height": 810
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nNew version from Studio A · 21.10.2026 19:31\n11.0 MB left · 99 %\nStop"
+    },
+    "9x16-done": {
+      "file": "D:\\CodeSpace\\track-mesh-blender-product-video\\assets\\screens\\v10-edit\\9x16-done.png",
+      "section": {
+        "x": 60,
+        "y": 360,
+        "width": 960,
+        "height": 810
+      },
+      "buttons": {},
+      "body": "Neon Forest\nConnected · Studio A\nYou have Studio A's latest version\nGot Studio A's version ✓"
+    }
+  }
+}

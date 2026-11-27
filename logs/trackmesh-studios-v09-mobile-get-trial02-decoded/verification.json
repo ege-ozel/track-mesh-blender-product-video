@@ -1,0 +1,131 @@
+{
+  "duration": 10.875,
+  "width": 1080,
+  "height": 1920,
+  "error": null,
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-mobile-get-trial02.mp4",
+  "seeks": [
+    {
+      "frame": 1,
+      "targetTime": 0.002,
+      "mediaTime": 0
+    },
+    {
+      "frame": 18,
+      "targetTime": 0.7103333333333334,
+      "mediaTime": 0.708333
+    },
+    {
+      "frame": 25,
+      "targetTime": 1.002,
+      "mediaTime": 1
+    },
+    {
+      "frame": 40,
+      "targetTime": 1.627,
+      "mediaTime": 1.625
+    },
+    {
+      "frame": 43,
+      "targetTime": 1.752,
+      "mediaTime": 1.75
+    },
+    {
+      "frame": 60,
+      "targetTime": 2.4603333333333333,
+      "mediaTime": 2.458333
+    },
+    {
+      "frame": 67,
+      "targetTime": 2.752,
+      "mediaTime": 2.75
+    },
+    {
+      "frame": 70,
+      "targetTime": 2.877,
+      "mediaTime": 2.875
+    },
+    {
+      "frame": 94,
+      "targetTime": 3.877,
+      "mediaTime": 3.875
+    },
+    {
+      "frame": 120,
+      "targetTime": 4.960333333333333,
+      "mediaTime": 4.958333
+    },
+    {
+      "frame": 195,
+      "targetTime": 8.085333333333335,
+      "mediaTime": 8.083333
+    },
+    {
+      "frame": 198,
+      "targetTime": 8.210333333333335,
+      "mediaTime": 8.208333
+    },
+    {
+      "frame": 199,
+      "targetTime": 8.252,
+      "mediaTime": 8.25
+    },
+    {
+      "frame": 204,
+      "targetTime": 8.460333333333335,
+      "mediaTime": 8.458333
+    },
+    {
+      "frame": 205,
+      "targetTime": 8.502,
+      "mediaTime": 8.5
+    },
+    {
+      "frame": 217,
+      "targetTime": 9.002,
+      "mediaTime": 9
+    },
+    {
+      "frame": 220,
+      "targetTime": 9.127,
+      "mediaTime": 9.125
+    },
+    {
+      "frame": 228,
+      "targetTime": 9.460333333333335,
+      "mediaTime": 9.458333
+    },
+    {
+      "frame": 229,
+      "targetTime": 9.502,
+      "mediaTime": 9.5
+    },
+    {
+      "frame": 246,
+      "targetTime": 10.210333333333335,
+      "mediaTime": 10.208333
+    },
+    {
+      "frame": 247,
+      "targetTime": 10.252,
+      "mediaTime": 10.25
+    },
+    {
+      "frame": 255,
+      "targetTime": 10.585333333333335,
+      "mediaTime": 10.583333
+    },
+    {
+      "frame": 261,
+      "targetTime": 10.835333333333335,
+      "mediaTime": 10.833333
+    }
+  ],
+  "playback": {
+    "ended": true,
+    "error": null,
+    "decodedFrames": 461,
+    "droppedFrames": 0
+  },
+  "publicationApproved": false
+}

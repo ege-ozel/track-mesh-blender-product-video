@@ -1,0 +1,23 @@
+{
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-mobile-get-trial02.mp4",
+  "bytes": 1083789,
+  "tracks": [
+    {
+      "type": "vide",
+      "codec": "avc1",
+      "width": 1080,
+      "height": 1920,
+      "frames": 261,
+      "duration_seconds": 10.875,
+      "fps": 24.0,
+      "constant_frame_rate": true,
+      "profile_idc": 100,
+      "chroma_format_idc": 1,
+      "bit_depth_luma": 8,
+      "bit_depth_chroma": 8,
+      "pixel_format": "yuv420p"
+    }
+  ],
+  "audio_present": false,
+  "passed": true
+}

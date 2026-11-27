@@ -1,0 +1,323 @@
+{
+  "duration": 30,
+  "width": 1920,
+  "height": 1080,
+  "error": null,
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9-polish02.mp4",
+  "seeks": [
+    {
+      "frame": 1,
+      "targetTime": 0.002,
+      "mediaTime": 0
+    },
+    {
+      "frame": 15,
+      "targetTime": 0.5853333333333334,
+      "mediaTime": 0.583333
+    },
+    {
+      "frame": 30,
+      "targetTime": 1.2103333333333333,
+      "mediaTime": 1.208333
+    },
+    {
+      "frame": 48,
+      "targetTime": 1.9603333333333333,
+      "mediaTime": 1.958333
+    },
+    {
+      "frame": 60,
+      "targetTime": 2.4603333333333333,
+      "mediaTime": 2.458333
+    },
+    {
+      "frame": 96,
+      "targetTime": 3.9603333333333333,
+      "mediaTime": 3.958333
+    },
+    {
+      "frame": 140,
+      "targetTime": 5.793666666666667,
+      "mediaTime": 5.791667
+    },
+    {
+      "frame": 198,
+      "targetTime": 8.210333333333335,
+      "mediaTime": 8.208333
+    },
+    {
+      "frame": 264,
+      "targetTime": 10.960333333333335,
+      "mediaTime": 10.958333
+    },
+    {
+      "frame": 408,
+      "targetTime": 16.96033333333333,
+      "mediaTime": 16.958333
+    },
+    {
+      "frame": 582,
+      "targetTime": 24.21033333333333,
+      "mediaTime": 24.208333
+    },
+    {
+      "frame": 720,
+      "targetTime": 29.96033333333333,
+      "mediaTime": 29.958333
+    }
+  ],
+  "playback": {
+    "ended": true,
+    "error": null,
+    "decodedFrames": 919,
+    "droppedFrames": 0
+  },
+  "normalSpeedReview": {
+    "samples": [
+      {
+        "mediaTime": 0.041667,
+        "frame": 2
+      },
+      {
+        "mediaTime": 0.541667,
+        "frame": 14
+      },
+      {
+        "mediaTime": 1.041667,
+        "frame": 26
+      },
+      {
+        "mediaTime": 1.541667,
+        "frame": 38
+      },
+      {
+        "mediaTime": 2.041667,
+        "frame": 50
+      },
+      {
+        "mediaTime": 2.541667,
+        "frame": 62
+      },
+      {
+        "mediaTime": 3.041667,
+        "frame": 74
+      },
+      {
+        "mediaTime": 3.541667,
+        "frame": 86
+      },
+      {
+        "mediaTime": 4.041667,
+        "frame": 98
+      },
+      {
+        "mediaTime": 4.541667,
+        "frame": 110
+      },
+      {
+        "mediaTime": 5.041667,
+        "frame": 122
+      },
+      {
+        "mediaTime": 5.541667,
+        "frame": 134
+      },
+      {
+        "mediaTime": 6.041667,
+        "frame": 146
+      },
+      {
+        "mediaTime": 6.541667,
+        "frame": 158
+      },
+      {
+        "mediaTime": 7.041667,
+        "frame": 170
+      },
+      {
+        "mediaTime": 7.541667,
+        "frame": 182
+      },
+      {
+        "mediaTime": 8.041667,
+        "frame": 194
+      },
+      {
+        "mediaTime": 8.541667,
+        "frame": 206
+      },
+      {
+        "mediaTime": 9.041667,
+        "frame": 218
+      },
+      {
+        "mediaTime": 9.541667,
+        "frame": 230
+      },
+      {
+        "mediaTime": 10.041667,
+        "frame": 242
+      },
+      {
+        "mediaTime": 10.541667,
+        "frame": 254
+      },
+      {
+        "mediaTime": 11.041667,
+        "frame": 266
+      },
+      {
+        "mediaTime": 11.541667,
+        "frame": 278
+      },
+      {
+        "mediaTime": 12.041667,
+        "frame": 290
+      },
+      {
+        "mediaTime": 12.541667,
+        "frame": 302
+      },
+      {
+        "mediaTime": 13.041667,
+        "frame": 314
+      },
+      {
+        "mediaTime": 13.541667,
+        "frame": 326
+      },
+      {
+        "mediaTime": 14.041667,
+        "frame": 338
+      },
+      {
+        "mediaTime": 14.541667,
+        "frame": 350
+      },
+      {
+        "mediaTime": 15.041667,
+        "frame": 362
+      },
+      {
+        "mediaTime": 15.541667,
+        "frame": 374
+      },
+      {
+        "mediaTime": 16.041667,
+        "frame": 386
+      },
+      {
+        "mediaTime": 16.541667,
+        "frame": 398
+      },
+      {
+        "mediaTime": 17.041667,
+        "frame": 410
+      },
+      {
+        "mediaTime": 17.541667,
+        "frame": 422
+      },
+      {
+        "mediaTime": 18.041667,
+        "frame": 434
+      },
+      {
+        "mediaTime": 18.541667,
+        "frame": 446
+      },
+      {
+        "mediaTime": 19.041667,
+        "frame": 458
+      },
+      {
+        "mediaTime": 19.541667,
+        "frame": 470
+      },
+      {
+        "mediaTime": 20.041667,
+        "frame": 482
+      },
+      {
+        "mediaTime": 20.541667,
+        "frame": 494
+      },
+      {
+        "mediaTime": 21.041667,
+        "frame": 506
+      },
+      {
+        "mediaTime": 21.541667,
+        "frame": 518
+      },
+      {
+        "mediaTime": 22.041667,
+        "frame": 530
+      },
+      {
+        "mediaTime": 22.541667,
+        "frame": 542
+      },
+      {
+        "mediaTime": 23.041667,
+        "frame": 554
+      },
+      {
+        "mediaTime": 23.541667,
+        "frame": 566
+      },
+      {
+        "mediaTime": 24.041667,
+        "frame": 578
+      },
+      {
+        "mediaTime": 24.541667,
+        "frame": 590
+      },
+      {
+        "mediaTime": 25.041667,
+        "frame": 602
+      },
+      {
+        "mediaTime": 25.541667,
+        "frame": 614
+      },
+      {
+        "mediaTime": 26.041667,
+        "frame": 626
+      },
+      {
+        "mediaTime": 26.541667,
+        "frame": 638
+      },
+      {
+        "mediaTime": 27.041667,
+        "frame": 650
+      },
+      {
+        "mediaTime": 27.541667,
+        "frame": 662
+      },
+      {
+        "mediaTime": 28.041667,
+        "frame": 674
+      },
+      {
+        "mediaTime": 28.541667,
+        "frame": 686
+      },
+      {
+        "mediaTime": 29.041667,
+        "frame": 698
+      },
+      {
+        "mediaTime": 29.541667,
+        "frame": 710
+      }
+    ],
+    "wallSeconds": 30.004300000071524,
+    "playbackRate": 1,
+    "displayWidth": 960
+  },
+  "publicationApproved": false
+}

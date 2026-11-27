@@ -1,0 +1,61 @@
+{
+  "outputs": [
+    {
+      "path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9.mp4",
+      "bytes": 4968146,
+      "sha256": "7665ff6443a078c24ce2d16c3bd1e93045c2a4e894237242f7ac92e018c44678"
+    },
+    {
+      "path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-9x16.mp4",
+      "bytes": 2732830,
+      "sha256": "3b1a1b0cc7e8e1537a6ea3b94303e342879048569c17173b831f510136a0bd19"
+    },
+    {
+      "path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v06.gif",
+      "bytes": 4145456,
+      "sha256": "8cc682dbe9ff08cbd56ac949fed40457f9fd264dc5c44ab509acaaa02bd1f86b"
+    }
+  ],
+  "protected_inputs_unchanged": {
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-review-cut01.mp4": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\archive\\2026-10-22-pre-v10\\film\\trackmesh-studios-v09-review-cut01.mp4",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-mobile-get-trial02.mp4": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\archive\\2026-10-22-pre-v10\\film\\trackmesh-studios-v09-mobile-get-trial02.mp4",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-mobile-share-trial01.mp4": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\archive\\2026-10-22-pre-v10\\film\\trackmesh-studios-v09-mobile-share-trial01.mp4",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-studios-v09.blend": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-studios-v09.blend",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v01.gif": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v01.gif",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v02.gif": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v02.gif",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v03.gif": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v03.gif",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v04.gif": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v04.gif",
+      "unchanged": true
+    },
+    "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v05.gif": {
+      "current_path": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\readme\\trackmesh-flow-v05.gif",
+      "unchanged": true
+    }
+  },
+  "archive": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\archive\\2026-10-22-pre-v10",
+  "archived_video_count": 9,
+  "publication_approved": false,
+  "status": "Ready for final review; silent movies; both normal-speed playback checks passed, portrait at 390px."
+}

@@ -1,0 +1,22 @@
+{
+  "370": {
+    "changed_from_v08": false,
+    "expected": false
+  },
+  "398": {
+    "changed_from_v08": true,
+    "expected": true
+  },
+  "400": {
+    "changed_from_v08": true,
+    "expected": true
+  },
+  "430": {
+    "changed_from_v08": false,
+    "expected": false
+  },
+  "690": {
+    "changed_from_v08": false,
+    "expected": false
+  }
+}

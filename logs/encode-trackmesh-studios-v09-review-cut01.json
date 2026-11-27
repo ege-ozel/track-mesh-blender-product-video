@@ -1,0 +1,17 @@
+{
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v09-review-cut01.mp4",
+  "edit_blend": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-studios-v09-review-cut01.blend",
+  "source_frames": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\frames\\studios-v09\\edit",
+  "frames": 720,
+  "fps": 24,
+  "duration_seconds": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "codec_requested": "H264",
+  "audio_requested": "NONE",
+  "bytes": 12846530,
+  "publication_approved": false,
+  "verification": "Requires independent MP4 inspection and playback."
+}

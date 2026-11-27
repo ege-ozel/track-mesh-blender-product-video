@@ -7,9 +7,9 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 tag = sys.argv[1]
-PANELS = [(60, 'S1 · Studio A, İstanbul — kuruluş planı'), (135, 'S2 · Kaydedildi — imleç Paylaş düğmesine gidiyor'),
-          (175, 'S2 · Tek tık: Paylaşılıyor…'), (210, 'S2 · Paylaşıldı'), (300, 'S3 · Studio B, Berlin — sakin şehir, yeni sürüm'),
-          (370, "S4 · Al → “Proje DAW'da kapalı mı?”"), (430, "S4 · İndirme %97'den başlıyor (1,6 GB'ın 44 MB'ı)"),
+PANELS = [(60, 'S1 · Studio A — kuruluş planı'), (135, 'S2 · Kaydedildi — imleç Paylaş düğmesine gidiyor'),
+          (175, 'S2 · Tek tık: Paylaşılıyor…'), (210, 'S2 · Paylaşıldı'), (300, 'S3 · Studio B — yeni sürüm'),
+          (370, 'S4 · Al → dosya listesi, DAW kapatma ve yedek onayı'), (430, 'S4 · Eksik parçalar alınıyor — örnek 44 MB / 1,6 GB'),
           (530, 'S5 · PC to PC — bölünmüş ekran'), (690, 'S6 · Kapanış — TrackMesh')]
 label = ImageFont.truetype('C:/Windows/Fonts/seguisb.ttf', 26); title = ImageFont.truetype('C:/Windows/Fonts/seguisb.ttf', 34)
 rows = (len(PANELS) + 1) // 2

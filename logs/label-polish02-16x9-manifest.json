@@ -1,0 +1,105 @@
+{
+  "tag": "studios-v10-final-16x9-polish02",
+  "frames": 720,
+  "fps": 24,
+  "duration_seconds": 30.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "movie": "D:\\CodeSpace\\track-mesh-blender-product-video\\renders\\film\\trackmesh-studios-v10-final-16x9-polish02.mp4",
+  "phases": [
+    {
+      "name": "a",
+      "first": 1,
+      "last": 96,
+      "duration_seconds": 4.0
+    },
+    {
+      "name": "save",
+      "first": 97,
+      "last": 114,
+      "duration_seconds": 0.75
+    },
+    {
+      "name": "share",
+      "first": 115,
+      "last": 144,
+      "duration_seconds": 1.25
+    },
+    {
+      "name": "sharing",
+      "first": 145,
+      "last": 168,
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "shared",
+      "first": 169,
+      "last": 228,
+      "duration_seconds": 2.5
+    },
+    {
+      "name": "b",
+      "first": 229,
+      "last": 300,
+      "duration_seconds": 3.0
+    },
+    {
+      "name": "get",
+      "first": 301,
+      "last": 324,
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "dialog",
+      "first": 325,
+      "last": 456,
+      "duration_seconds": 5.5
+    },
+    {
+      "name": "transfer",
+      "first": 457,
+      "last": 480,
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "done",
+      "first": 481,
+      "last": 540,
+      "duration_seconds": 2.5
+    },
+    {
+      "name": "pc",
+      "first": 541,
+      "last": 624,
+      "duration_seconds": 3.5
+    },
+    {
+      "name": "end",
+      "first": 625,
+      "last": 720,
+      "duration_seconds": 4.0
+    }
+  ],
+  "review_frames": [
+    1,
+    15,
+    30,
+    48,
+    60,
+    96,
+    140,
+    198,
+    264,
+    408,
+    582,
+    720
+  ],
+  "example_frames": 457,
+  "example_last": 540,
+  "example_duration_seconds": 3.5,
+  "audio": false,
+  "publication_approved": false,
+  "notes": "Synthetic editorial UI; conceptual DAW backdrop. Native VST3 bitmap remains 580x384; scaling does not add detail. No actual transfer timing or real DAW verification. Percentages start near 100 only in this example because data is reused."
+}

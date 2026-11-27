@@ -1,0 +1,22 @@
+{
+  "source": "D:\\CodeSpace\\track-mesh",
+  "head": "690e6b5091825a34125128dfc8d7ec4cf5607fc9",
+  "source_status": " M apps/desktop/src-tauri/Cargo.toml\n",
+  "hashes": {
+    "source\\AdvancedScreen.tsx": "2dc847d47d3432ea34322c89cd518235097080ea4b1746345d48996b1b2f3621",
+    "source\\api.ts": "c7ff34875197b2470318b26f8c22cea566d9062510700a6146878b591ade83b8",
+    "source\\App.tsx": "e6b8afed7e608b4674b3ef5e19bff715f51f90806b80abb17d90bbc04f23c402",
+    "source\\format.ts": "6328f6251379844c98847a2f31df2d48305f83ccf21135bad4088f3d099f556c",
+    "source\\i18n.ts": "99a6d7059e2722c673544eb0b9e02354baa6e42cf1e4365df1f2c8538ba56c48",
+    "source\\Jobs.tsx": "3b23e06b62a0d0b88882a56898eca15ffaebd586470443e73dea000d5faa27af",
+    "source\\main.tsx": "555c5c98ec868f9d375a9c24157f7ca867a945494f83a2041b696223c5f7a9b6",
+    "source\\ProjectCard.tsx": "f59fc0253e98cc59d646a991e722560d3d9bc55d526e4cdcaab70cf7d87c1155",
+    "source\\SettingsScreen.tsx": "c3a9e25a8de0c465cd80672169c46c7d6fe732fbd07fc9c927004190b9df84c0",
+    "source\\StorageSettings.tsx": "de246e42576f6c9b67b4b78b0de251a04fe9f2843af5241aa5fe95aea87c15b1",
+    "source\\styles.css": "558d782d0740bd3b195112a6a127098170648ed79b25c97f65c4d8340226a2f1",
+    "source\\vite-env.d.ts": "424faf9241dd699dda995b367ed36665732da1e6ec1f33b2fd40394488ecac92",
+    "receive.rs.txt": "d64142fe18242088fc7f60c3697c7fddd7d430474b679cfc1789b8f458b98d90"
+  },
+  "synthetic_only": true,
+  "dialog": "Browser reconstruction of the native dialog; exact source wording, synthetic filenames and sizes."
+}

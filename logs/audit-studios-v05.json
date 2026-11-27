@@ -1,0 +1,167 @@
+{
+  "scene": "D:\\CodeSpace\\track-mesh-blender-product-video\\scenes\\versions\\trackmesh-studios-v05.blend",
+  "tag": "studios-v05",
+  "frames_checked": 720,
+  "images": [
+    {
+      "name": "app-ask.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "app-done.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "app-get97.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "app-get98.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "app-get99.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "app-idle.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "app-new.png",
+      "packed": true,
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "Cursor arrow",
+      "packed": true,
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "name": "daw.png",
+      "packed": true,
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "name": "vst3-idle.png",
+      "packed": true,
+      "size": [
+        580,
+        384
+      ]
+    },
+    {
+      "name": "vst3-saved.png",
+      "packed": true,
+      "size": [
+        580,
+        384
+      ]
+    },
+    {
+      "name": "vst3-shared.png",
+      "packed": true,
+      "size": [
+        580,
+        384
+      ]
+    },
+    {
+      "name": "vst3-sharing.png",
+      "packed": true,
+      "size": [
+        580,
+        384
+      ]
+    }
+  ],
+  "minimum_screen_centre_margin": {
+    "A": 0.4827214777469635,
+    "B": 0.43636879324913025
+  },
+  "failures": [
+    "Frame 420: B close crops screen corner",
+    "Frame 421: B close crops screen corner",
+    "Frame 422: B close crops screen corner",
+    "Frame 423: B close crops screen corner",
+    "Frame 424: B close crops screen corner",
+    "Frame 425: B close crops screen corner",
+    "Frame 426: B close crops screen corner",
+    "Frame 427: B close crops screen corner",
+    "Frame 428: B close crops screen corner",
+    "Frame 429: B close crops screen corner",
+    "Frame 430: B close crops screen corner",
+    "Frame 431: B close crops screen corner",
+    "Frame 432: B close crops screen corner",
+    "Frame 433: B close crops screen corner",
+    "Frame 434: B close crops screen corner",
+    "Frame 435: B close crops screen corner",
+    "Frame 436: B close crops screen corner",
+    "Frame 437: B close crops screen corner",
+    "Frame 438: B close crops screen corner",
+    "Frame 439: B close crops screen corner",
+    "Frame 440: B close crops screen corner",
+    "Frame 441: B close crops screen corner",
+    "Frame 442: B close crops screen corner",
+    "Frame 443: B close crops screen corner",
+    "Frame 444: B close crops screen corner",
+    "Frame 445: B close crops screen corner",
+    "Frame 446: B close crops screen corner",
+    "Frame 447: B close crops screen corner",
+    "Frame 448: B close crops screen corner",
+    "Frame 449: B close crops screen corner",
+    "Frame 450: B close crops screen corner",
+    "Frame 450: B close crops screen corner",
+    "Frame 451: B close crops screen corner",
+    "Frame 451: B close crops screen corner",
+    "Frame 452: B close crops screen corner",
+    "Frame 452: B close crops screen corner",
+    "Frame 453: B close crops screen corner",
+    "Frame 453: B close crops screen corner",
+    "Frame 454: B close crops screen corner",
+    "Frame 454: B close crops screen corner",
+    "Frame 455: B close crops screen corner",
+    "Frame 455: B close crops screen corner",
+    "Frame 456: B close crops screen corner",
+    "Frame 456: B close crops screen corner"
+  ],
+  "passed": false,
+  "limits": [
+    "Does not validate product behavior, audio, DPI or real internet reachability.",
+    "Does not prove absence of arbitrary mesh intersections or native dialog appearance.",
+    "Caption/lighting legibility requires visual review of composed previews."
+  ]
+}

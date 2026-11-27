@@ -2,15 +2,19 @@
 blender --background --factory-startup --python-exit-code 1 --python scripts/build_studios.py
 The rooms are 40 m apart and never share a frame; the link shots are split screens assembled in the edit.
 Screens: the real VST3 editor and the current desktop source, both with synthetic status (assets/screens/v4).
-v04: one-click share (auto share off, the default) with a cursor, the DAW-closed question before Get, a 1.6 GB
-project where only 44 MB travels, and a calmer Berlin skyline.
+v08: explicit share with auto share off, a near-frontal Get review held for 68 frames,
+and a synthetic example of 44 MB new data in a 1.6 GB project. Editorial tags name only Studio A/B.
 Each run saves the next unused scenes/versions/trackmesh-studios-vNN.blend; nothing older is touched.
 """
-import bpy, json, math
+import bpy, json, math, argparse, sys
 from pathlib import Path
 from mathutils import Vector
 ROOT = Path(__file__).resolve().parents[1]
 SCREENS = ROOT / 'assets/screens'
+parser = argparse.ArgumentParser()
+parser.add_argument('--screens', default='v4')
+parser.add_argument('--review-lighting', action='store_true')
+args = parser.parse_args(sys.argv[sys.argv.index('--') + 1:] if '--' in sys.argv else [])
 number = 1
 while (ROOT / f'scenes/versions/trackmesh-studios-v{number:02d}.blend').exists(): number += 1
 tag = f'studios-v{number:02d}'
@@ -21,7 +25,7 @@ SHOTS = [('S1 / Studio A', 1, 'A wide'), ('S2 / Save in the DAW', 97, 'A close')
          ('S4 / Get when ready', 325, 'B close'), ('S5 / PC to PC', 457, 'split'), ('S6 / Outro', 601, 'split outro')]
 PLUGIN = [('idle', 1), ('saved', 128), ('sharing', 166), ('shared', 190)]  # a DAW save, then one press on Share
 CLICK = 163  # the cursor presses Share current version
-APP = [('idle', 1), ('new', 292), ('ask', 350), ('get97', 388), ('get98', 480), ('get99', 525), ('done', 560)]
+APP = [('idle', 1), ('new', 292), ('ask', 332), ('get97', 400), ('get98', 480), ('get99', 525), ('done', 560)]
 
 scene = bpy.context.scene
 for obj in list(scene.objects): bpy.data.objects.remove(obj, do_unlink=True)
@@ -140,7 +144,7 @@ SCREEN_GLOW = 1.9
 def screen_material(label, file):
     m = bpy.data.materials.new(label); m.use_nodes = True; n = m.node_tree.nodes; n.clear()
     img = n.new('ShaderNodeTexImage'); img.image = bpy.data.images.load(str(file), check_existing=True); img.image.pack(); img.interpolation = 'Linear'
-    e = n.new('ShaderNodeEmission'); e.inputs['Strength'].default_value = SCREEN_GLOW
+    e = n.new('ShaderNodeEmission'); e.inputs['Strength'].default_value = 1.0 if args.review_lighting and label.endswith('/ ask') else SCREEN_GLOW
     out = n.new('ShaderNodeOutputMaterial')
     m.node_tree.links.new(img.outputs['Color'], e.inputs['Color']); m.node_tree.links.new(e.outputs[0], out.inputs['Surface'])
     return m
@@ -192,7 +196,7 @@ def screen_states(label, centre, w, h, states, prefix, depth=.0004):
     for i, (state, start) in enumerate(states):
         end = states[i + 1][1] - 1 if i + 1 < len(states) else END
         o = plane(f'{label} / {state}', (centre[0], centre[1] - depth * (i + 1), centre[2]), w, h,
-                  screen_material(f'{label} / {state}', SCREENS / 'v4' / f'{prefix}-{state}.png'))
+                  screen_material(f'{label} / {state}', SCREENS / args.screens / f'{prefix}-{state}.png'))
         o['provenance'] = 'Synthetic status; ' + ('real VST3 in the SDK editor host.' if prefix == 'vst3' else 'current desktop source.')
         show_between(o, start, end)
 
@@ -228,7 +232,9 @@ area('A warm wall wash right', (1.9, .9, 2.8), (1.9, 1.45, 1.6), 14, (1, .6, .32
 for x in (-2.95, 2.95): area('A corner bounce', (x, 1.25, 1.45), (x * .6, .2, 1), 10, (1, .49, .18), .04, 2)
 # The DAW fills the monitor; the real VST3 editor floats over it, one plane per plugin state.
 plane('Studio A DAW', (centre_a[0], centre_a[1], centre_a[2]), sw, sh, screen_material('Studio A DAW', SCREENS / 'daw.png'))
-pw = .44; ph = pw * 440 / 580
+plugin_image = bpy.data.images.load(str(SCREENS / args.screens / 'vst3-idle.png'), check_existing=True)
+plugin_width, plugin_height = plugin_image.size
+pw = .44; ph = pw * plugin_height / plugin_width
 screen_states('Studio A plugin', (centre_a[0], centre_a[1] - .002, centre_a[2] + .01), pw, ph, PLUGIN, 'vst3')
 box('A plugin window border', (centre_a[0], centre_a[1] + .002, centre_a[2] + .01), (pw + .006, .004, ph + .006), black, .001)
 
@@ -263,8 +269,8 @@ cursor = plane('Studio A cursor', (0, 0, 0), cs, cs, cursor_mat)
 for v in cursor.data.vertices: v.co.x += cs / 2; v.co.z -= cs / 2  # origin at the arrow tip
 def plugin_point(u, v):
     """A point on the plugin window from its pixel position (580x440 capture), just in front of it."""
-    return (centre_a[0] + (u / 580 - .5) * pw, centre_a[1] - .008, centre_a[2] + .01 + (.5 - v / 440) * ph)
-share_button = plugin_point(150, 262)
+    return (centre_a[0] + (u / plugin_width - .5) * pw, centre_a[1] - .008, centre_a[2] + .01 + (.5 - v / plugin_height) * ph)
+share_button = plugin_point(150, 208 if args.screens == 'v5' else 262)
 for frame, spot in [(1, plugin_point(470, 330)), (140, plugin_point(470, 330)), (CLICK - 3, share_button), (230, share_button)]:
     cursor.location = spot; cursor.keyframe_insert('location', frame=frame)
 for frame, scale in [(CLICK - 1, 1), (CLICK + 1, .82), (CLICK + 4, 1)]:
@@ -303,7 +309,7 @@ for k in range(44):
     bpy.ops.mesh.primitive_uv_sphere_add(radius=.11, location=(bx - 2.4 + r * math.cos(a), 1.3 + r * math.sin(a), z))
     o = put(bpy.context.object); o.name = 'B plant leaf'; o.scale = (1.0, .55, .12)
     o.rotation_euler = (0, -.55, a); o.data.materials.append(leaf)
-area('B shelf LED light', (bx + 2.8, .2, 1.51), (bx + 2.6, .2, .4), 30, (.2, .8, .74), 1.5, .04)
+area('B shelf LED light', (bx + 2.8, .2, 1.51), (bx + 2.6, .2, .4), 18 if args.review_lighting else 30, (.2, .8, .74), 1.5, .04)
 centre_b, _, _ = workstation('Studio B', bx, .95, black_oak)
 screen_states('Studio B app', centre_b, sw, sh, APP, 'app')
 
@@ -319,7 +325,7 @@ def windows_material(name, seed):
     bricks.inputs['Mortar'].default_value = (0, 0, 0, 1)
     noise = n.new('ShaderNodeTexWhiteNoise'); noise.noise_dimensions = '3D'
     snap = n.new('ShaderNodeVectorMath'); snap.operation = 'SNAP'; snap.inputs[1].default_value = (.9, .9, 1.4)
-    cut = n.new('ShaderNodeMath'); cut.operation = 'GREATER_THAN'; cut.inputs[1].default_value = .79
+    cut = n.new('ShaderNodeMath'); cut.operation = 'GREATER_THAN'; cut.inputs[1].default_value = .86 if args.review_lighting else .79
     channels = n.new('ShaderNodeSeparateColor')
     warmth = n.new('ShaderNodeValToRGB'); r = warmth.color_ramp.elements
     r[0].color = (1, .52, .22, 1); r[0].position = 0; r[1].color = (.62, .76, 1, 1); r[1].position = 1
@@ -328,7 +334,7 @@ def windows_material(name, seed):
     dim = n.new('ShaderNodeMath'); dim.operation = 'MULTIPLY'
     tint = n.new('ShaderNodeMixRGB'); tint.blend_type = 'MULTIPLY'; tint.inputs['Fac'].default_value = 1
     lit = n.new('ShaderNodeMixRGB'); lit.blend_type = 'MULTIPLY'; lit.inputs['Fac'].default_value = 1
-    e = n.new('ShaderNodeEmission'); e.inputs['Strength'].default_value = 1.3
+    e = n.new('ShaderNodeEmission'); e.inputs['Strength'].default_value = .55 if args.review_lighting else 1.3
     # A faint blue floor so the facades read as buildings against the sky, not black cut-outs.
     facade_glow = n.new('ShaderNodeMixRGB'); facade_glow.blend_type = 'ADD'; facade_glow.inputs['Fac'].default_value = 1
     facade_glow.inputs['Color2'].default_value = (.010, .014, .024, 1)
@@ -364,7 +370,7 @@ l.new(coords.outputs['Generated'], sep.inputs[0]); l.new(sep.outputs['Z'], ramp.
 box('B sky', (bx, 170, 60), (520, .5, 140), sky, 0)  # z -10..130: the warm band sits on the horizon
 # Cool moonlight and city glow through the window; the room stays dark so the screen leads.
 area('B window light', (bx, 2.4, 2.0), (bx, -.5, .9), 70, (.55, .68, 1.0), 3.4, 1.7)
-area('B soft fill', (bx, -2.6, 2.8), (bx, .5, 1.0), 14, (.75, .82, 1), 3, 1.6)
+area('B soft fill', (bx, -2.6, 2.8), (bx, .5, 1.0), 18 if args.review_lighting else 14, (.75, .82, 1), 3, 1.6)
 area('B left rim', (bx - 2.7, 1.2, 2.2), (bx, .9, 1.1), 25, (.35, .55, .9), 1, 1.6)
 
 # ---------- the direct link: a teal arc drawn between the screens in the split-screen edit ----------
@@ -393,8 +399,9 @@ cams = {
     # Focus on the desk, so the city behind the window softens and the screen leads.
     'B wide': camera('B wide', [(229, B(-2.2, -4.1, 1.75), B(0, 1.2, 1.45), 26), (324, B(-1.85, -3.55, 1.7), B(0, 1.2, 1.45), 27)],
                      focus=sb, fstop=2.0),
-    # f/4 keeps the whole angled screen sharp (the DAW question sits left of centre); the city still softens.
-    'B close': camera('B close', [(325, B(.42, -.08, 1.36), sb, 46), (456, B(.30, .10, 1.33), sb, 48)], focus=sb, fstop=4.0),
+    # Near-frontal review closeup and f/8 preserve file-list and backup-line readability.
+    'B close': camera('B close', [(325, B(.04 if args.review_lighting else .42, .02 if args.review_lighting else -.08, 1.23 if args.review_lighting else 1.36), sb, 46),
+                                 (456, B(.03 if args.review_lighting else .30, .06 if args.review_lighting else .10, 1.23 if args.review_lighting else 1.33), sb, 46 if args.review_lighting else 48)], focus=sb, fstop=8.0 if args.review_lighting else 4.0),
 }
 # Split-screen halves (960x1080 each); the render script renders both for frames 457–720.
 SPLIT = {
@@ -422,19 +429,32 @@ tree = bpy.data.node_groups.new('Screen bloom', 'CompositorNodeTree')
 tree.interface.new_socket('Image', in_out='OUTPUT', socket_type='NodeSocketColor')
 layers = tree.nodes.new('CompositorNodeRLayers'); bloom = tree.nodes.new('CompositorNodeGlare'); output = tree.nodes.new('NodeGroupOutput')
 bloom.inputs['Type'].default_value = 'Bloom'; bloom.inputs['Quality'].default_value = 'High'
-bloom.inputs['Threshold'].default_value = .55; bloom.inputs['Strength'].default_value = .45; bloom.inputs['Size'].default_value = .62
+bloom.inputs['Threshold'].default_value = 1.1 if args.review_lighting else .55
+bloom.inputs['Strength'].default_value = .22 if args.review_lighting else .45; bloom.inputs['Size'].default_value = .62
 tree.links.new(layers.outputs['Image'], bloom.inputs['Image']); tree.links.new(bloom.outputs['Image'], output.inputs[0])
 scene.compositing_node_group = tree
 scene['scene_version'] = tag
+scene['screen_asset_version'] = args.screens
+scene['review_lighting'] = args.review_lighting
+if args.screens == 'v5':
+    scene['source_provenance'] = (ROOT / 'logs/review-source-v5.json').read_text(encoding='utf-8')
+    scene['review_status'] = 'Prepared for independent review. Product actions and cross-network transfer not demonstrated.'
 scene['split_cameras'] = json.dumps({'A': 'A split', 'B': 'B split', 'from': 457})
 scene['screen_centres'] = json.dumps({'A': list(centre_a), 'B': list(centre_b)})
 scene['technical_honesty'] = ('Concept film. Screens: the real VST3 and the current desktop source with synthetic status. '
                               'No real save, share, transfer or peer connection was performed.')
 scene.camera = cams['A wide']; scene.frame_set(1)
+scene.render.filepath = str(ROOT / f'renders/frames/{tag}/frame_')
+for screen in bpy.data.screens:
+    for area_ui in screen.areas:
+        if area_ui.type == 'VIEW_3D':
+            area_ui.spaces.active.region_3d.view_perspective = 'CAMERA'
+            area_ui.spaces.active.overlay.show_overlays = False
 bpy.ops.file.pack_all()
 output_path = ROOT / f'scenes/versions/trackmesh-{tag}.blend'
 bpy.ops.wm.save_as_mainfile(filepath=str(output_path))
 manifest = {'version': tag, 'blend': str(output_path), 'fps': FPS, 'frames': END, 'shots': SHOTS, 'plugin_states': PLUGIN, 'app_states': APP,
+            'screens': args.screens, 'review_lighting': args.review_lighting,
             'meshes': sum(o.type == 'MESH' for o in scene.objects)}
 (ROOT / f'logs/{tag}.json').write_text(json.dumps(manifest, indent=2), encoding='utf-8')
 print('TRACKMESH_STUDIOS ' + json.dumps(manifest))
