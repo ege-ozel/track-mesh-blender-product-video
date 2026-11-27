@@ -20,3 +20,10 @@ renders/
 
 # Vite builds of the demo UIs (scripts/build_demo_ui*.mjs).
 demo-ui*/dist/
+
+# Frozen copies of the private TrackMesh source used by demo-ui-v5; kept on disk only.
+demo-ui*/source/
+demo-ui*/*.rs.txt
+
+# Vendored Python packages (includes an ffmpeg binary); install locally.
+tools/video-python/
